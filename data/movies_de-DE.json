@@ -1,0 +1,4005 @@
+{
+  "lang": "de-DE",
+  "movies": [
+    {
+      "imdb_id": "tt0111161",
+      "title": "Die Verurteilten"
+    },
+    {
+      "imdb_id": "tt0068646",
+      "title": "Der Pate"
+    },
+    {
+      "imdb_id": "tt0468569",
+      "title": "The Dark Knight"
+    },
+    {
+      "imdb_id": "tt0071562",
+      "title": "Der Pate 2"
+    },
+    {
+      "imdb_id": "tt0167260",
+      "title": "Der Herr der Ringe: Die R\u00fcckkehr des K\u00f6nigs"
+    },
+    {
+      "imdb_id": "tt0110912",
+      "title": "Pulp Fiction"
+    },
+    {
+      "imdb_id": "tt0108052",
+      "title": "Schindlers Liste"
+    },
+    {
+      "imdb_id": "tt0050083",
+      "title": "Die zw\u00f6lf Geschworenen"
+    },
+    {
+      "imdb_id": "tt1375666",
+      "title": "Inception"
+    },
+    {
+      "imdb_id": "tt0137523",
+      "title": "Fight Club"
+    },
+    {
+      "imdb_id": "tt0120737",
+      "title": "Der Herr der Ringe: Die Gef\u00e4hrten"
+    },
+    {
+      "imdb_id": "tt0109830",
+      "title": "Forrest Gump"
+    },
+    {
+      "imdb_id": "tt0060196",
+      "title": "Zwei glorreiche Halunken"
+    },
+    {
+      "imdb_id": "tt0167261",
+      "title": "Der Herr der Ringe: Die zwei T\u00fcrme"
+    },
+    {
+      "imdb_id": "tt0133093",
+      "title": "Matrix"
+    },
+    {
+      "imdb_id": "tt0099685",
+      "title": "GoodFellas - Drei Jahrzehnte in der Mafia"
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Das Imperium schl\u00e4gt zur\u00fcck"
+    },
+    {
+      "imdb_id": "tt0073486",
+      "title": "Einer flog \u00fcber das Kuckucksnest"
+    },
+    {
+      "imdb_id": "tt0056058",
+      "title": "Harakiri"
+    },
+    {
+      "imdb_id": "tt7286456",
+      "title": "Joker"
+    },
+    {
+      "imdb_id": "tt6751668",
+      "title": "Parasite"
+    },
+    {
+      "imdb_id": "tt0816692",
+      "title": "Interstellar"
+    },
+    {
+      "imdb_id": "tt0317248",
+      "title": "City of God"
+    },
+    {
+      "imdb_id": "tt0245429",
+      "title": "Chihiros Reise ins Zauberland"
+    },
+    {
+      "imdb_id": "tt0120815",
+      "title": "Der Soldat James Ryan"
+    },
+    {
+      "imdb_id": "tt0120689",
+      "title": "The Green Mile"
+    },
+    {
+      "imdb_id": "tt0118799",
+      "title": "Das Leben ist sch\u00f6n"
+    },
+    {
+      "imdb_id": "tt0114369",
+      "title": "Sieben"
+    },
+    {
+      "imdb_id": "tt0102926",
+      "title": "Das Schweigen der L\u00e4mmer"
+    },
+    {
+      "imdb_id": "tt0076759",
+      "title": "Krieg der Sterne"
+    },
+    {
+      "imdb_id": "tt0047478",
+      "title": "Die sieben Samurai"
+    },
+    {
+      "imdb_id": "tt0038650",
+      "title": "Ist das Leben nicht sch\u00f6n?"
+    },
+    {
+      "imdb_id": "tt8579674",
+      "title": "1917"
+    },
+    {
+      "imdb_id": "tt6316138",
+      "title": "Ayla"
+    },
+    {
+      "imdb_id": "tt4154796",
+      "title": "Avengers: Endgame"
+    },
+    {
+      "imdb_id": "tt4154756",
+      "title": "Avengers: Infinity War"
+    },
+    {
+      "imdb_id": "tt2582802",
+      "title": "Whiplash"
+    },
+    {
+      "imdb_id": "tt1675434",
+      "title": "Ziemlich beste Freunde"
+    },
+    {
+      "imdb_id": "tt0482571",
+      "title": "Prestige - Die Meister der Magie"
+    },
+    {
+      "imdb_id": "tt0407887",
+      "title": "Departed - Unter Feinden"
+    },
+    {
+      "imdb_id": "tt0253474",
+      "title": "Der Pianist"
+    },
+    {
+      "imdb_id": "tt0172495",
+      "title": "Gladiator"
+    },
+    {
+      "imdb_id": "tt0120586",
+      "title": "American History X"
+    },
+    {
+      "imdb_id": "tt0114814",
+      "title": "Die \u00fcblichen Verd\u00e4chtigen"
+    },
+    {
+      "imdb_id": "tt0110413",
+      "title": "L\u00e9on: Der Profi"
+    },
+    {
+      "imdb_id": "tt0110357",
+      "title": "Der K\u00f6nig der L\u00f6wen"
+    },
+    {
+      "imdb_id": "tt0103064",
+      "title": "Terminator 2: Tag der Abrechnung"
+    },
+    {
+      "imdb_id": "tt0095765",
+      "title": "Cinema Paradiso"
+    },
+    {
+      "imdb_id": "tt0095327",
+      "title": "Die letzten Gl\u00fchw\u00fcrmchen"
+    },
+    {
+      "imdb_id": "tt0088763",
+      "title": "Zur\u00fcck in die Zukunft"
+    },
+    {
+      "imdb_id": "tt0064116",
+      "title": "Spiel mir das Lied vom Tod"
+    },
+    {
+      "imdb_id": "tt0057565",
+      "title": "Zwischen Himmel und H\u00f6lle"
+    },
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psycho"
+    },
+    {
+      "imdb_id": "tt0034583",
+      "title": "Casablanca"
+    },
+    {
+      "imdb_id": "tt0032553",
+      "title": "Der gro\u00dfe Diktator"
+    },
+    {
+      "imdb_id": "tt0027977",
+      "title": "Moderne Zeiten"
+    },
+    {
+      "imdb_id": "tt0021749",
+      "title": "Lichter der Gro\u00dfstadt - Eine Kom\u00f6dien-Romance als Pantomime"
+    },
+    {
+      "imdb_id": "tt8291224",
+      "title": "Lethal Strike"
+    },
+    {
+      "imdb_id": "tt8267604",
+      "title": "Capernaum - Stadt der Hoffnung"
+    },
+    {
+      "imdb_id": "tt5311514",
+      "title": "Your Name."
+    },
+    {
+      "imdb_id": "tt5074352",
+      "title": "Dangal - Die Hoffnung auf den gro\u00dfen Sieg"
+    },
+    {
+      "imdb_id": "tt4633694",
+      "title": "Spider-Man: A New Universe"
+    },
+    {
+      "imdb_id": "tt3417422",
+      "title": "Drishyam"
+    },
+    {
+      "imdb_id": "tt2380307",
+      "title": "Coco - Lebendiger als das Leben"
+    },
+    {
+      "imdb_id": "tt1853728",
+      "title": "Django Unchained"
+    },
+    {
+      "imdb_id": "tt1345836",
+      "title": "The Dark Knight Rises"
+    },
+    {
+      "imdb_id": "tt1187043",
+      "title": "3 Idiots"
+    },
+    {
+      "imdb_id": "tt0986264",
+      "title": "Taare Zameen Par - Ein Stern auf Erden"
+    },
+    {
+      "imdb_id": "tt0910970",
+      "title": "WALL\u00b7E - Der Letzte r\u00e4umt die Erde auf"
+    },
+    {
+      "imdb_id": "tt0405094",
+      "title": "Das Leben der Anderen"
+    },
+    {
+      "imdb_id": "tt0364569",
+      "title": "Oldboy"
+    },
+    {
+      "imdb_id": "tt0209144",
+      "title": "Memento"
+    },
+    {
+      "imdb_id": "tt0119698",
+      "title": "Prinzessin Mononoke"
+    },
+    {
+      "imdb_id": "tt0087843",
+      "title": "Es war einmal in Amerika"
+    },
+    {
+      "imdb_id": "tt0082971",
+      "title": "J\u00e4ger des verlorenen Schatzes"
+    },
+    {
+      "imdb_id": "tt0081505",
+      "title": "Shining"
+    },
+    {
+      "imdb_id": "tt0078788",
+      "title": "Apocalypse Now"
+    },
+    {
+      "imdb_id": "tt0078748",
+      "title": "Alien - Das unheimliche Wesen aus einer fremden Welt"
+    },
+    {
+      "imdb_id": "tt0057012",
+      "title": "Dr. Seltsam oder: Wie ich lernte, die Bombe zu lieben"
+    },
+    {
+      "imdb_id": "tt0051201",
+      "title": "Zeugin der Anklage"
+    },
+    {
+      "imdb_id": "tt0050825",
+      "title": "Wege zum Ruhm"
+    },
+    {
+      "imdb_id": "tt0047396",
+      "title": "Das Fenster zum Hof"
+    },
+    {
+      "imdb_id": "tt0043014",
+      "title": "Boulevard der D\u00e4mmerung"
+    },
+    {
+      "imdb_id": "tt8108198",
+      "title": "Andhadhun"
+    },
+    {
+      "imdb_id": "tt2106476",
+      "title": "Die Jagd"
+    },
+    {
+      "imdb_id": "tt1832382",
+      "title": "Nader und Simin - eine Trennung"
+    },
+    {
+      "imdb_id": "tt1255953",
+      "title": "Die Frau die singt - Incendies"
+    },
+    {
+      "imdb_id": "tt0476735",
+      "title": "Mein Vater und mein Sohn"
+    },
+    {
+      "imdb_id": "tt0435761",
+      "title": "Toy Story 3"
+    },
+    {
+      "imdb_id": "tt0361748",
+      "title": "Inglourious Basterds"
+    },
+    {
+      "imdb_id": "tt0338013",
+      "title": "Vergiss mein nicht"
+    },
+    {
+      "imdb_id": "tt0211915",
+      "title": "Die fabelhafte Welt der Amelie"
+    },
+    {
+      "imdb_id": "tt0208092",
+      "title": "Snatch - Schweine und Diamanten"
+    },
+    {
+      "imdb_id": "tt0180093",
+      "title": "Requiem for a Dream"
+    },
+    {
+      "imdb_id": "tt0169547",
+      "title": "American Beauty"
+    },
+    {
+      "imdb_id": "tt0119217",
+      "title": "Good Will Hunting - Der gute Will Hunting"
+    },
+    {
+      "imdb_id": "tt0118849",
+      "title": "Kinder des Himmels"
+    },
+    {
+      "imdb_id": "tt0116231",
+      "title": "Eskiya - Der Bandit"
+    },
+    {
+      "imdb_id": "tt0114709",
+      "title": "Toy Story"
+    },
+    {
+      "imdb_id": "tt0112573",
+      "title": "Braveheart"
+    },
+    {
+      "imdb_id": "tt0105236",
+      "title": "Reservoir Dogs - Wilde Hunde"
+    },
+    {
+      "imdb_id": "tt0093058",
+      "title": "Full Metal Jacket"
+    },
+    {
+      "imdb_id": "tt0091251",
+      "title": "Komm und sieh'"
+    },
+    {
+      "imdb_id": "tt0090605",
+      "title": "Aliens - Die R\u00fcckkehr"
+    },
+    {
+      "imdb_id": "tt0086879",
+      "title": "Amadeus"
+    },
+    {
+      "imdb_id": "tt0086250",
+      "title": "Scarface"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Die R\u00fcckkehr der Jedi-Ritter"
+    },
+    {
+      "imdb_id": "tt0082096",
+      "title": "Das Boot"
+    },
+    {
+      "imdb_id": "tt0075314",
+      "title": "Taxi Driver"
+    },
+    {
+      "imdb_id": "tt0070735",
+      "title": "Der Clou"
+    },
+    {
+      "imdb_id": "tt0066921",
+      "title": "Uhrwerk Orange"
+    },
+    {
+      "imdb_id": "tt0062622",
+      "title": "2001: Odyssee im Weltraum"
+    },
+    {
+      "imdb_id": "tt0059578",
+      "title": "F\u00fcr ein paar Dollar mehr"
+    },
+    {
+      "imdb_id": "tt0056592",
+      "title": "Wer die Nachtigall st\u00f6rt"
+    },
+    {
+      "imdb_id": "tt0056172",
+      "title": "Lawrence von Arabien"
+    },
+    {
+      "imdb_id": "tt0053604",
+      "title": "Das Appartement"
+    },
+    {
+      "imdb_id": "tt0053125",
+      "title": "Der unsichtbare Dritte"
+    },
+    {
+      "imdb_id": "tt0052357",
+      "title": "Vertigo - Aus dem Reich der Toten"
+    },
+    {
+      "imdb_id": "tt0045152",
+      "title": "Du sollst mein Gl\u00fccksstern sein"
+    },
+    {
+      "imdb_id": "tt0044741",
+      "title": "Ikiru - Einmal wirklich leben"
+    },
+    {
+      "imdb_id": "tt0040522",
+      "title": "Fahrraddiebe"
+    },
+    {
+      "imdb_id": "tt0036775",
+      "title": "Frau ohne Gewissen"
+    },
+    {
+      "imdb_id": "tt0033467",
+      "title": "Citizen Kane"
+    },
+    {
+      "imdb_id": "tt0022100",
+      "title": "M - Eine Stadt sucht einen M\u00f6rder"
+    },
+    {
+      "imdb_id": "tt0017136",
+      "title": "Metropolis"
+    },
+    {
+      "imdb_id": "tt0012349",
+      "title": "Der Vagabund und das Kind"
+    },
+    {
+      "imdb_id": "tt7838252",
+      "title": "K.G.F: Chapter 1"
+    },
+    {
+      "imdb_id": "tt6966692",
+      "title": "Green Book: Eine besondere Freundschaft"
+    },
+    {
+      "imdb_id": "tt5571734",
+      "title": "Pink"
+    },
+    {
+      "imdb_id": "tt5323662",
+      "title": "A Silent Voice"
+    },
+    {
+      "imdb_id": "tt5027774",
+      "title": "Three Billboards Outside Ebbing, Missouri"
+    },
+    {
+      "imdb_id": "tt4934950",
+      "title": "Talvar"
+    },
+    {
+      "imdb_id": "tt4849438",
+      "title": "Baahubali 2: The Conclusion"
+    },
+    {
+      "imdb_id": "tt4729430",
+      "title": "Klaus"
+    },
+    {
+      "imdb_id": "tt4430212",
+      "title": "Drishyam"
+    },
+    {
+      "imdb_id": "tt3322420",
+      "title": "Queen"
+    },
+    {
+      "imdb_id": "tt2991224",
+      "title": "Tangerines"
+    },
+    {
+      "imdb_id": "tt2758880",
+      "title": "Winterschlaf"
+    },
+    {
+      "imdb_id": "tt2356180",
+      "title": "Der Lauf seines Lebens: The Flying Sikh"
+    },
+    {
+      "imdb_id": "tt2283748",
+      "title": "OMG: Oh My God!"
+    },
+    {
+      "imdb_id": "tt2096673",
+      "title": "Alles steht Kopf"
+    },
+    {
+      "imdb_id": "tt1954470",
+      "title": "Gangs of Wasseypur"
+    },
+    {
+      "imdb_id": "tt1950186",
+      "title": "Le Mans 66: Gegen jede Chance"
+    },
+    {
+      "imdb_id": "tt1620933",
+      "title": "Paan Singh Tomar"
+    },
+    {
+      "imdb_id": "tt1305806",
+      "title": "In ihren Augen"
+    },
+    {
+      "imdb_id": "tt1291584",
+      "title": "Warrior"
+    },
+    {
+      "imdb_id": "tt1049413",
+      "title": "Oben"
+    },
+    {
+      "imdb_id": "tt0993846",
+      "title": "The Wolf of Wall Street"
+    },
+    {
+      "imdb_id": "tt0871510",
+      "title": "Chakde! - Ein unschlagbares Team"
+    },
+    {
+      "imdb_id": "tt0469494",
+      "title": "There Will Be Blood"
+    },
+    {
+      "imdb_id": "tt0457430",
+      "title": "Pans Labyrinth"
+    },
+    {
+      "imdb_id": "tt0434409",
+      "title": "V wie Vendetta"
+    },
+    {
+      "imdb_id": "tt0405508",
+      "title": "Rang De Basanti - Die Farbe Safran"
+    },
+    {
+      "imdb_id": "tt0375611",
+      "title": "Black"
+    },
+    {
+      "imdb_id": "tt0372784",
+      "title": "Batman Begins"
+    },
+    {
+      "imdb_id": "tt0367110",
+      "title": "Swades - Heimat"
+    },
+    {
+      "imdb_id": "tt0363163",
+      "title": "Der Untergang"
+    },
+    {
+      "imdb_id": "tt0347149",
+      "title": "Das wandelnde Schloss"
+    },
+    {
+      "imdb_id": "tt0268978",
+      "title": "A Beautiful Mind - Genie und Wahnsinn"
+    },
+    {
+      "imdb_id": "tt0242519",
+      "title": "Hera Pheri"
+    },
+    {
+      "imdb_id": "tt0120735",
+      "title": "Bube Dame K\u00f6nig grAS"
+    },
+    {
+      "imdb_id": "tt0119488",
+      "title": "L.A. Confidential"
+    },
+    {
+      "imdb_id": "tt0113277",
+      "title": "Heat"
+    },
+    {
+      "imdb_id": "tt0112641",
+      "title": "Casino"
+    },
+    {
+      "imdb_id": "tt0109117",
+      "title": "Andaz Apna Apna"
+    },
+    {
+      "imdb_id": "tt0105695",
+      "title": "Erbarmungslos"
+    },
+    {
+      "imdb_id": "tt0097576",
+      "title": "Indiana Jones und der letzte Kreuzzug"
+    },
+    {
+      "imdb_id": "tt0096283",
+      "title": "Mein Nachbar Totoro"
+    },
+    {
+      "imdb_id": "tt0095016",
+      "title": "Stirb langsam"
+    },
+    {
+      "imdb_id": "tt0089881",
+      "title": "Ran"
+    },
+    {
+      "imdb_id": "tt0081398",
+      "title": "Wie ein wilder Stier"
+    },
+    {
+      "imdb_id": "tt0079944",
+      "title": "Stalker"
+    },
+    {
+      "imdb_id": "tt0074896",
+      "title": "Mohammed - Der Gesandte Gottes"
+    },
+    {
+      "imdb_id": "tt0073707",
+      "title": "Sholay"
+    },
+    {
+      "imdb_id": "tt0071853",
+      "title": "Die Ritter der Kokosnu\u00df"
+    },
+    {
+      "imdb_id": "tt0071315",
+      "title": "Chinatown"
+    },
+    {
+      "imdb_id": "tt0060107",
+      "title": "Andrej Rubljow"
+    },
+    {
+      "imdb_id": "tt0057115",
+      "title": "Gesprengte Ketten"
+    },
+    {
+      "imdb_id": "tt0055630",
+      "title": "Yojimbo - Der Leibw\u00e4chter"
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Das Urteil von N\u00fcrnberg"
+    },
+    {
+      "imdb_id": "tt0053291",
+      "title": "Manche m\u00f6gen's hei\u00df"
+    },
+    {
+      "imdb_id": "tt0050986",
+      "title": "Wilde Erdbeeren"
+    },
+    {
+      "imdb_id": "tt0050976",
+      "title": "Das siebente Siegel"
+    },
+    {
+      "imdb_id": "tt0046912",
+      "title": "Bei Anruf Mord"
+    },
+    {
+      "imdb_id": "tt0046438",
+      "title": "Die Reise nach Tokio"
+    },
+    {
+      "imdb_id": "tt0043338",
+      "title": "Reporter des Satans"
+    },
+    {
+      "imdb_id": "tt0042876",
+      "title": "Rashomon"
+    },
+    {
+      "imdb_id": "tt0042192",
+      "title": "Alles \u00fcber Eva"
+    },
+    {
+      "imdb_id": "tt0042041",
+      "title": "Maschinenpistolen"
+    },
+    {
+      "imdb_id": "tt0040897",
+      "title": "Der Schatz der Sierra Madre"
+    },
+    {
+      "imdb_id": "tt0040725",
+      "title": "Die roten Schuhe"
+    },
+    {
+      "imdb_id": "tt0015864",
+      "title": "Goldrausch"
+    },
+    {
+      "imdb_id": "tt0015324",
+      "title": "Sherlock Holmes Jr."
+    },
+    {
+      "imdb_id": "tt7653254",
+      "title": "Marriage Story"
+    },
+    {
+      "imdb_id": "tt4857264",
+      "title": "Der unsichtbare Gast"
+    },
+    {
+      "imdb_id": "tt4016934",
+      "title": "Die Taschendiebin"
+    },
+    {
+      "imdb_id": "tt3612616",
+      "title": "Mommy"
+    },
+    {
+      "imdb_id": "tt3390572",
+      "title": "Haider"
+    },
+    {
+      "imdb_id": "tt3315342",
+      "title": "Logan: The Wolverine"
+    },
+    {
+      "imdb_id": "tt3281548",
+      "title": "Little Women"
+    },
+    {
+      "imdb_id": "tt3170832",
+      "title": "Raum"
+    },
+    {
+      "imdb_id": "tt3011894",
+      "title": "Wild Tales: Jeder dreht mal durch!"
+    },
+    {
+      "imdb_id": "tt2631186",
+      "title": "Baahubali"
+    },
+    {
+      "imdb_id": "tt2338151",
+      "title": "PK - Andere Sterne, Andere Sitten"
+    },
+    {
+      "imdb_id": "tt2278388",
+      "title": "Grand Budapest Hotel"
+    },
+    {
+      "imdb_id": "tt2267998",
+      "title": "Gone Girl - Das perfekte Opfer"
+    },
+    {
+      "imdb_id": "tt2140203",
+      "title": "Ame & Yuki - Die Wolfskinder"
+    },
+    {
+      "imdb_id": "tt2119532",
+      "title": "Hacksaw Ridge - Die Entscheidung"
+    },
+    {
+      "imdb_id": "tt2082197",
+      "title": "Barfi! - Liebe braucht keine Worte"
+    },
+    {
+      "imdb_id": "tt2024544",
+      "title": "12 Years a Slave"
+    },
+    {
+      "imdb_id": "tt1979320",
+      "title": "Rush: Alles f\u00fcr den Sieg"
+    },
+    {
+      "imdb_id": "tt1895587",
+      "title": "Spotlight"
+    },
+    {
+      "imdb_id": "tt1865505",
+      "title": "Die Melodie des Meeres"
+    },
+    {
+      "imdb_id": "tt1821480",
+      "title": "Kahaani"
+    },
+    {
+      "imdb_id": "tt1639426",
+      "title": "Udaan"
+    },
+    {
+      "imdb_id": "tt1562872",
+      "title": "Man lebt nur einmal"
+    },
+    {
+      "imdb_id": "tt1454029",
+      "title": "The Help"
+    },
+    {
+      "imdb_id": "tt1392214",
+      "title": "Prisoners"
+    },
+    {
+      "imdb_id": "tt1392190",
+      "title": "Mad Max: Fury Road"
+    },
+    {
+      "imdb_id": "tt1280558",
+      "title": "A Wednesday"
+    },
+    {
+      "imdb_id": "tt1205489",
+      "title": "Gran Torino"
+    },
+    {
+      "imdb_id": "tt1201607",
+      "title": "Harry Potter und die Heiligt\u00fcmer des Todes - Teil 2"
+    },
+    {
+      "imdb_id": "tt1130884",
+      "title": "Shutter Island"
+    },
+    {
+      "imdb_id": "tt1069238",
+      "title": "Nokan - Die Kunst des Ausklangs"
+    },
+    {
+      "imdb_id": "tt1028532",
+      "title": "Hachiko - Eine wunderbare Freundschaft"
+    },
+    {
+      "imdb_id": "tt0978762",
+      "title": "Mary & Max, oder - Schrumpfen Schafe, wenn es regnet"
+    },
+    {
+      "imdb_id": "tt0892769",
+      "title": "Drachenz\u00e4hmen leicht gemacht"
+    },
+    {
+      "imdb_id": "tt0861739",
+      "title": "Tropa de Elite"
+    },
+    {
+      "imdb_id": "tt0758758",
+      "title": "Into the Wild"
+    },
+    {
+      "imdb_id": "tt0477348",
+      "title": "No Country for Old Men"
+    },
+    {
+      "imdb_id": "tt0456144",
+      "title": "Lage Raho Munna Bhai"
+    },
+    {
+      "imdb_id": "tt0405159",
+      "title": "Million Dollar Baby"
+    },
+    {
+      "imdb_id": "tt0395169",
+      "title": "Hotel Ruanda"
+    },
+    {
+      "imdb_id": "tt0386064",
+      "title": "Brotherhood"
+    },
+    {
+      "imdb_id": "tt0374887",
+      "title": "Munna Bhai M.B.B.S."
+    },
+    {
+      "imdb_id": "tt0353969",
+      "title": "Memories of Murder"
+    },
+    {
+      "imdb_id": "tt0292490",
+      "title": "Dil Chahta Hai"
+    },
+    {
+      "imdb_id": "tt0266697",
+      "title": "Kill Bill: Vol. 1"
+    },
+    {
+      "imdb_id": "tt0266543",
+      "title": "Findet Nemo"
+    },
+    {
+      "imdb_id": "tt0264464",
+      "title": "Catch Me If You Can"
+    },
+    {
+      "imdb_id": "tt0245712",
+      "title": "Amores perros"
+    },
+    {
+      "imdb_id": "tt0169858",
+      "title": "Neon Genesis Evangelion - The End of Evangelion"
+    },
+    {
+      "imdb_id": "tt0169102",
+      "title": "Lagaan - Es war einmal in Indien"
+    },
+    {
+      "imdb_id": "tt0167404",
+      "title": "Sixth Sense"
+    },
+    {
+      "imdb_id": "tt0120731",
+      "title": "Die Legende vom Ozeanpianisten"
+    },
+    {
+      "imdb_id": "tt0120382",
+      "title": "Die Truman Show"
+    },
+    {
+      "imdb_id": "tt0118843",
+      "title": "Schwarze Katze, wei\u00dfer Kater"
+    },
+    {
+      "imdb_id": "tt0118715",
+      "title": "The Big Lebowski"
+    },
+    {
+      "imdb_id": "tt0118694",
+      "title": "In the Mood for Love - Der Klang der Liebe"
+    },
+    {
+      "imdb_id": "tt0117951",
+      "title": "Trainspotting - Neue Helden"
+    },
+    {
+      "imdb_id": "tt0116282",
+      "title": "Fargo - Blutiger Schnee"
+    },
+    {
+      "imdb_id": "tt0114787",
+      "title": "Underground"
+    },
+    {
+      "imdb_id": "tt0113247",
+      "title": "Hass"
+    },
+    {
+      "imdb_id": "tt0112870",
+      "title": "Dilwale Dulhania Le Jayenge"
+    },
+    {
+      "imdb_id": "tt0112471",
+      "title": "Before Sunrise - Zwischenstopp in Wien"
+    },
+    {
+      "imdb_id": "tt0111495",
+      "title": "Drei Farben - Rot"
+    },
+    {
+      "imdb_id": "tt0109424",
+      "title": "Chungking Express"
+    },
+    {
+      "imdb_id": "tt0107290",
+      "title": "Jurassic Park"
+    },
+    {
+      "imdb_id": "tt0107207",
+      "title": "Im Namen des Vaters"
+    },
+    {
+      "imdb_id": "tt0101640",
+      "title": "Rote Laterne"
+    },
+    {
+      "imdb_id": "tt0097165",
+      "title": "Der Club der toten Dichter"
+    },
+    {
+      "imdb_id": "tt0093779",
+      "title": "Die Braut des Prinzen"
+    },
+    {
+      "imdb_id": "tt0092005",
+      "title": "Stand by Me - Das Geheimnis eines Sommers"
+    },
+    {
+      "imdb_id": "tt0091763",
+      "title": "Platoon"
+    },
+    {
+      "imdb_id": "tt0087884",
+      "title": "Paris, Texas"
+    },
+    {
+      "imdb_id": "tt0087544",
+      "title": "Nausica\u00e4 - Prinzessin aus dem Tal der Winde"
+    },
+    {
+      "imdb_id": "tt0084787",
+      "title": "Das Ding aus einer anderen Welt"
+    },
+    {
+      "imdb_id": "tt0084503",
+      "title": "Pink Floyd - The Wall"
+    },
+    {
+      "imdb_id": "tt0083946",
+      "title": "Fitzcarraldo"
+    },
+    {
+      "imdb_id": "tt0083922",
+      "title": "Fanny und Alexander"
+    },
+    {
+      "imdb_id": "tt0083658",
+      "title": "Der Blade Runner"
+    },
+    {
+      "imdb_id": "tt0080678",
+      "title": "Der Elefantenmensch"
+    },
+    {
+      "imdb_id": "tt0079470",
+      "title": "Das Leben des Brian"
+    },
+    {
+      "imdb_id": "tt0077416",
+      "title": "Die durch die H\u00f6lle gehen"
+    },
+    {
+      "imdb_id": "tt0075148",
+      "title": "Rocky"
+    },
+    {
+      "imdb_id": "tt0074958",
+      "title": "Network"
+    },
+    {
+      "imdb_id": "tt0072684",
+      "title": "Barry Lyndon"
+    },
+    {
+      "imdb_id": "tt0072443",
+      "title": "Der Spiegel"
+    },
+    {
+      "imdb_id": "tt0069467",
+      "title": "Schreie und Fl\u00fcstern"
+    },
+    {
+      "imdb_id": "tt0069293",
+      "title": "Solaris"
+    },
+    {
+      "imdb_id": "tt0062229",
+      "title": "Der eiskalte Engel"
+    },
+    {
+      "imdb_id": "tt0061512",
+      "title": "Der Unbeugsame"
+    },
+    {
+      "imdb_id": "tt0060827",
+      "title": "Persona"
+    },
+    {
+      "imdb_id": "tt0058946",
+      "title": "Schlacht um Algier"
+    },
+    {
+      "imdb_id": "tt0056732",
+      "title": "Der W\u00fcrgeengel"
+    },
+    {
+      "imdb_id": "tt0056687",
+      "title": "Was geschah wirklich mit Baby Jane?"
+    },
+    {
+      "imdb_id": "tt0056443",
+      "title": "Sanjuro"
+    },
+    {
+      "imdb_id": "tt0056217",
+      "title": "Der Mann der Liberty Valance erschoss"
+    },
+    {
+      "imdb_id": "tt0056111",
+      "title": "Iwans Kindheit"
+    },
+    {
+      "imdb_id": "tt0053946",
+      "title": "Wer den Wind s\u00e4t"
+    },
+    {
+      "imdb_id": "tt0053198",
+      "title": "Sie k\u00fc\u00dften und sie schlugen ihn"
+    },
+    {
+      "imdb_id": "tt0052618",
+      "title": "Ben Hur"
+    },
+    {
+      "imdb_id": "tt0051808",
+      "title": "Die verborgene Festung"
+    },
+    {
+      "imdb_id": "tt0051036",
+      "title": "Dein Schicksal in meiner Hand"
+    },
+    {
+      "imdb_id": "tt0050783",
+      "title": "Die N\u00e4chte der Cabiria"
+    },
+    {
+      "imdb_id": "tt0050613",
+      "title": "Das Schlo\u00df im Spinnwebwald"
+    },
+    {
+      "imdb_id": "tt0050212",
+      "title": "Die Br\u00fccke am Kwai"
+    },
+    {
+      "imdb_id": "tt0047296",
+      "title": "Die Faust im Nacken"
+    },
+    {
+      "imdb_id": "tt0046268",
+      "title": "Lohn der Angst"
+    },
+    {
+      "imdb_id": "tt0041959",
+      "title": "Der dritte Mann"
+    },
+    {
+      "imdb_id": "tt0033045",
+      "title": "Rendezvous nach Ladenschlu\u00df"
+    },
+    {
+      "imdb_id": "tt0032976",
+      "title": "Rebecca"
+    },
+    {
+      "imdb_id": "tt0031885",
+      "title": "Die Spielregel"
+    },
+    {
+      "imdb_id": "tt0031679",
+      "title": "Mr. Smith geht nach Washington"
+    },
+    {
+      "imdb_id": "tt0031381",
+      "title": "Vom Winde verweht"
+    },
+    {
+      "imdb_id": "tt0028950",
+      "title": "Die gro\u00dfe Illusion"
+    },
+    {
+      "imdb_id": "tt0025316",
+      "title": "Es geschah in einer Nacht"
+    },
+    {
+      "imdb_id": "tt0019254",
+      "title": "Johanna von Orl\u00e9ans"
+    },
+    {
+      "imdb_id": "tt0018455",
+      "title": "Sonnenaufgang"
+    },
+    {
+      "imdb_id": "tt0017925",
+      "title": "Der General"
+    },
+    {
+      "imdb_id": "tt0010323",
+      "title": "Das Cabinet des Dr. Caligari"
+    },
+    {
+      "imdb_id": "tt8946378",
+      "title": "Knives Out - Mord ist Familiensache"
+    },
+    {
+      "imdb_id": "tt8075192",
+      "title": "Shoplifters - Familienbande"
+    },
+    {
+      "imdb_id": "tt4387040",
+      "title": "Airlift"
+    },
+    {
+      "imdb_id": "tt3863552",
+      "title": "Bajrangi Bhaijaan"
+    },
+    {
+      "imdb_id": "tt3848892",
+      "title": "Baby"
+    },
+    {
+      "imdb_id": "tt3783958",
+      "title": "La La Land"
+    },
+    {
+      "imdb_id": "tt3741834",
+      "title": "Lion: Der lange Weg nach Hause"
+    },
+    {
+      "imdb_id": "tt3659388",
+      "title": "Der Marsianer - Rettet Mark Watney"
+    },
+    {
+      "imdb_id": "tt3544112",
+      "title": "Sing Street"
+    },
+    {
+      "imdb_id": "tt2948356",
+      "title": "Zoomania"
+    },
+    {
+      "imdb_id": "tt2584384",
+      "title": "Jojo Rabbit"
+    },
+    {
+      "imdb_id": "tt2576852",
+      "title": "Die Legende der Prinzessin Kaguya"
+    },
+    {
+      "imdb_id": "tt2543472",
+      "title": "Wunder"
+    },
+    {
+      "imdb_id": "tt2377938",
+      "title": "Special Chabbis"
+    },
+    {
+      "imdb_id": "tt2370248",
+      "title": "Short Term 12 - Stille Helden"
+    },
+    {
+      "imdb_id": "tt2265171",
+      "title": "The Raid 2"
+    },
+    {
+      "imdb_id": "tt2084970",
+      "title": "The Imitation Game - Ein streng geheimes Leben"
+    },
+    {
+      "imdb_id": "tt2015381",
+      "title": "Guardians of the Galaxy"
+    },
+    {
+      "imdb_id": "tt1877832",
+      "title": "X-Men: Zukunft ist Vergangenheit"
+    },
+    {
+      "imdb_id": "tt1856101",
+      "title": "Blade Runner 2049"
+    },
+    {
+      "imdb_id": "tt1798709",
+      "title": "Her"
+    },
+    {
+      "imdb_id": "tt1727824",
+      "title": "Bohemian Rhapsody"
+    },
+    {
+      "imdb_id": "tt1663202",
+      "title": "The Revenant - Der R\u00fcckkehrer"
+    },
+    {
+      "imdb_id": "tt1659337",
+      "title": "Vielleicht lieber morgen"
+    },
+    {
+      "imdb_id": "tt1555149",
+      "title": "Elite Squad: Im Sumpf der Korruption"
+    },
+    {
+      "imdb_id": "tt1504320",
+      "title": "The King's Speech - Die Rede des K\u00f6nigs"
+    },
+    {
+      "imdb_id": "tt1431045",
+      "title": "Deadpool"
+    },
+    {
+      "imdb_id": "tt1360860",
+      "title": "Alles \u00fcber Elly"
+    },
+    {
+      "imdb_id": "tt1327035",
+      "title": "Dev.D"
+    },
+    {
+      "imdb_id": "tt1302006",
+      "title": "The Irishman"
+    },
+    {
+      "imdb_id": "tt1220719",
+      "title": "Ip Man"
+    },
+    {
+      "imdb_id": "tt1188996",
+      "title": "My Name Is Khan"
+    },
+    {
+      "imdb_id": "tt1171701",
+      "title": "Nefes - Der Atemzug"
+    },
+    {
+      "imdb_id": "tt1010048",
+      "title": "Slumdog Million\u00e4r"
+    },
+    {
+      "imdb_id": "tt0947798",
+      "title": "Black Swan"
+    },
+    {
+      "imdb_id": "tt0848228",
+      "title": "The Avengers"
+    },
+    {
+      "imdb_id": "tt0808417",
+      "title": "Persepolis"
+    },
+    {
+      "imdb_id": "tt0790636",
+      "title": "Dallas Buyers Club"
+    },
+    {
+      "imdb_id": "tt0454921",
+      "title": "Das Streben nach Gl\u00fcck"
+    },
+    {
+      "imdb_id": "tt0450259",
+      "title": "Blood Diamond"
+    },
+    {
+      "imdb_id": "tt0440963",
+      "title": "Das Bourne Ultimatum"
+    },
+    {
+      "imdb_id": "tt0423866",
+      "title": "Bin-Jip - Leere H\u00e4user"
+    },
+    {
+      "imdb_id": "tt0401792",
+      "title": "Sin City"
+    },
+    {
+      "imdb_id": "tt0401383",
+      "title": "Schmetterling und Taucherglocke"
+    },
+    {
+      "imdb_id": "tt0384116",
+      "title": "G.O.R.A."
+    },
+    {
+      "imdb_id": "tt0382932",
+      "title": "Ratatouille"
+    },
+    {
+      "imdb_id": "tt0381681",
+      "title": "Before Sunset"
+    },
+    {
+      "imdb_id": "tt0381061",
+      "title": "James Bond 007 - Casino Royale"
+    },
+    {
+      "imdb_id": "tt0378194",
+      "title": "Kill Bill: Vol. 2"
+    },
+    {
+      "imdb_id": "tt0376968",
+      "title": "Die R\u00fcckkehr"
+    },
+    {
+      "imdb_id": "tt0374546",
+      "title": "Fr\u00fchling, Sommer, Herbst, Winter... und Fr\u00fchling"
+    },
+    {
+      "imdb_id": "tt0369702",
+      "title": "Das Meer in mir"
+    },
+    {
+      "imdb_id": "tt0352248",
+      "title": "Das Comeback"
+    },
+    {
+      "imdb_id": "tt0347304",
+      "title": "Indian Love Story - Kal Ho Naa Ho"
+    },
+    {
+      "imdb_id": "tt0338564",
+      "title": "Infernal Affairs - Die achte H\u00f6lle"
+    },
+    {
+      "imdb_id": "tt0325980",
+      "title": "Fluch der Karibik"
+    },
+    {
+      "imdb_id": "tt0319061",
+      "title": "Big Fish - Der Zauber, der ein Leben zur Legende macht"
+    },
+    {
+      "imdb_id": "tt0317705",
+      "title": "Die Unglaublichen"
+    },
+    {
+      "imdb_id": "tt0293715",
+      "title": "Miss Unerh\u00f6rt!"
+    },
+    {
+      "imdb_id": "tt0276919",
+      "title": "Dogville"
+    },
+    {
+      "imdb_id": "tt0270053",
+      "title": "Vison Tele"
+    },
+    {
+      "imdb_id": "tt0246578",
+      "title": "Donnie Darko"
+    },
+    {
+      "imdb_id": "tt0198781",
+      "title": "Die Monster AG"
+    },
+    {
+      "imdb_id": "tt0175880",
+      "title": "Magnolia"
+    },
+    {
+      "imdb_id": "tt0168629",
+      "title": "Dancer in the Dark"
+    },
+    {
+      "imdb_id": "tt0166896",
+      "title": "The Straight Story - Eine wahre Geschichte"
+    },
+    {
+      "imdb_id": "tt0156887",
+      "title": "Perfect Blue"
+    },
+    {
+      "imdb_id": "tt0154420",
+      "title": "Das Fest"
+    },
+    {
+      "imdb_id": "tt0140888",
+      "title": "Central Station"
+    },
+    {
+      "imdb_id": "tt0129167",
+      "title": "Der Gigant aus dem All"
+    },
+    {
+      "imdb_id": "tt0119472",
+      "title": "Knockin' on Heaven's Door"
+    },
+    {
+      "imdb_id": "tt0117666",
+      "title": "Sling Blade - Auf Messers Schneide"
+    },
+    {
+      "imdb_id": "tt0117589",
+      "title": "L\u00fcgen und Geheimnisse"
+    },
+    {
+      "imdb_id": "tt0114746",
+      "title": "12 Monkeys"
+    },
+    {
+      "imdb_id": "tt0113824",
+      "title": "Stimme des Herzens"
+    },
+    {
+      "imdb_id": "tt0113568",
+      "title": "Ghost in the Shell"
+    },
+    {
+      "imdb_id": "tt0107688",
+      "title": "Nightmare Before Christmas"
+    },
+    {
+      "imdb_id": "tt0107048",
+      "title": "... und t\u00e4glich gr\u00fc\u00dft das Murmeltier"
+    },
+    {
+      "imdb_id": "tt0106469",
+      "title": "Blood in Blood Out - Verschworen auf Leben und Tod"
+    },
+    {
+      "imdb_id": "tt0105323",
+      "title": "Der Duft der Frauen"
+    },
+    {
+      "imdb_id": "tt0103639",
+      "title": "Aladdin"
+    },
+    {
+      "imdb_id": "tt0102138",
+      "title": "JFK: Tatort Dallas"
+    },
+    {
+      "imdb_id": "tt0101414",
+      "title": "Die Sch\u00f6ne und das Biest"
+    },
+    {
+      "imdb_id": "tt0099348",
+      "title": "Der mit dem Wolf tanzt"
+    },
+    {
+      "imdb_id": "tt0095953",
+      "title": "Rain Man"
+    },
+    {
+      "imdb_id": "tt0094625",
+      "title": "Akira"
+    },
+    {
+      "imdb_id": "tt0093191",
+      "title": "Der Himmel \u00fcber Berlin"
+    },
+    {
+      "imdb_id": "tt0092593",
+      "title": "Auf Wiedersehen, Kinder"
+    },
+    {
+      "imdb_id": "tt0092067",
+      "title": "Das Schloss im Himmel"
+    },
+    {
+      "imdb_id": "tt0088247",
+      "title": "Terminator"
+    },
+    {
+      "imdb_id": "tt0085334",
+      "title": "Fr\u00f6hliche Weihnachten"
+    },
+    {
+      "imdb_id": "tt0083987",
+      "title": "Gandhi"
+    },
+    {
+      "imdb_id": "tt0080979",
+      "title": "Kagemusha - Der Schatten des Kriegers"
+    },
+    {
+      "imdb_id": "tt0078841",
+      "title": "Willkommen, Mr. Chance"
+    },
+    {
+      "imdb_id": "tt0075686",
+      "title": "Der Stadtneurotiker"
+    },
+    {
+      "imdb_id": "tt0074119",
+      "title": "Die Unbestechlichen"
+    },
+    {
+      "imdb_id": "tt0073195",
+      "title": "Der wei\u00dfe Hai"
+    },
+    {
+      "imdb_id": "tt0072890",
+      "title": "Hundstage"
+    },
+    {
+      "imdb_id": "tt0072431",
+      "title": "Frankenstein Junior"
+    },
+    {
+      "imdb_id": "tt0070511",
+      "title": "Papillon"
+    },
+    {
+      "imdb_id": "tt0070510",
+      "title": "Paper Moon"
+    },
+    {
+      "imdb_id": "tt0070047",
+      "title": "Der Exorzist"
+    },
+    {
+      "imdb_id": "tt0069281",
+      "title": "Mord mit kleinen Fehlern"
+    },
+    {
+      "imdb_id": "tt0068182",
+      "title": "Aguirre, der Zorn Gottes"
+    },
+    {
+      "imdb_id": "tt0067328",
+      "title": "Die letzte Vorstellung"
+    },
+    {
+      "imdb_id": "tt0067093",
+      "title": "Anatevka"
+    },
+    {
+      "imdb_id": "tt0064115",
+      "title": "Zwei Banditen"
+    },
+    {
+      "imdb_id": "tt0063522",
+      "title": "Rosemaries Baby"
+    },
+    {
+      "imdb_id": "tt0063442",
+      "title": "Planet der Affen"
+    },
+    {
+      "imdb_id": "tt0061811",
+      "title": "In der Hitze der Nacht"
+    },
+    {
+      "imdb_id": "tt0061722",
+      "title": "Die Reifepr\u00fcfung"
+    },
+    {
+      "imdb_id": "tt0061184",
+      "title": "Wer hat Angst vor Virginia Woolf?"
+    },
+    {
+      "imdb_id": "tt0059742",
+      "title": "Meine Lieder, meine Tr\u00e4ume"
+    },
+    {
+      "imdb_id": "tt0059113",
+      "title": "Doktor Schiwago"
+    },
+    {
+      "imdb_id": "tt0058461",
+      "title": "F\u00fcr eine Handvoll Dollar"
+    },
+    {
+      "imdb_id": "tt0056801",
+      "title": "Achteinhalb"
+    },
+    {
+      "imdb_id": "tt0054997",
+      "title": "Haie der Gro\u00dfstadt"
+    },
+    {
+      "imdb_id": "tt0053779",
+      "title": "Das s\u00fc\u00dfe Leben"
+    },
+    {
+      "imdb_id": "tt0053221",
+      "title": "Rio Bravo"
+    },
+    {
+      "imdb_id": "tt0052561",
+      "title": "Anatomie eines Mordes"
+    },
+    {
+      "imdb_id": "tt0052311",
+      "title": "Im Zeichen des B\u00f6sen"
+    },
+    {
+      "imdb_id": "tt0051459",
+      "title": "Die Katze auf dem hei\u00dfen Blechdach"
+    },
+    {
+      "imdb_id": "tt0049406",
+      "title": "Die Rechnung ging nicht auf"
+    },
+    {
+      "imdb_id": "tt0048424",
+      "title": "Die Nacht des J\u00e4gers"
+    },
+    {
+      "imdb_id": "tt0047528",
+      "title": "Das Lied der Stra\u00dfe"
+    },
+    {
+      "imdb_id": "tt0046911",
+      "title": "Die Teuflischen"
+    },
+    {
+      "imdb_id": "tt0046359",
+      "title": "Stalag 17"
+    },
+    {
+      "imdb_id": "tt0046250",
+      "title": "Ein Herz und eine Krone"
+    },
+    {
+      "imdb_id": "tt0044081",
+      "title": "Endstation Sehnsucht"
+    },
+    {
+      "imdb_id": "tt0044079",
+      "title": "Der Fremde im Zug"
+    },
+    {
+      "imdb_id": "tt0041546",
+      "title": "Adel verpflichtet"
+    },
+    {
+      "imdb_id": "tt0040746",
+      "title": "Cocktail f\u00fcr eine Leiche"
+    },
+    {
+      "imdb_id": "tt0039689",
+      "title": "Goldenes Gift"
+    },
+    {
+      "imdb_id": "tt0037558",
+      "title": "Begegnung"
+    },
+    {
+      "imdb_id": "tt0037008",
+      "title": "Laura"
+    },
+    {
+      "imdb_id": "tt0036868",
+      "title": "Die besten Jahre unseres Lebens"
+    },
+    {
+      "imdb_id": "tt0036613",
+      "title": "Arsen und Spitzenh\u00e4ubchen"
+    },
+    {
+      "imdb_id": "tt0033870",
+      "title": "Die Spur des Falken"
+    },
+    {
+      "imdb_id": "tt0032551",
+      "title": "Fr\u00fcchte des Zorns"
+    },
+    {
+      "imdb_id": "tt0032138",
+      "title": "Der Zauberer von Oz"
+    },
+    {
+      "imdb_id": "tt0020629",
+      "title": "Im Westen nichts Neues"
+    },
+    {
+      "imdb_id": "tt0015648",
+      "title": "Panzerkreuzer Potemkin"
+    },
+    {
+      "imdb_id": "tt5726616",
+      "title": "Call Me by Your Name"
+    },
+    {
+      "imdb_id": "tt5168192",
+      "title": "Ich, Daniel Blake"
+    },
+    {
+      "imdb_id": "tt5104604",
+      "title": "Ataris Reise"
+    },
+    {
+      "imdb_id": "tt5013056",
+      "title": "Dunkirk"
+    },
+    {
+      "imdb_id": "tt4698684",
+      "title": "Wo die wilden Menschen jagen"
+    },
+    {
+      "imdb_id": "tt3553976",
+      "title": "Captain Fantastic: Einmal Wildnis und zur\u00fcck"
+    },
+    {
+      "imdb_id": "tt3501632",
+      "title": "Thor: Tag der Entscheidung"
+    },
+    {
+      "imdb_id": "tt2872718",
+      "title": "Nightcrawler - Jede Nacht hat ihren Preis"
+    },
+    {
+      "imdb_id": "tt2543164",
+      "title": "Arrival"
+    },
+    {
+      "imdb_id": "tt2488496",
+      "title": "Star Wars - Episode VII: Das Erwachen der Macht"
+    },
+    {
+      "imdb_id": "tt2209418",
+      "title": "Before Midnight"
+    },
+    {
+      "imdb_id": "tt1979376",
+      "title": "A Toy Story: Alles h\u00f6rt auf kein Kommando"
+    },
+    {
+      "imdb_id": "tt1827487",
+      "title": "Once Upon a Time in Anatolia"
+    },
+    {
+      "imdb_id": "tt1655442",
+      "title": "The Artist"
+    },
+    {
+      "imdb_id": "tt1631867",
+      "title": "Edge of Tomorrow - Live. Die. Repeat"
+    },
+    {
+      "imdb_id": "tt1602620",
+      "title": "Liebe"
+    },
+    {
+      "imdb_id": "tt1398426",
+      "title": "Straight Outta Compton"
+    },
+    {
+      "imdb_id": "tt1235166",
+      "title": "Ein Prophet"
+    },
+    {
+      "imdb_id": "tt1190539",
+      "title": "The Chaser"
+    },
+    {
+      "imdb_id": "tt1182345",
+      "title": "Moon"
+    },
+    {
+      "imdb_id": "tt1139797",
+      "title": "So finster die Nacht"
+    },
+    {
+      "imdb_id": "tt1136608",
+      "title": "District 9"
+    },
+    {
+      "imdb_id": "tt1125849",
+      "title": "The Wrestler - Ruhm, Liebe, Schmerz"
+    },
+    {
+      "imdb_id": "tt1093370",
+      "title": "Als ich Dich traf"
+    },
+    {
+      "imdb_id": "tt1065073",
+      "title": "Boyhood"
+    },
+    {
+      "imdb_id": "tt1032846",
+      "title": "4 Monate, 3 Wochen und 2 Tage"
+    },
+    {
+      "imdb_id": "tt0796366",
+      "title": "Star Trek"
+    },
+    {
+      "imdb_id": "tt0780536",
+      "title": "Br\u00fcgge sehen... und sterben?"
+    },
+    {
+      "imdb_id": "tt0756683",
+      "title": "The Man from Earth"
+    },
+    {
+      "imdb_id": "tt0498380",
+      "title": "Letters from Iwo Jima"
+    },
+    {
+      "imdb_id": "tt0460791",
+      "title": "The Fall"
+    },
+    {
+      "imdb_id": "tt0454876",
+      "title": "Life of Pi: Schiffbruch mit Tiger"
+    },
+    {
+      "imdb_id": "tt0401085",
+      "title": "C.R.A.Z.Y. - Verr\u00fccktes Leben"
+    },
+    {
+      "imdb_id": "tt0372824",
+      "title": "Die Kinder des Monsieur Mathieu"
+    },
+    {
+      "imdb_id": "tt0371746",
+      "title": "Iron Man"
+    },
+    {
+      "imdb_id": "tt0365748",
+      "title": "Shaun of the Dead"
+    },
+    {
+      "imdb_id": "tt0347048",
+      "title": "Gegen die Wand"
+    },
+    {
+      "imdb_id": "tt0327056",
+      "title": "Mystic River"
+    },
+    {
+      "imdb_id": "tt0304141",
+      "title": "Harry Potter und der Gefangene von Askaban"
+    },
+    {
+      "imdb_id": "tt0299977",
+      "title": "Hero"
+    },
+    {
+      "imdb_id": "tt0287467",
+      "title": "Sprich mit ihr"
+    },
+    {
+      "imdb_id": "tt0283509",
+      "title": "No Man's Land"
+    },
+    {
+      "imdb_id": "tt0275277",
+      "title": "Cowboy Bebop - Der Film"
+    },
+    {
+      "imdb_id": "tt0258463",
+      "title": "Die Bourne Identit\u00e4t"
+    },
+    {
+      "imdb_id": "tt0247586",
+      "title": "Nine Queens"
+    },
+    {
+      "imdb_id": "tt0206634",
+      "title": "Children of Men"
+    },
+    {
+      "imdb_id": "tt0181875",
+      "title": "Almost Famous - Fast ber\u00fchmt"
+    },
+    {
+      "imdb_id": "tt0166924",
+      "title": "Mulholland Drive"
+    },
+    {
+      "imdb_id": "tt0120363",
+      "title": "Toy Story 2"
+    },
+    {
+      "imdb_id": "tt0118749",
+      "title": "Boogie Nights"
+    },
+    {
+      "imdb_id": "tt0115751",
+      "title": "Breaking the Waves"
+    },
+    {
+      "imdb_id": "tt0110729",
+      "title": "Die letzte Kriegerin"
+    },
+    {
+      "imdb_id": "tt0108399",
+      "title": "True Romance"
+    },
+    {
+      "imdb_id": "tt0108394",
+      "title": "Drei Farben - Blau"
+    },
+    {
+      "imdb_id": "tt0107692",
+      "title": "Ninja Scroll"
+    },
+    {
+      "imdb_id": "tt0106519",
+      "title": "Carlito's Way"
+    },
+    {
+      "imdb_id": "tt0099487",
+      "title": "Edward mit den Scherenh\u00e4nden"
+    },
+    {
+      "imdb_id": "tt0097937",
+      "title": "Mein linker Fu\u00df"
+    },
+    {
+      "imdb_id": "tt0097814",
+      "title": "Kikis kleiner Lieferservice"
+    },
+    {
+      "imdb_id": "tt0097216",
+      "title": "Do the Right Thing"
+    },
+    {
+      "imdb_id": "tt0097123",
+      "title": "Verbrechen und andere Kleinigkeiten"
+    },
+    {
+      "imdb_id": "tt0094226",
+      "title": "Die Unbestechlichen"
+    },
+    {
+      "imdb_id": "tt0091167",
+      "title": "Hannah und ihre Schwestern"
+    },
+    {
+      "imdb_id": "tt0088847",
+      "title": "Der Fr\u00fchst\u00fccksclub"
+    },
+    {
+      "imdb_id": "tt0088846",
+      "title": "Brazil"
+    },
+    {
+      "imdb_id": "tt0088258",
+      "title": "Die Jungs von Spinal Tap"
+    },
+    {
+      "imdb_id": "tt0080455",
+      "title": "Blues Brothers"
+    },
+    {
+      "imdb_id": "tt0079522",
+      "title": "Manhattan"
+    },
+    {
+      "imdb_id": "tt0078754",
+      "title": "Hinter dem Rampenlicht"
+    },
+    {
+      "imdb_id": "tt0077405",
+      "title": "Tage des Himmels"
+    },
+    {
+      "imdb_id": "tt0077402",
+      "title": "Zombie"
+    },
+    {
+      "imdb_id": "tt0075029",
+      "title": "Der Texaner"
+    },
+    {
+      "imdb_id": "tt0071615",
+      "title": "Montana Sacra - Der heilige Berg"
+    },
+    {
+      "imdb_id": "tt0071129",
+      "title": "Amarcord"
+    },
+    {
+      "imdb_id": "tt0068361",
+      "title": "Der diskrete Charme der Bourgeoisie"
+    },
+    {
+      "imdb_id": "tt0067185",
+      "title": "Harold und Maude"
+    },
+    {
+      "imdb_id": "tt0066206",
+      "title": "Patton - Rebell in Uniform"
+    },
+    {
+      "imdb_id": "tt0065214",
+      "title": "The Wild Bunch - Sie kannten kein Gesetz"
+    },
+    {
+      "imdb_id": "tt0063350",
+      "title": "Die Nacht der lebenden Toten"
+    },
+    {
+      "imdb_id": "tt0063227",
+      "title": "Der L\u00f6we im Winter"
+    },
+    {
+      "imdb_id": "tt0056923",
+      "title": "Charade"
+    },
+    {
+      "imdb_id": "tt0056218",
+      "title": "Botschafter der Angst"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus"
+    },
+    {
+      "imdb_id": "tt0053472",
+      "title": "Ausser Atem"
+    },
+    {
+      "imdb_id": "tt0052893",
+      "title": "Hiroshima, mon amour"
+    },
+    {
+      "imdb_id": "tt0049730",
+      "title": "Der schwarze Falke"
+    },
+    {
+      "imdb_id": "tt0048028",
+      "title": "Jenseits von Eden"
+    },
+    {
+      "imdb_id": "tt0044706",
+      "title": "Zw\u00f6lf Uhr mittags"
+    },
+    {
+      "imdb_id": "tt0042546",
+      "title": "Mein Freund Harvey"
+    },
+    {
+      "imdb_id": "tt0039628",
+      "title": "Das Wunder von Manhattan"
+    },
+    {
+      "imdb_id": "tt0038787",
+      "title": "Ber\u00fcchtigt"
+    },
+    {
+      "imdb_id": "tt0038355",
+      "title": "Tote schlafen fest"
+    },
+    {
+      "imdb_id": "tt0037884",
+      "title": "Das verlorene Wochenende"
+    },
+    {
+      "imdb_id": "tt0037382",
+      "title": "Haben und Nichthaben"
+    },
+    {
+      "imdb_id": "tt0036342",
+      "title": "Im Schatten des Zweifels"
+    },
+    {
+      "imdb_id": "tt0032904",
+      "title": "Die Nacht vor der Hochzeit"
+    },
+    {
+      "imdb_id": "tt0032599",
+      "title": "Sein M\u00e4dchen f\u00fcr besondere F\u00e4lle"
+    },
+    {
+      "imdb_id": "tt0031971",
+      "title": "H\u00f6llenfahrt nach Santa F\u00e9"
+    },
+    {
+      "imdb_id": "tt0029947",
+      "title": "Leoparden k\u00fc\u00dft man nicht"
+    },
+    {
+      "imdb_id": "tt0029843",
+      "title": "Die Abenteuer des Robin Hood"
+    },
+    {
+      "imdb_id": "tt0026778",
+      "title": "Skandal in der Oper"
+    },
+    {
+      "imdb_id": "tt0024216",
+      "title": "King Kong und die wei\u00dfe Frau"
+    },
+    {
+      "imdb_id": "tt0022913",
+      "title": "Freaks - Missgestaltete"
+    },
+    {
+      "imdb_id": "tt0013442",
+      "title": "Nosferatu, eine Symphonie des Grauens"
+    },
+    {
+      "imdb_id": "tt7984734",
+      "title": "Der Leuchtturm"
+    },
+    {
+      "imdb_id": "tt5727208",
+      "title": "Der schwarze Diamant"
+    },
+    {
+      "imdb_id": "tt5186714",
+      "title": "The Salesman"
+    },
+    {
+      "imdb_id": "tt4912910",
+      "title": "Mission: Impossible - Fallout"
+    },
+    {
+      "imdb_id": "tt4901306",
+      "title": "Perfetti sconosciuti"
+    },
+    {
+      "imdb_id": "tt4846340",
+      "title": "Hidden Figures: Unerkannte Heldinnen"
+    },
+    {
+      "imdb_id": "tt4468740",
+      "title": "Paddington 2"
+    },
+    {
+      "imdb_id": "tt4302938",
+      "title": "Kubo: Der tapfere Samurai"
+    },
+    {
+      "imdb_id": "tt4034228",
+      "title": "Manchester by the Sea"
+    },
+    {
+      "imdb_id": "tt3841424",
+      "title": "Unter dem Sand"
+    },
+    {
+      "imdb_id": "tt3748528",
+      "title": "Star Wars: Rogue One"
+    },
+    {
+      "imdb_id": "tt3498820",
+      "title": "The First Avenger: Civil War"
+    },
+    {
+      "imdb_id": "tt3460252",
+      "title": "The Hateful 8"
+    },
+    {
+      "imdb_id": "tt3262342",
+      "title": "Loving Vincent"
+    },
+    {
+      "imdb_id": "tt3169706",
+      "title": "Pride"
+    },
+    {
+      "imdb_id": "tt2404461",
+      "title": "Le pass\u00e9 - Das Vergangene"
+    },
+    {
+      "imdb_id": "tt2358891",
+      "title": "La Grande Bellezza - Die gro\u00dfe Sch\u00f6nheit"
+    },
+    {
+      "imdb_id": "tt2350496",
+      "title": "Lunchbox"
+    },
+    {
+      "imdb_id": "tt2317337",
+      "title": "Vicky Donor"
+    },
+    {
+      "imdb_id": "tt2245084",
+      "title": "Baymax - Riesiges Robowabohu"
+    },
+    {
+      "imdb_id": "tt2194499",
+      "title": "Alles eine Frage der Zeit"
+    },
+    {
+      "imdb_id": "tt2181931",
+      "title": "Englisch f\u00fcr Anf\u00e4nger"
+    },
+    {
+      "imdb_id": "tt2024519",
+      "title": "The Broken Circle"
+    },
+    {
+      "imdb_id": "tt2013293",
+      "title": "Wie der Wind sich hebt"
+    },
+    {
+      "imdb_id": "tt1924396",
+      "title": "The Best Offer - Das h\u00f6chste Gebot"
+    },
+    {
+      "imdb_id": "tt1748122",
+      "title": "Moonrise Kingdom"
+    },
+    {
+      "imdb_id": "tt1646971",
+      "title": "Drachenz\u00e4hmen leicht gemacht 2"
+    },
+    {
+      "imdb_id": "tt1596363",
+      "title": "The Big Short"
+    },
+    {
+      "imdb_id": "tt1590089",
+      "title": "Gest\u00e4ndnisse"
+    },
+    {
+      "imdb_id": "tt1588170",
+      "title": "I Saw the Devil"
+    },
+    {
+      "imdb_id": "tt1568346",
+      "title": "Verblendung"
+    },
+    {
+      "imdb_id": "tt1535109",
+      "title": "Captain Phillips"
+    },
+    {
+      "imdb_id": "tt1527788",
+      "title": "The Man from Nowhere"
+    },
+    {
+      "imdb_id": "tt1490017",
+      "title": "The Lego Movie"
+    },
+    {
+      "imdb_id": "tt1216496",
+      "title": "Mother"
+    },
+    {
+      "imdb_id": "tt1170358",
+      "title": "Der Hobbit - Smaugs Ein\u00f6de"
+    },
+    {
+      "imdb_id": "tt1149362",
+      "title": "Das wei\u00dfe Band - Eine deutsche Kindergeschichte"
+    },
+    {
+      "imdb_id": "tt1132620",
+      "title": "Verblendung"
+    },
+    {
+      "imdb_id": "tt0964517",
+      "title": "The Fighter"
+    },
+    {
+      "imdb_id": "tt0936501",
+      "title": "96 Hours"
+    },
+    {
+      "imdb_id": "tt0914798",
+      "title": "Der Junge im gestreiften Pyjama"
+    },
+    {
+      "imdb_id": "tt0907657",
+      "title": "Once"
+    },
+    {
+      "imdb_id": "tt0903624",
+      "title": "Der Hobbit - Eine unerwartete Reise"
+    },
+    {
+      "imdb_id": "tt0880502",
+      "title": "Auf der anderen Seite"
+    },
+    {
+      "imdb_id": "tt0808506",
+      "title": "Das M\u00e4dchen, das durch die Zeit sprang"
+    },
+    {
+      "imdb_id": "tt0783233",
+      "title": "Abbitte"
+    },
+    {
+      "imdb_id": "tt0780504",
+      "title": "Drive"
+    },
+    {
+      "imdb_id": "tt0765429",
+      "title": "American Gangster"
+    },
+    {
+      "imdb_id": "tt0499549",
+      "title": "Avatar - Aufbruch nach Pandora"
+    },
+    {
+      "imdb_id": "tt0485947",
+      "title": "Mr. Nobody"
+    },
+    {
+      "imdb_id": "tt0472043",
+      "title": "Apocalypto"
+    },
+    {
+      "imdb_id": "tt0449059",
+      "title": "Little Miss Sunshine"
+    },
+    {
+      "imdb_id": "tt0432283",
+      "title": "Der fantastische Mr. Fox"
+    },
+    {
+      "imdb_id": "tt0425112",
+      "title": "Hot Fuzz - Zwei abgewichste Profis"
+    },
+    {
+      "imdb_id": "tt0421715",
+      "title": "Der seltsame Fall des Benjamin Button"
+    },
+    {
+      "imdb_id": "tt0420332",
+      "title": "Veer-Zaara"
+    },
+    {
+      "imdb_id": "tt0418455",
+      "title": "Adams \u00c4pfel"
+    },
+    {
+      "imdb_id": "tt0414387",
+      "title": "Stolz & Vorurteil"
+    },
+    {
+      "imdb_id": "tt0412080",
+      "title": "Mit Herz und Hand"
+    },
+    {
+      "imdb_id": "tt0388473",
+      "title": "Tokyo Godfathers"
+    },
+    {
+      "imdb_id": "tt0379786",
+      "title": "Serenity: Flucht in neue Welten"
+    },
+    {
+      "imdb_id": "tt0375679",
+      "title": "L.A. Crash"
+    },
+    {
+      "imdb_id": "tt0358273",
+      "title": "Walk the Line"
+    },
+    {
+      "imdb_id": "tt0338309",
+      "title": "Faustrecht"
+    },
+    {
+      "imdb_id": "tt0332280",
+      "title": "Wie ein einziger Tag"
+    },
+    {
+      "imdb_id": "tt0318462",
+      "title": "Die Reise des jungen Che"
+    },
+    {
+      "imdb_id": "tt0300140",
+      "title": "Lilja 4-ever"
+    },
+    {
+      "imdb_id": "tt0286244",
+      "title": "Das gro\u00dfe Rennen von Belleville"
+    },
+    {
+      "imdb_id": "tt0245844",
+      "title": "Monte Cristo"
+    },
+    {
+      "imdb_id": "tt0243017",
+      "title": "Waking Life"
+    },
+    {
+      "imdb_id": "tt0240772",
+      "title": "Ocean's Eleven"
+    },
+    {
+      "imdb_id": "tt0210945",
+      "title": "Gegen jede Regel"
+    },
+    {
+      "imdb_id": "tt0190332",
+      "title": "Tiger & Dragon"
+    },
+    {
+      "imdb_id": "tt0185125",
+      "title": "Alles \u00fcber meine Mutter"
+    },
+    {
+      "imdb_id": "tt0162222",
+      "title": "Cast Away - Verschollen"
+    },
+    {
+      "imdb_id": "tt0144117",
+      "title": "Der blutige Pfad Gottes"
+    },
+    {
+      "imdb_id": "tt0140352",
+      "title": "Insider"
+    },
+    {
+      "imdb_id": "tt0132477",
+      "title": "October Sky"
+    },
+    {
+      "imdb_id": "tt0126029",
+      "title": "Shrek - Der tollk\u00fchne Held"
+    },
+    {
+      "imdb_id": "tt0125659",
+      "title": "\u00d6ffne die Augen"
+    },
+    {
+      "imdb_id": "tt0120338",
+      "title": "Titanic"
+    },
+    {
+      "imdb_id": "tt0119250",
+      "title": "Hana-bi - Feuerblume"
+    },
+    {
+      "imdb_id": "tt0119177",
+      "title": "Gattaca"
+    },
+    {
+      "imdb_id": "tt0119174",
+      "title": "The Game - Das Geschenk seines Lebens"
+    },
+    {
+      "imdb_id": "tt0109707",
+      "title": "Ed Wood"
+    },
+    {
+      "imdb_id": "tt0108550",
+      "title": "Gilbert Grape - Irgendwo in Iowa"
+    },
+    {
+      "imdb_id": "tt0108358",
+      "title": "Tombstone"
+    },
+    {
+      "imdb_id": "tt0108037",
+      "title": "Herkules und die Sandlot-Kids"
+    },
+    {
+      "imdb_id": "tt0107943",
+      "title": "Was vom Tage \u00fcbrig blieb"
+    },
+    {
+      "imdb_id": "tt0107653",
+      "title": "Nackt"
+    },
+    {
+      "imdb_id": "tt0106977",
+      "title": "Auf der Flucht"
+    },
+    {
+      "imdb_id": "tt0106489",
+      "title": "In den Stra\u00dfen der Bronx"
+    },
+    {
+      "imdb_id": "tt0106364",
+      "title": "Batman und das Phantom"
+    },
+    {
+      "imdb_id": "tt0104684",
+      "title": "Hard Boiled"
+    },
+    {
+      "imdb_id": "tt0104652",
+      "title": "Porco Rosso"
+    },
+    {
+      "imdb_id": "tt0102536",
+      "title": "Night on Earth"
+    },
+    {
+      "imdb_id": "tt0101765",
+      "title": "Die zwei Leben der Veronika"
+    },
+    {
+      "imdb_id": "tt0100157",
+      "title": "Misery"
+    },
+    {
+      "imdb_id": "tt0100150",
+      "title": "Miller's Crossing"
+    },
+    {
+      "imdb_id": "tt0099077",
+      "title": "Zeit des Erwachens"
+    },
+    {
+      "imdb_id": "tt0097441",
+      "title": "Glory"
+    },
+    {
+      "imdb_id": "tt0097202",
+      "title": "The Killer"
+    },
+    {
+      "imdb_id": "tt0096874",
+      "title": "Zur\u00fcck in die Zukunft II"
+    },
+    {
+      "imdb_id": "tt0095647",
+      "title": "Mississippi Burning - Die Wurzel des Hasses"
+    },
+    {
+      "imdb_id": "tt0093773",
+      "title": "Predator"
+    },
+    {
+      "imdb_id": "tt0092991",
+      "title": "Tanz der Teufel II"
+    },
+    {
+      "imdb_id": "tt0092965",
+      "title": "Das Reich der Sonne"
+    },
+    {
+      "imdb_id": "tt0091042",
+      "title": "Ferris macht blau"
+    },
+    {
+      "imdb_id": "tt0090967",
+      "title": "Down by Law"
+    },
+    {
+      "imdb_id": "tt0090756",
+      "title": "Blue Velvet: Verbotene Blicke"
+    },
+    {
+      "imdb_id": "tt0089218",
+      "title": "Die Goonies"
+    },
+    {
+      "imdb_id": "tt0088939",
+      "title": "Die Farbe Lila"
+    },
+    {
+      "imdb_id": "tt0087553",
+      "title": "Killing Fields - Schreiendes Land"
+    },
+    {
+      "imdb_id": "tt0087332",
+      "title": "Ghostbusters - Die Geisterj\u00e4ger"
+    },
+    {
+      "imdb_id": "tt0086197",
+      "title": "Der Stoff aus dem die Helden sind"
+    },
+    {
+      "imdb_id": "tt0085794",
+      "title": "King of Comedy"
+    },
+    {
+      "imdb_id": "tt0083866",
+      "title": "E.T. - Der Au\u00dferirdische"
+    },
+    {
+      "imdb_id": "tt0079417",
+      "title": "Kramer gegen Kramer"
+    },
+    {
+      "imdb_id": "tt0077651",
+      "title": "Halloween - Die Nacht des Grauens"
+    },
+    {
+      "imdb_id": "tt0073341",
+      "title": "Der Mann, der K\u00f6nig sein wollte"
+    },
+    {
+      "imdb_id": "tt0071360",
+      "title": "Der Dialog"
+    },
+    {
+      "imdb_id": "tt0069947",
+      "title": "Der Schakal"
+    },
+    {
+      "imdb_id": "tt0069762",
+      "title": "Badlands - Zerschossene Tr\u00e4ume"
+    },
+    {
+      "imdb_id": "tt0068327",
+      "title": "Cabaret"
+    },
+    {
+      "imdb_id": "tt0067992",
+      "title": "Charlie und die Schokoladenfabrik"
+    },
+    {
+      "imdb_id": "tt0064665",
+      "title": "Asphalt-Cowboy"
+    },
+    {
+      "imdb_id": "tt0062467",
+      "title": "Warte, bis es dunkel ist"
+    },
+    {
+      "imdb_id": "tt0061735",
+      "title": "Rat mal, wer zum Essen kommt"
+    },
+    {
+      "imdb_id": "tt0061578",
+      "title": "Das dreckige Dutzend"
+    },
+    {
+      "imdb_id": "tt0061418",
+      "title": "Bonnie und Clyde"
+    },
+    {
+      "imdb_id": "tt0058385",
+      "title": "My Fair Lady"
+    },
+    {
+      "imdb_id": "tt0058331",
+      "title": "Mary Poppins"
+    },
+    {
+      "imdb_id": "tt0056197",
+      "title": "Der l\u00e4ngste Tag"
+    },
+    {
+      "imdb_id": "tt0055032",
+      "title": "Jules und Jim"
+    },
+    {
+      "imdb_id": "tt0049833",
+      "title": "Die zehn Gebote"
+    },
+    {
+      "imdb_id": "tt0045061",
+      "title": "Die Katze mit dem roten Haar"
+    },
+    {
+      "imdb_id": "tt0040724",
+      "title": "Panik am roten Flu\u00df"
+    },
+    {
+      "imdb_id": "tt0040506",
+      "title": "Gangster in Key Largo"
+    },
+    {
+      "imdb_id": "tt0032455",
+      "title": "Fantasia"
+    },
+    {
+      "imdb_id": "tt0030341",
+      "title": "Eine Dame verschwindet"
+    },
+    {
+      "imdb_id": "tt0026138",
+      "title": "Frankensteins Braut"
+    },
+    {
+      "imdb_id": "tt0023969",
+      "title": "Die Marx Brothers im Krieg"
+    },
+    {
+      "imdb_id": "tt0021884",
+      "title": "Frankenstein"
+    },
+    {
+      "imdb_id": "tt8637428",
+      "title": "The Farewell"
+    },
+    {
+      "imdb_id": "tt7131622",
+      "title": "Once Upon a Time in Hollywood"
+    },
+    {
+      "imdb_id": "tt6155172",
+      "title": "Roma"
+    },
+    {
+      "imdb_id": "tt5463162",
+      "title": "Deadpool 2"
+    },
+    {
+      "imdb_id": "tt5362988",
+      "title": "Wind River"
+    },
+    {
+      "imdb_id": "tt5052448",
+      "title": "Get Out"
+    },
+    {
+      "imdb_id": "tt4364194",
+      "title": "The Peanut Butter Falcon"
+    },
+    {
+      "imdb_id": "tt4226388",
+      "title": "Victoria"
+    },
+    {
+      "imdb_id": "tt4080728",
+      "title": "Ein Mann namens Ove"
+    },
+    {
+      "imdb_id": "tt3829920",
+      "title": "No Way Out: Gegen die Flammen"
+    },
+    {
+      "imdb_id": "tt3606756",
+      "title": "Die Unglaublichen 2"
+    },
+    {
+      "imdb_id": "tt3416742",
+      "title": "5 Zimmer K\u00fcche Sarg"
+    },
+    {
+      "imdb_id": "tt3398268",
+      "title": "Erinnerungen an Marnie"
+    },
+    {
+      "imdb_id": "tt2980516",
+      "title": "Die Entdeckung der Unendlichkeit"
+    },
+    {
+      "imdb_id": "tt2802144",
+      "title": "Kingsman: The Secret Service"
+    },
+    {
+      "imdb_id": "tt2582846",
+      "title": "Das Schicksal ist ein mieser Verr\u00e4ter"
+    },
+    {
+      "imdb_id": "tt2582496",
+      "title": "Ich und Earl und das M\u00e4dchen"
+    },
+    {
+      "imdb_id": "tt2562232",
+      "title": "Birdman oder (Die unverhoffte Macht der Ahnungslosigkeit)"
+    },
+    {
+      "imdb_id": "tt2278871",
+      "title": "Blau ist eine warme Farbe"
+    },
+    {
+      "imdb_id": "tt1843866",
+      "title": "The Return of the First Avenger"
+    },
+    {
+      "imdb_id": "tt1821549",
+      "title": "Nebraska"
+    },
+    {
+      "imdb_id": "tt1772341",
+      "title": "Ralph reichts"
+    },
+    {
+      "imdb_id": "tt1754656",
+      "title": "Der kleine Prinz"
+    },
+    {
+      "imdb_id": "tt1683526",
+      "title": "Detachment"
+    },
+    {
+      "imdb_id": "tt1605783",
+      "title": "Midnight in Paris"
+    },
+    {
+      "imdb_id": "tt1517451",
+      "title": "A Star Is Born"
+    },
+    {
+      "imdb_id": "tt1454468",
+      "title": "Gravity"
+    },
+    {
+      "imdb_id": "tt1408101",
+      "title": "Star Trek Into Darkness"
+    },
+    {
+      "imdb_id": "tt1365050",
+      "title": "Beasts of No Nation"
+    },
+    {
+      "imdb_id": "tt1285016",
+      "title": "The Social Network"
+    },
+    {
+      "imdb_id": "tt1270798",
+      "title": "X-Men: Erste Entscheidung"
+    },
+    {
+      "imdb_id": "tt1119646",
+      "title": "Hangover"
+    },
+    {
+      "imdb_id": "tt1074638",
+      "title": "James Bond 007: Skyfall"
+    },
+    {
+      "imdb_id": "tt1045658",
+      "title": "Silver Linings"
+    },
+    {
+      "imdb_id": "tt1024648",
+      "title": "Argo"
+    },
+    {
+      "imdb_id": "tt1022603",
+      "title": "(500) Days of Summer"
+    },
+    {
+      "imdb_id": "tt0926084",
+      "title": "Harry Potter und die Heiligt\u00fcmer des Todes - Teil 1"
+    },
+    {
+      "imdb_id": "tt0876563",
+      "title": "Ponyo: Das grosse Abenteuer am Meer"
+    },
+    {
+      "imdb_id": "tt0870111",
+      "title": "Frost/Nixon"
+    },
+    {
+      "imdb_id": "tt0851578",
+      "title": "Paprika"
+    },
+    {
+      "imdb_id": "tt0824747",
+      "title": "Der fremde Sohn"
+    },
+    {
+      "imdb_id": "tt0817177",
+      "title": "Verliebt und ausgeflippt"
+    },
+    {
+      "imdb_id": "tt0758742",
+      "title": "Death Note"
+    },
+    {
+      "imdb_id": "tt0480025",
+      "title": "This Is England"
+    },
+    {
+      "imdb_id": "tt0470752",
+      "title": "Ex Machina"
+    },
+    {
+      "imdb_id": "tt0457655",
+      "title": "Nach der Hochzeit"
+    },
+    {
+      "imdb_id": "tt0455590",
+      "title": "Der letzte K\u00f6nig von Schottland - In den F\u00e4ngen der Macht"
+    },
+    {
+      "imdb_id": "tt0443706",
+      "title": "Zodiac: Die Spur des Killers"
+    },
+    {
+      "imdb_id": "tt0425210",
+      "title": "Lucky Number Slevin"
+    },
+    {
+      "imdb_id": "tt0424205",
+      "title": "Joyeux No\u00ebl"
+    },
+    {
+      "imdb_id": "tt0421082",
+      "title": "Control"
+    },
+    {
+      "imdb_id": "tt0398286",
+      "title": "Rapunzel - Neu verf\u00f6hnt"
+    },
+    {
+      "imdb_id": "tt0389557",
+      "title": "Black Book"
+    },
+    {
+      "imdb_id": "tt0388795",
+      "title": "Brokeback Mountain"
+    },
+    {
+      "imdb_id": "tt0381849",
+      "title": "Todeszug nach Yuma"
+    },
+    {
+      "imdb_id": "tt0373074",
+      "title": "Kung Fu Hustle"
+    },
+    {
+      "imdb_id": "tt0372183",
+      "title": "Die Bourne Verschw\u00f6rung"
+    },
+    {
+      "imdb_id": "tt0361862",
+      "title": "Der Maschinist"
+    },
+    {
+      "imdb_id": "tt0350258",
+      "title": "Ray"
+    },
+    {
+      "imdb_id": "tt0335266",
+      "title": "Lost in Translation: Zwischen den Welten"
+    },
+    {
+      "imdb_id": "tt0330373",
+      "title": "Harry Potter und der Feuerkelch"
+    },
+    {
+      "imdb_id": "tt0328107",
+      "title": "Mann unter Feuer"
+    },
+    {
+      "imdb_id": "tt0327597",
+      "title": "Coraline"
+    },
+    {
+      "imdb_id": "tt0325710",
+      "title": "Last Samurai"
+    },
+    {
+      "imdb_id": "tt0318411",
+      "title": "Die unbarmherzigen Schwestern"
+    },
+    {
+      "imdb_id": "tt0315733",
+      "title": "21 Gramm"
+    },
+    {
+      "imdb_id": "tt0308644",
+      "title": "Wenn Tr\u00e4ume fliegen lernen"
+    },
+    {
+      "imdb_id": "tt0301357",
+      "title": "Good Bye Lenin!"
+    },
+    {
+      "imdb_id": "tt0298845",
+      "title": "In America"
+    },
+    {
+      "imdb_id": "tt0268126",
+      "title": "Adaption: Der Orchideen-Dieb"
+    },
+    {
+      "imdb_id": "tt0265086",
+      "title": "Black Hawk Down"
+    },
+    {
+      "imdb_id": "tt0257044",
+      "title": "Road to Perdition"
+    },
+    {
+      "imdb_id": "tt0250258",
+      "title": "Das Experiment"
+    },
+    {
+      "imdb_id": "tt0249462",
+      "title": "Billy Elliot - I Will Dance"
+    },
+    {
+      "imdb_id": "tt0248845",
+      "title": "Hedwig and the Angry Inch"
+    },
+    {
+      "imdb_id": "tt0216651",
+      "title": "Vampire Hunter D: Bloodlust"
+    },
+    {
+      "imdb_id": "tt0190590",
+      "title": "O Brother, Where Art Thou? - Eine Mississippi-Odyssee"
+    },
+    {
+      "imdb_id": "tt0165832",
+      "title": "Interstate 60"
+    },
+    {
+      "imdb_id": "tt0158983",
+      "title": "South Park: Gr\u00f6\u00dfer, l\u00e4nger und un(b)geschnitten"
+    },
+    {
+      "imdb_id": "tt0151804",
+      "title": "Alles Routine"
+    },
+    {
+      "imdb_id": "tt0147612",
+      "title": "Happiness"
+    },
+    {
+      "imdb_id": "tt0139654",
+      "title": "Training Day"
+    },
+    {
+      "imdb_id": "tt0128445",
+      "title": "Rushmore"
+    },
+    {
+      "imdb_id": "tt0120601",
+      "title": "Being John Malkovich"
+    },
+    {
+      "imdb_id": "tt0119822",
+      "title": "Besser geht's nicht"
+    },
+    {
+      "imdb_id": "tt0119116",
+      "title": "Das f\u00fcnfte Element"
+    },
+    {
+      "imdb_id": "tt0119038",
+      "title": "Dinner f\u00fcr Spinner"
+    },
+    {
+      "imdb_id": "tt0119008",
+      "title": "Donnie Brasco"
+    },
+    {
+      "imdb_id": "tt0117631",
+      "title": "Shine - Der Weg ins Licht"
+    },
+    {
+      "imdb_id": "tt0117381",
+      "title": "Zwielicht"
+    },
+    {
+      "imdb_id": "tt0116477",
+      "title": "Hamlet"
+    },
+    {
+      "imdb_id": "tt0113670",
+      "title": "Little Princess - Die kleine Prinzessin"
+    },
+    {
+      "imdb_id": "tt0110877",
+      "title": "Der Postmann"
+    },
+    {
+      "imdb_id": "tt0109445",
+      "title": "Clerks - Die Ladenh\u00fcter"
+    },
+    {
+      "imdb_id": "tt0108122",
+      "title": "Short Cuts"
+    },
+    {
+      "imdb_id": "tt0107818",
+      "title": "Philadelphia"
+    },
+    {
+      "imdb_id": "tt0104940",
+      "title": "Die Muppets Weihnachtsgeschichte"
+    },
+    {
+      "imdb_id": "tt0104797",
+      "title": "Malcolm X"
+    },
+    {
+      "imdb_id": "tt0104691",
+      "title": "Der letzte Mohikaner"
+    },
+    {
+      "imdb_id": "tt0104348",
+      "title": "Glengarry Glen Ross"
+    },
+    {
+      "imdb_id": "tt0104257",
+      "title": "Eine Frage der Ehre"
+    },
+    {
+      "imdb_id": "tt0101921",
+      "title": "Gr\u00fcne Tomaten"
+    },
+    {
+      "imdb_id": "tt0101507",
+      "title": "Boyz n the Hood - Jungs im Viertel"
+    },
+    {
+      "imdb_id": "tt0101410",
+      "title": "Barton Fink"
+    },
+    {
+      "imdb_id": "tt0096438",
+      "title": "Falsches Spiel mit Roger Rabbit"
+    },
+    {
+      "imdb_id": "tt0096163",
+      "title": "Spurlos verschwunden"
+    },
+    {
+      "imdb_id": "tt0094336",
+      "title": "Withnail & I"
+    },
+    {
+      "imdb_id": "tt0093389",
+      "title": "Der letzte Kaiser"
+    },
+    {
+      "imdb_id": "tt0091605",
+      "title": "Der Name der Rose"
+    },
+    {
+      "imdb_id": "tt0089853",
+      "title": "The Purple Rose of Cairo"
+    },
+    {
+      "imdb_id": "tt0088680",
+      "title": "Die Zeit nach Mitternacht"
+    },
+    {
+      "imdb_id": "tt0086637",
+      "title": "Zelig"
+    },
+    {
+      "imdb_id": "tt0084855",
+      "title": "The Verdict - Die Wahrheit und nichts als die Wahrheit"
+    },
+    {
+      "imdb_id": "tt0084726",
+      "title": "Star Trek II: Der Zorn des Khan"
+    },
+    {
+      "imdb_id": "tt0083944",
+      "title": "Rambo"
+    },
+    {
+      "imdb_id": "tt0081283",
+      "title": "Eine ganz normale Familie"
+    },
+    {
+      "imdb_id": "tt0080339",
+      "title": "Die unglaubliche Reise in einem verr\u00fcckten Flugzeug"
+    },
+    {
+      "imdb_id": "tt0074811",
+      "title": "Der Mieter"
+    },
+    {
+      "imdb_id": "tt0073312",
+      "title": "Die letzte Nacht des Boris Gruschenko"
+    },
+    {
+      "imdb_id": "tt0071230",
+      "title": "Der wilde wilde Westen"
+    },
+    {
+      "imdb_id": "tt0070666",
+      "title": "Serpico"
+    },
+    {
+      "imdb_id": "tt0070034",
+      "title": "Der Mann mit der Todeskralle"
+    },
+    {
+      "imdb_id": "tt0068473",
+      "title": "Beim Sterben ist jeder der Erste"
+    },
+    {
+      "imdb_id": "tt0067140",
+      "title": "Todesmelodie"
+    },
+    {
+      "imdb_id": "tt0067116",
+      "title": "French Connection - Brennpunkt Brooklyn"
+    },
+    {
+      "imdb_id": "tt0066999",
+      "title": "Dirty Harry"
+    },
+    {
+      "imdb_id": "tt0065207",
+      "title": "Agenten sterben einsam"
+    },
+    {
+      "imdb_id": "tt0063374",
+      "title": "Ein seltsames Paar"
+    },
+    {
+      "imdb_id": "tt0061395",
+      "title": "Belle de Jour - Sch\u00f6ne des Tages"
+    },
+    {
+      "imdb_id": "tt0060665",
+      "title": "Ein Mann zu jeder Jahreszeit"
+    },
+    {
+      "imdb_id": "tt0059646",
+      "title": "Ekel"
+    },
+    {
+      "imdb_id": "tt0058777",
+      "title": "Zulu"
+    },
+    {
+      "imdb_id": "tt0058150",
+      "title": "James Bond 007 - Goldfinger"
+    },
+    {
+      "imdb_id": "tt0056869",
+      "title": "Die V\u00f6gel"
+    },
+    {
+      "imdb_id": "tt0054698",
+      "title": "Fr\u00fchst\u00fcck bei Tiffany"
+    },
+    {
+      "imdb_id": "tt0054167",
+      "title": "Augen der Angst"
+    },
+    {
+      "imdb_id": "tt0054047",
+      "title": "Die glorreichen Sieben"
+    },
+    {
+      "imdb_id": "tt0049366",
+      "title": "Die Invasion der K\u00f6rperfresser"
+    },
+    {
+      "imdb_id": "tt0048545",
+      "title": "...denn sie wissen nicht, was sie tun"
+    },
+    {
+      "imdb_id": "tt0047437",
+      "title": "Sabrina"
+    },
+    {
+      "imdb_id": "tt0043456",
+      "title": "Der Tag, an dem die Erde stillstand"
+    },
+    {
+      "imdb_id": "tt0043265",
+      "title": "African Queen"
+    },
+    {
+      "imdb_id": "tt0038559",
+      "title": "Gilda"
+    },
+    {
+      "imdb_id": "tt0037017",
+      "title": "Das Rettungsboot"
+    },
+    {
+      "imdb_id": "tt0026029",
+      "title": "Die 39 Stufen"
+    },
+    {
+      "imdb_id": "tt0024184",
+      "title": "Der Unsichtbare"
+    },
+    {
+      "imdb_id": "tt8404614",
+      "title": "Die zwei P\u00e4pste"
+    },
+    {
+      "imdb_id": "tt8291806",
+      "title": "Leid und Herrlichkeit"
+    },
+    {
+      "imdb_id": "tt7668870",
+      "title": "Searching"
+    },
+    {
+      "imdb_id": "tt6543652",
+      "title": "Cold War - Der Breitengrad der Liebe"
+    },
+    {
+      "imdb_id": "tt6304162",
+      "title": "Loveless"
+    },
+    {
+      "imdb_id": "tt5649144",
+      "title": "The Florida Project"
+    },
+    {
+      "imdb_id": "tt5083738",
+      "title": "The Favourite - Intrigen und Irrsinn"
+    },
+    {
+      "imdb_id": "tt4481414",
+      "title": "Begabt - Die Gleichung eines Lebens"
+    },
+    {
+      "imdb_id": "tt3966404",
+      "title": "Mustang"
+    },
+    {
+      "imdb_id": "tt3896198",
+      "title": "Guardians of the Galaxy Vol. 2"
+    },
+    {
+      "imdb_id": "tt3890160",
+      "title": "Baby Driver"
+    },
+    {
+      "imdb_id": "tt3682448",
+      "title": "Bridge of Spies: Der Unterh\u00e4ndler"
+    },
+    {
+      "imdb_id": "tt3521164",
+      "title": "Vaiana - Das Paradies hat einen Haken"
+    },
+    {
+      "imdb_id": "tt3397884",
+      "title": "Sicario"
+    },
+    {
+      "imdb_id": "tt3076658",
+      "title": "Creed: Rocky's Legacy"
+    },
+    {
+      "imdb_id": "tt2802154",
+      "title": "Leviathan"
+    },
+    {
+      "imdb_id": "tt2582782",
+      "title": "Hell or High Water"
+    },
+    {
+      "imdb_id": "tt2431286",
+      "title": "Philomena: Eine Mutter sucht ihren Sohn"
+    },
+    {
+      "imdb_id": "tt2103281",
+      "title": "Planet der Affen: Revolution"
+    },
+    {
+      "imdb_id": "tt1937149",
+      "title": "The Body - Die Leiche"
+    },
+    {
+      "imdb_id": "tt1899353",
+      "title": "The Raid"
+    },
+    {
+      "imdb_id": "tt1855199",
+      "title": "End of Watch"
+    },
+    {
+      "imdb_id": "tt1649419",
+      "title": "The Impossible - Nichts ist st\u00e4rker als der Wille, zu \u00fcberleben"
+    },
+    {
+      "imdb_id": "tt1568921",
+      "title": "Arrietty - Die wundersame Welt der Borger"
+    },
+    {
+      "imdb_id": "tt1542344",
+      "title": "127 Hours"
+    },
+    {
+      "imdb_id": "tt1436045",
+      "title": "13 Assassins"
+    },
+    {
+      "imdb_id": "tt1403865",
+      "title": "True Grit - Vergeltung"
+    },
+    {
+      "imdb_id": "tt1340107",
+      "title": "In einer besseren Welt"
+    },
+    {
+      "imdb_id": "tt1323594",
+      "title": "Ich - Einfach unverbesserlich"
+    },
+    {
+      "imdb_id": "tt1318514",
+      "title": "Planet der Affen: Prevolution"
+    },
+    {
+      "imdb_id": "tt1306980",
+      "title": "50/50: Freunde f\u00fcrs (\u00dcber)Leben"
+    },
+    {
+      "imdb_id": "tt1250777",
+      "title": "Kick-Ass"
+    },
+    {
+      "imdb_id": "tt1242422",
+      "title": "Zelle 211 - Der Knastaufstand"
+    },
+    {
+      "imdb_id": "tt1210166",
+      "title": "Die Kunst zu gewinnen - Moneyball"
+    },
+    {
+      "imdb_id": "tt1189073",
+      "title": "Die Haut, in der ich wohne"
+    },
+    {
+      "imdb_id": "tt1156398",
+      "title": "Zombieland"
+    },
+    {
+      "imdb_id": "tt1078188",
+      "title": "Boy A"
+    },
+    {
+      "imdb_id": "tt1063669",
+      "title": "Die Welle"
+    },
+    {
+      "imdb_id": "tt0988045",
+      "title": "Sherlock Holmes"
+    },
+    {
+      "imdb_id": "tt0983213",
+      "title": "5 Centimeters per Second"
+    },
+    {
+      "imdb_id": "tt0976051",
+      "title": "Der Vorleser"
+    },
+    {
+      "imdb_id": "tt0887912",
+      "title": "T\u00f6dliches Kommando - The Hurt Locker"
+    },
+    {
+      "imdb_id": "tt0878804",
+      "title": "Blind Side - Die gro\u00dfe Chance"
+    },
+    {
+      "imdb_id": "tt0857191",
+      "title": "Ein Sommer in New York - The Visitor"
+    },
+    {
+      "imdb_id": "tt0829482",
+      "title": "Superbad"
+    },
+    {
+      "imdb_id": "tt0814314",
+      "title": "Sieben Leben"
+    },
+    {
+      "imdb_id": "tt0765443",
+      "title": "T\u00f6dliche Versprechen - Eastern Promises"
+    },
+    {
+      "imdb_id": "tt0486655",
+      "title": "Der Sternwanderer"
+    },
+    {
+      "imdb_id": "tt0485601",
+      "title": "Brendan und das Geheimnis von Kells"
+    },
+    {
+      "imdb_id": "tt0454848",
+      "title": "Inside Man"
+    },
+    {
+      "imdb_id": "tt0452623",
+      "title": "Gone Baby Gone - Kein Kinderspiel"
+    },
+    {
+      "imdb_id": "tt0451094",
+      "title": "Lady Vengeance"
+    },
+    {
+      "imdb_id": "tt0450188",
+      "title": "La Vie En Rose"
+    },
+    {
+      "imdb_id": "tt0446059",
+      "title": "Fearless"
+    },
+    {
+      "imdb_id": "tt0443543",
+      "title": "The Illusionist - Nichts ist wie es scheint"
+    },
+    {
+      "imdb_id": "tt0441909",
+      "title": "Volver - Zur\u00fcckkehren"
+    },
+    {
+      "imdb_id": "tt0427944",
+      "title": "Thank You for Smoking"
+    },
+    {
+      "imdb_id": "tt0420223",
+      "title": "Schr\u00e4ger als Fiktion"
+    },
+    {
+      "imdb_id": "tt0419677",
+      "title": "Dead Man's Shoes"
+    },
+    {
+      "imdb_id": "tt0417741",
+      "title": "Harry Potter und der Halbblutprinz"
+    },
+    {
+      "imdb_id": "tt0416449",
+      "title": "300"
+    },
+    {
+      "imdb_id": "tt0416320",
+      "title": "Match Point"
+    },
+    {
+      "imdb_id": "tt0409459",
+      "title": "Watchmen: Die W\u00e4chter"
+    },
+    {
+      "imdb_id": "tt0399295",
+      "title": "Lord of War - H\u00e4ndler des Todes"
+    },
+    {
+      "imdb_id": "tt0387564",
+      "title": "Saw"
+    },
+    {
+      "imdb_id": "tt0383028",
+      "title": "Synecdoche, New York"
+    },
+    {
+      "imdb_id": "tt0370986",
+      "title": "Mysterious Skin - Unter die Haut"
+    },
+    {
+      "imdb_id": "tt0364517",
+      "title": "Liebe mich, wenn du dich traust"
+    },
+    {
+      "imdb_id": "tt0344510",
+      "title": "Mathilde - Eine gro\u00dfe Liebe"
+    },
+    {
+      "imdb_id": "tt0340377",
+      "title": "Station Agent"
+    },
+    {
+      "imdb_id": "tt0314331",
+      "title": "Tats\u00e4chlich... Liebe"
+    },
+    {
+      "imdb_id": "tt0310775",
+      "title": "Sympathy for Mr. Vengeance"
+    },
+    {
+      "imdb_id": "tt0307901",
+      "title": "25 Stunden"
+    },
+    {
+      "imdb_id": "tt0289992",
+      "title": "Das Leben des David Gale"
+    },
+    {
+      "imdb_id": "tt0289879",
+      "title": "Butterfly Effect"
+    },
+    {
+      "imdb_id": "tt0289043",
+      "title": "28 Days Later..."
+    },
+    {
+      "imdb_id": "tt0277027",
+      "title": "Ich bin Sam"
+    },
+    {
+      "imdb_id": "tt0266308",
+      "title": "Battle Royale"
+    },
+    {
+      "imdb_id": "tt0265666",
+      "title": "Die Royal Tenenbaums"
+    },
+    {
+      "imdb_id": "tt0245574",
+      "title": "Y tu mam\u00e1 tambi\u00e9n - Lust for Life"
+    },
+    {
+      "imdb_id": "tt0241527",
+      "title": "Harry Potter und der Stein der Weisen"
+    },
+    {
+      "imdb_id": "tt0230600",
+      "title": "The Others"
+    },
+    {
+      "imdb_id": "tt0221027",
+      "title": "Blow"
+    },
+    {
+      "imdb_id": "tt0215750",
+      "title": "Duell - Enemy at the Gates"
+    },
+    {
+      "imdb_id": "tt0181865",
+      "title": "Traffic - Die Macht des Kartells"
+    },
+    {
+      "imdb_id": "tt0181689",
+      "title": "Minority Report"
+    },
+    {
+      "imdb_id": "tt0174856",
+      "title": "Hurricane"
+    },
+    {
+      "imdb_id": "tt0144084",
+      "title": "American Psycho"
+    },
+    {
+      "imdb_id": "tt0130827",
+      "title": "Lola rennt"
+    },
+    {
+      "imdb_id": "tt0120863",
+      "title": "Der schmale Grat"
+    },
+    {
+      "imdb_id": "tt0120802",
+      "title": "Die rote Violine"
+    },
+    {
+      "imdb_id": "tt0120762",
+      "title": "Mulan"
+    },
+    {
+      "imdb_id": "tt0120669",
+      "title": "Angst und Schrecken in Las Vegas"
+    },
+    {
+      "imdb_id": "tt0119167",
+      "title": "Funny Games"
+    },
+    {
+      "imdb_id": "tt0118929",
+      "title": "Dark City"
+    },
+    {
+      "imdb_id": "tt0117665",
+      "title": "Sleepers"
+    },
+    {
+      "imdb_id": "tt0116922",
+      "title": "Lost Highway"
+    },
+    {
+      "imdb_id": "tt0114388",
+      "title": "Sinn und Sinnlichkeit"
+    },
+    {
+      "imdb_id": "tt0112864",
+      "title": "Stirb langsam - Jetzt erst recht"
+    },
+    {
+      "imdb_id": "tt0112817",
+      "title": "Dead Man"
+    },
+    {
+      "imdb_id": "tt0112579",
+      "title": "Die Br\u00fccken am Flu\u00df"
+    },
+    {
+      "imdb_id": "tt0112384",
+      "title": "Apollo 13"
+    },
+    {
+      "imdb_id": "tt0111507",
+      "title": "Drei Farben - Wei\u00df"
+    },
+    {
+      "imdb_id": "tt0110148",
+      "title": "Interview mit einem Vampir"
+    },
+    {
+      "imdb_id": "tt0109506",
+      "title": "The Crow: Die Kr\u00e4he"
+    },
+    {
+      "imdb_id": "tt0107007",
+      "title": "Gettysburg"
+    },
+    {
+      "imdb_id": "tt0106856",
+      "title": "Falling Down - Ein ganz normaler Tag"
+    },
+    {
+      "imdb_id": "tt0106677",
+      "title": "Confusion - Sommer der Ausgeflippten"
+    },
+    {
+      "imdb_id": "tt0104952",
+      "title": "Mein Vetter Winnie"
+    },
+    {
+      "imdb_id": "tt0103939",
+      "title": "Chaplin"
+    },
+    {
+      "imdb_id": "tt0101700",
+      "title": "Delicatessen"
+    },
+    {
+      "imdb_id": "tt0099810",
+      "title": "Jagd auf Roter Oktober"
+    },
+    {
+      "imdb_id": "tt0099785",
+      "title": "Kevin - Allein zu Haus"
+    },
+    {
+      "imdb_id": "tt0099674",
+      "title": "Der Pate 3"
+    },
+    {
+      "imdb_id": "tt0098635",
+      "title": "Harry und Sally"
+    },
+    {
+      "imdb_id": "tt0097958",
+      "title": "Hilfe, es weihnachtet sehr"
+    },
+    {
+      "imdb_id": "tt0097757",
+      "title": "Arielle, die Meerjungfrau"
+    },
+    {
+      "imdb_id": "tt0096754",
+      "title": "Abyss - Abgrund des Todes"
+    },
+    {
+      "imdb_id": "tt0095705",
+      "title": "Die nackte Kanone"
+    },
+    {
+      "imdb_id": "tt0094947",
+      "title": "Gef\u00e4hrliche Liebschaften"
+    },
+    {
+      "imdb_id": "tt0093748",
+      "title": "Ein Ticket f\u00fcr zwei"
+    },
+    {
+      "imdb_id": "tt0093409",
+      "title": "Lethal Weapon - Zwei stahlharte Profis"
+    },
+    {
+      "imdb_id": "tt0087469",
+      "title": "Indiana Jones und der Tempel des Todes"
+    },
+    {
+      "imdb_id": "tt0086979",
+      "title": "Blood Simple - Eine m\u00f6rderische Nacht"
+    },
+    {
+      "imdb_id": "tt0085959",
+      "title": "Der Sinn des Lebens"
+    },
+    {
+      "imdb_id": "tt0084707",
+      "title": "Sophies Entscheidung"
+    },
+    {
+      "imdb_id": "tt0084649",
+      "title": "Mrs. Brisby und das Geheimnis von NIMH"
+    },
+    {
+      "imdb_id": "tt0082846",
+      "title": "Am goldenen See"
+    },
+    {
+      "imdb_id": "tt0082694",
+      "title": "Mad Max 2 - Der Vollstrecker"
+    },
+    {
+      "imdb_id": "tt0080120",
+      "title": "Die Warriors"
+    },
+    {
+      "imdb_id": "tt0079588",
+      "title": "Muppet Movie"
+    },
+    {
+      "imdb_id": "tt0079116",
+      "title": "Flucht von Alcatraz"
+    },
+    {
+      "imdb_id": "tt0078480",
+      "title": "Watership Down - Unten am Flu\u00df"
+    },
+    {
+      "imdb_id": "tt0077928",
+      "title": "12 Uhr nachts - Midnight Express"
+    },
+    {
+      "imdb_id": "tt0075860",
+      "title": "Unheimliche Begegnung der dritten Art"
+    },
+    {
+      "imdb_id": "tt0073582",
+      "title": "Rosso - Die Farbe des Todes"
+    },
+    {
+      "imdb_id": "tt0070608",
+      "title": "Robin Hood"
+    },
+    {
+      "imdb_id": "tt0066765",
+      "title": "Monty Python's wunderbare Welt der Schwerkraft"
+    },
+    {
+      "imdb_id": "tt0065938",
+      "title": "Sto\u00dftrupp Gold"
+    },
+    {
+      "imdb_id": "tt0063462",
+      "title": "Fr\u00fchling f\u00fcr Hitler"
+    },
+    {
+      "imdb_id": "tt0061852",
+      "title": "Das Dschungelbuch"
+    },
+    {
+      "imdb_id": "tt0060176",
+      "title": "Blow Up"
+    },
+    {
+      "imdb_id": "tt0059592",
+      "title": "Elf Uhr nachts"
+    },
+    {
+      "imdb_id": "tt0058182",
+      "title": "Yeah Yeah Yeah"
+    },
+    {
+      "imdb_id": "tt0057345",
+      "title": "Die Verachtung"
+    },
+    {
+      "imdb_id": "tt0056193",
+      "title": "Lolita"
+    },
+    {
+      "imdb_id": "tt0049261",
+      "title": "Giganten"
+    },
+    {
+      "imdb_id": "tt0046303",
+      "title": "Mein gro\u00dfer Freund Shane"
+    },
+    {
+      "imdb_id": "tt0045793",
+      "title": "Verdammt in alle Ewigkeit"
+    },
+    {
+      "imdb_id": "tt0029583",
+      "title": "Schneewittchen und die sieben Zwerge"
+    },
+    {
+      "imdb_id": "tt0840361",
+      "title": "The Town - Stadt ohne Gnade"
+    },
+    {
+      "imdb_id": "tt0441773",
+      "title": "Kung Fu Panda"
+    },
+    {
+      "imdb_id": "tt0217505",
+      "title": "Gangs of New York"
+    },
+    {
+      "imdb_id": "tt0091064",
+      "title": "Die Fliege"
+    }
+  ]
+}

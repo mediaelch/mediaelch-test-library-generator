@@ -1,0 +1,4005 @@
+{
+  "lang": "pt-BR",
+  "movies": [
+    {
+      "imdb_id": "tt0111161",
+      "title": "Um Sonho de Liberdade"
+    },
+    {
+      "imdb_id": "tt0068646",
+      "title": "O Poderoso Chef\u00e3o"
+    },
+    {
+      "imdb_id": "tt0468569",
+      "title": "Batman: O Cavaleiro das Trevas"
+    },
+    {
+      "imdb_id": "tt0071562",
+      "title": "O Poderoso Chef\u00e3o II"
+    },
+    {
+      "imdb_id": "tt0167260",
+      "title": "O Senhor dos An\u00e9is: O Retorno do Rei"
+    },
+    {
+      "imdb_id": "tt0110912",
+      "title": "Pulp Fiction: Tempo de Viol\u00eancia"
+    },
+    {
+      "imdb_id": "tt0108052",
+      "title": "A Lista de Schindler"
+    },
+    {
+      "imdb_id": "tt0050083",
+      "title": "12 Homens e uma Senten\u00e7a"
+    },
+    {
+      "imdb_id": "tt1375666",
+      "title": "A Origem"
+    },
+    {
+      "imdb_id": "tt0137523",
+      "title": "Clube da Luta"
+    },
+    {
+      "imdb_id": "tt0120737",
+      "title": "O Senhor dos An\u00e9is: A Sociedade do Anel"
+    },
+    {
+      "imdb_id": "tt0109830",
+      "title": "Forrest Gump: O Contador de Hist\u00f3rias"
+    },
+    {
+      "imdb_id": "tt0060196",
+      "title": "Tr\u00eas Homens em Conflito"
+    },
+    {
+      "imdb_id": "tt0167261",
+      "title": "O Senhor dos An\u00e9is: As Duas Torres"
+    },
+    {
+      "imdb_id": "tt0133093",
+      "title": "Matrix"
+    },
+    {
+      "imdb_id": "tt0099685",
+      "title": "Os Bons Companheiros"
+    },
+    {
+      "imdb_id": "tt0080684",
+      "title": "Star Wars, Epis\u00f3dio V: O Imp\u00e9rio Contra-Ataca"
+    },
+    {
+      "imdb_id": "tt0073486",
+      "title": "Um Estranho no Ninho"
+    },
+    {
+      "imdb_id": "tt0056058",
+      "title": "Harakiri"
+    },
+    {
+      "imdb_id": "tt7286456",
+      "title": "Coringa"
+    },
+    {
+      "imdb_id": "tt6751668",
+      "title": "Parasita"
+    },
+    {
+      "imdb_id": "tt0816692",
+      "title": "Interestelar"
+    },
+    {
+      "imdb_id": "tt0317248",
+      "title": "Cidade de Deus"
+    },
+    {
+      "imdb_id": "tt0245429",
+      "title": "A Viagem de Chihiro"
+    },
+    {
+      "imdb_id": "tt0120815",
+      "title": "O Resgate do Soldado Ryan"
+    },
+    {
+      "imdb_id": "tt0120689",
+      "title": "\u00c0 Espera de um Milagre"
+    },
+    {
+      "imdb_id": "tt0118799",
+      "title": "A Vida \u00e9 Bela"
+    },
+    {
+      "imdb_id": "tt0114369",
+      "title": "Seven: Os Sete Crimes Capitais"
+    },
+    {
+      "imdb_id": "tt0102926",
+      "title": "O Sil\u00eancio dos Inocentes"
+    },
+    {
+      "imdb_id": "tt0076759",
+      "title": "Guerra nas Estrelas"
+    },
+    {
+      "imdb_id": "tt0047478",
+      "title": "Os Sete Samurais"
+    },
+    {
+      "imdb_id": "tt0038650",
+      "title": "A Felicidade N\u00e3o se Compra"
+    },
+    {
+      "imdb_id": "tt8579674",
+      "title": "1917"
+    },
+    {
+      "imdb_id": "tt6316138",
+      "title": "Ayla"
+    },
+    {
+      "imdb_id": "tt4154796",
+      "title": "Vingadores: Ultimato"
+    },
+    {
+      "imdb_id": "tt4154756",
+      "title": "Vingadores: Guerra Infinita"
+    },
+    {
+      "imdb_id": "tt2582802",
+      "title": "Whiplash: Em Busca da Perfei\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt1675434",
+      "title": "Intoc\u00e1veis"
+    },
+    {
+      "imdb_id": "tt0482571",
+      "title": "O Grande Truque"
+    },
+    {
+      "imdb_id": "tt0407887",
+      "title": "Os Infiltrados"
+    },
+    {
+      "imdb_id": "tt0253474",
+      "title": "O Pianista"
+    },
+    {
+      "imdb_id": "tt0172495",
+      "title": "Gladiador"
+    },
+    {
+      "imdb_id": "tt0120586",
+      "title": "A Outra Hist\u00f3ria Americana"
+    },
+    {
+      "imdb_id": "tt0114814",
+      "title": "Os Suspeitos"
+    },
+    {
+      "imdb_id": "tt0110413",
+      "title": "O Profissional"
+    },
+    {
+      "imdb_id": "tt0110357",
+      "title": "O Rei Le\u00e3o"
+    },
+    {
+      "imdb_id": "tt0103064",
+      "title": "O Exterminador do Futuro 2: O Julgamento Final"
+    },
+    {
+      "imdb_id": "tt0095765",
+      "title": "Cinema Paradiso"
+    },
+    {
+      "imdb_id": "tt0095327",
+      "title": "T\u00famulo dos Vagalumes"
+    },
+    {
+      "imdb_id": "tt0088763",
+      "title": "De Volta para o Futuro"
+    },
+    {
+      "imdb_id": "tt0064116",
+      "title": "Era uma Vez no Oeste"
+    },
+    {
+      "imdb_id": "tt0057565",
+      "title": "C\u00e9u E Inferno"
+    },
+    {
+      "imdb_id": "tt0054215",
+      "title": "Psicose"
+    },
+    {
+      "imdb_id": "tt0034583",
+      "title": "Casablanca"
+    },
+    {
+      "imdb_id": "tt0032553",
+      "title": "O Grande Ditador"
+    },
+    {
+      "imdb_id": "tt0027977",
+      "title": "Tempos Modernos"
+    },
+    {
+      "imdb_id": "tt0021749",
+      "title": "Luzes da Cidade"
+    },
+    {
+      "imdb_id": "tt8291224",
+      "title": "Lethal Strike"
+    },
+    {
+      "imdb_id": "tt8267604",
+      "title": "Cafarnaum"
+    },
+    {
+      "imdb_id": "tt5311514",
+      "title": "Your Name."
+    },
+    {
+      "imdb_id": "tt5074352",
+      "title": "Dangal"
+    },
+    {
+      "imdb_id": "tt4633694",
+      "title": "Homem-Aranha no Aranhaverso"
+    },
+    {
+      "imdb_id": "tt3417422",
+      "title": "Drishyam"
+    },
+    {
+      "imdb_id": "tt2380307",
+      "title": "Viva: A Vida \u00e9 uma Festa"
+    },
+    {
+      "imdb_id": "tt1853728",
+      "title": "Django Livre"
+    },
+    {
+      "imdb_id": "tt1345836",
+      "title": "Batman: O Cavaleiro das Trevas Ressurge"
+    },
+    {
+      "imdb_id": "tt1187043",
+      "title": "3 Idiotas"
+    },
+    {
+      "imdb_id": "tt0986264",
+      "title": "Como Estrelas na Terra"
+    },
+    {
+      "imdb_id": "tt0910970",
+      "title": "WALL\u00b7E"
+    },
+    {
+      "imdb_id": "tt0405094",
+      "title": "A Vida dos Outros"
+    },
+    {
+      "imdb_id": "tt0364569",
+      "title": "Oldboy"
+    },
+    {
+      "imdb_id": "tt0209144",
+      "title": "Amn\u00e9sia"
+    },
+    {
+      "imdb_id": "tt0119698",
+      "title": "Princesa Mononoke"
+    },
+    {
+      "imdb_id": "tt0087843",
+      "title": "Era uma Vez na Am\u00e9rica"
+    },
+    {
+      "imdb_id": "tt0082971",
+      "title": "Indiana Jones e os Ca\u00e7adores da Arca Perdida"
+    },
+    {
+      "imdb_id": "tt0081505",
+      "title": "O Iluminado"
+    },
+    {
+      "imdb_id": "tt0078788",
+      "title": "Apocalypse Now"
+    },
+    {
+      "imdb_id": "tt0078748",
+      "title": "Alien, o Oitavo Passageiro"
+    },
+    {
+      "imdb_id": "tt0057012",
+      "title": "Dr. Fant\u00e1stico"
+    },
+    {
+      "imdb_id": "tt0051201",
+      "title": "Testemunha de Acusa\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0050825",
+      "title": "Gl\u00f3ria Feita de Sangue"
+    },
+    {
+      "imdb_id": "tt0047396",
+      "title": "Janela Indiscreta"
+    },
+    {
+      "imdb_id": "tt0043014",
+      "title": "Crep\u00fasculo dos Deuses"
+    },
+    {
+      "imdb_id": "tt8108198",
+      "title": "Assassinato \u00e0s Cegas"
+    },
+    {
+      "imdb_id": "tt2106476",
+      "title": "A Ca\u00e7a"
+    },
+    {
+      "imdb_id": "tt1832382",
+      "title": "A Separa\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt1255953",
+      "title": "Inc\u00eandios"
+    },
+    {
+      "imdb_id": "tt0476735",
+      "title": "Meu Pai e Meu Filho"
+    },
+    {
+      "imdb_id": "tt0435761",
+      "title": "Toy Story 3"
+    },
+    {
+      "imdb_id": "tt0361748",
+      "title": "Bastardos Ingl\u00f3rios"
+    },
+    {
+      "imdb_id": "tt0338013",
+      "title": "Brilho Eterno de uma Mente sem Lembran\u00e7as"
+    },
+    {
+      "imdb_id": "tt0211915",
+      "title": "O Fabuloso Destino de Am\u00e9lie Poulain"
+    },
+    {
+      "imdb_id": "tt0208092",
+      "title": "Snatch: Porcos e Diamantes"
+    },
+    {
+      "imdb_id": "tt0180093",
+      "title": "R\u00e9quiem para um Sonho"
+    },
+    {
+      "imdb_id": "tt0169547",
+      "title": "Beleza Americana"
+    },
+    {
+      "imdb_id": "tt0119217",
+      "title": "G\u00eanio Indom\u00e1vel"
+    },
+    {
+      "imdb_id": "tt0118849",
+      "title": "Filhos do Para\u00edso"
+    },
+    {
+      "imdb_id": "tt0116231",
+      "title": "O Bandido"
+    },
+    {
+      "imdb_id": "tt0114709",
+      "title": "Toy Story"
+    },
+    {
+      "imdb_id": "tt0112573",
+      "title": "Cora\u00e7\u00e3o Valente"
+    },
+    {
+      "imdb_id": "tt0105236",
+      "title": "C\u00e3es de Aluguel"
+    },
+    {
+      "imdb_id": "tt0093058",
+      "title": "Nascido para Matar"
+    },
+    {
+      "imdb_id": "tt0091251",
+      "title": "V\u00e1 e Veja"
+    },
+    {
+      "imdb_id": "tt0090605",
+      "title": "Aliens, o Resgate"
+    },
+    {
+      "imdb_id": "tt0086879",
+      "title": "Amadeus"
+    },
+    {
+      "imdb_id": "tt0086250",
+      "title": "Scarface"
+    },
+    {
+      "imdb_id": "tt0086190",
+      "title": "Star Wars, Epis\u00f3dio VI: O Retorno do Jedi"
+    },
+    {
+      "imdb_id": "tt0082096",
+      "title": "O Barco: Inferno no Mar"
+    },
+    {
+      "imdb_id": "tt0075314",
+      "title": "Taxi Driver: Motorista de T\u00e1xi"
+    },
+    {
+      "imdb_id": "tt0070735",
+      "title": "Golpe de Mestre"
+    },
+    {
+      "imdb_id": "tt0066921",
+      "title": "Laranja Mec\u00e2nica"
+    },
+    {
+      "imdb_id": "tt0062622",
+      "title": "2001: Uma Odiss\u00e9ia no Espa\u00e7o"
+    },
+    {
+      "imdb_id": "tt0059578",
+      "title": "Por uns D\u00f3lares a Mais"
+    },
+    {
+      "imdb_id": "tt0056592",
+      "title": "O Sol \u00e9 para Todos"
+    },
+    {
+      "imdb_id": "tt0056172",
+      "title": "Lawrence da Ar\u00e1bia"
+    },
+    {
+      "imdb_id": "tt0053604",
+      "title": "Se Meu Apartamento Falasse"
+    },
+    {
+      "imdb_id": "tt0053125",
+      "title": "Intriga Internacional"
+    },
+    {
+      "imdb_id": "tt0052357",
+      "title": "Um Corpo que Cai"
+    },
+    {
+      "imdb_id": "tt0045152",
+      "title": "Cantando na Chuva"
+    },
+    {
+      "imdb_id": "tt0044741",
+      "title": "Viver"
+    },
+    {
+      "imdb_id": "tt0040522",
+      "title": "Ladr\u00f5es de Bicicletas"
+    },
+    {
+      "imdb_id": "tt0036775",
+      "title": "Pacto de Sangue"
+    },
+    {
+      "imdb_id": "tt0033467",
+      "title": "Cidad\u00e3o Kane"
+    },
+    {
+      "imdb_id": "tt0022100",
+      "title": "M, o Vampiro de Dusseldorf"
+    },
+    {
+      "imdb_id": "tt0017136",
+      "title": "Metr\u00f3polis"
+    },
+    {
+      "imdb_id": "tt0012349",
+      "title": "O Garoto"
+    },
+    {
+      "imdb_id": "tt7838252",
+      "title": "K.G.F: Chapter 1"
+    },
+    {
+      "imdb_id": "tt6966692",
+      "title": "Green Book: O Guia"
+    },
+    {
+      "imdb_id": "tt5571734",
+      "title": "Pink"
+    },
+    {
+      "imdb_id": "tt5323662",
+      "title": "A Voz do Sil\u00eancio"
+    },
+    {
+      "imdb_id": "tt5027774",
+      "title": "Tr\u00eas An\u00fancios para um Crime"
+    },
+    {
+      "imdb_id": "tt4934950",
+      "title": "Culpa Declarada"
+    },
+    {
+      "imdb_id": "tt4849438",
+      "title": "Baahubali 2: A Conclus\u00e3o"
+    },
+    {
+      "imdb_id": "tt4729430",
+      "title": "Klaus"
+    },
+    {
+      "imdb_id": "tt4430212",
+      "title": "A Chantagem"
+    },
+    {
+      "imdb_id": "tt3322420",
+      "title": "Queen"
+    },
+    {
+      "imdb_id": "tt2991224",
+      "title": "Tangerinas"
+    },
+    {
+      "imdb_id": "tt2758880",
+      "title": "Sono de Inverno"
+    },
+    {
+      "imdb_id": "tt2356180",
+      "title": "Corra, Milkha, Corra"
+    },
+    {
+      "imdb_id": "tt2283748",
+      "title": "OMG: Oh My God!"
+    },
+    {
+      "imdb_id": "tt2096673",
+      "title": "Divertida Mente"
+    },
+    {
+      "imdb_id": "tt1954470",
+      "title": "Gangues de Wasseypur"
+    },
+    {
+      "imdb_id": "tt1950186",
+      "title": "Ford vs Ferrari"
+    },
+    {
+      "imdb_id": "tt1620933",
+      "title": "Paan Singh Tomar"
+    },
+    {
+      "imdb_id": "tt1305806",
+      "title": "O Segredo dos Seus Olhos"
+    },
+    {
+      "imdb_id": "tt1291584",
+      "title": "Guerreiro"
+    },
+    {
+      "imdb_id": "tt1049413",
+      "title": "Up: Altas Aventuras"
+    },
+    {
+      "imdb_id": "tt0993846",
+      "title": "O Lobo de Wall Street"
+    },
+    {
+      "imdb_id": "tt0871510",
+      "title": "Chakde! - Ein unschlagbares Team"
+    },
+    {
+      "imdb_id": "tt0469494",
+      "title": "Sangue Negro"
+    },
+    {
+      "imdb_id": "tt0457430",
+      "title": "O Labirinto do Fauno"
+    },
+    {
+      "imdb_id": "tt0434409",
+      "title": "V de Vingan\u00e7a"
+    },
+    {
+      "imdb_id": "tt0405508",
+      "title": "Pinte de A\u00e7afr\u00e3o"
+    },
+    {
+      "imdb_id": "tt0375611",
+      "title": "Black"
+    },
+    {
+      "imdb_id": "tt0372784",
+      "title": "Batman Begins"
+    },
+    {
+      "imdb_id": "tt0367110",
+      "title": "Swades - Heimat"
+    },
+    {
+      "imdb_id": "tt0363163",
+      "title": "A Queda! As \u00daltimas Horas de Hitler"
+    },
+    {
+      "imdb_id": "tt0347149",
+      "title": "O Castelo Animado"
+    },
+    {
+      "imdb_id": "tt0268978",
+      "title": "Uma Mente Brilhante"
+    },
+    {
+      "imdb_id": "tt0242519",
+      "title": "Hera Pheri"
+    },
+    {
+      "imdb_id": "tt0120735",
+      "title": "Jogos, Trapa\u00e7as e Dois Canos Fumegantes"
+    },
+    {
+      "imdb_id": "tt0119488",
+      "title": "Los Angeles: Cidade Proibida"
+    },
+    {
+      "imdb_id": "tt0113277",
+      "title": "Fogo Contra Fogo"
+    },
+    {
+      "imdb_id": "tt0112641",
+      "title": "Cassino"
+    },
+    {
+      "imdb_id": "tt0109117",
+      "title": "Andaz Apna Apna"
+    },
+    {
+      "imdb_id": "tt0105695",
+      "title": "Os Imperdo\u00e1veis"
+    },
+    {
+      "imdb_id": "tt0097576",
+      "title": "Indiana Jones e a \u00daltima Cruzada"
+    },
+    {
+      "imdb_id": "tt0096283",
+      "title": "Meu Amigo Totoro"
+    },
+    {
+      "imdb_id": "tt0095016",
+      "title": "Duro de Matar"
+    },
+    {
+      "imdb_id": "tt0089881",
+      "title": "Ran"
+    },
+    {
+      "imdb_id": "tt0081398",
+      "title": "Touro Indom\u00e1vel"
+    },
+    {
+      "imdb_id": "tt0079944",
+      "title": "Stalker"
+    },
+    {
+      "imdb_id": "tt0074896",
+      "title": "Maom\u00e9 - O Mensageiro de Al\u00e1"
+    },
+    {
+      "imdb_id": "tt0073707",
+      "title": "Sholay"
+    },
+    {
+      "imdb_id": "tt0071853",
+      "title": "Monty Python em Busca do C\u00e1lice Sagrado"
+    },
+    {
+      "imdb_id": "tt0071315",
+      "title": "Chinatown"
+    },
+    {
+      "imdb_id": "tt0060107",
+      "title": "Andrei Rublev"
+    },
+    {
+      "imdb_id": "tt0057115",
+      "title": "Fugindo do Inferno"
+    },
+    {
+      "imdb_id": "tt0055630",
+      "title": "Yojimbo, o Guarda-Costas"
+    },
+    {
+      "imdb_id": "tt0055031",
+      "title": "Julgamento em Nuremberg"
+    },
+    {
+      "imdb_id": "tt0053291",
+      "title": "Quanto Mais Quente Melhor"
+    },
+    {
+      "imdb_id": "tt0050986",
+      "title": "Morangos Silvestres"
+    },
+    {
+      "imdb_id": "tt0050976",
+      "title": "O S\u00e9timo Selo"
+    },
+    {
+      "imdb_id": "tt0046912",
+      "title": "Disque M para Matar"
+    },
+    {
+      "imdb_id": "tt0046438",
+      "title": "Era uma Vez em T\u00f3quio"
+    },
+    {
+      "imdb_id": "tt0043338",
+      "title": "A Montanha dos 7 Abutres"
+    },
+    {
+      "imdb_id": "tt0042876",
+      "title": "Rashomon"
+    },
+    {
+      "imdb_id": "tt0042192",
+      "title": "A Malvada"
+    },
+    {
+      "imdb_id": "tt0042041",
+      "title": "F\u00faria Sanguin\u00e1ria"
+    },
+    {
+      "imdb_id": "tt0040897",
+      "title": "O Tesouro da Sierra Madre"
+    },
+    {
+      "imdb_id": "tt0040725",
+      "title": "Os Sapatinhos Vermelhos"
+    },
+    {
+      "imdb_id": "tt0015864",
+      "title": "Em Busca do Ouro"
+    },
+    {
+      "imdb_id": "tt0015324",
+      "title": "Bancando o \u00c1guia"
+    },
+    {
+      "imdb_id": "tt7653254",
+      "title": "Hist\u00f3ria de um Casamento"
+    },
+    {
+      "imdb_id": "tt4857264",
+      "title": "Um Contratempo"
+    },
+    {
+      "imdb_id": "tt4016934",
+      "title": "A Criada"
+    },
+    {
+      "imdb_id": "tt3612616",
+      "title": "Mommy"
+    },
+    {
+      "imdb_id": "tt3390572",
+      "title": "Haider"
+    },
+    {
+      "imdb_id": "tt3315342",
+      "title": "Logan"
+    },
+    {
+      "imdb_id": "tt3281548",
+      "title": "Ador\u00e1veis Mulheres"
+    },
+    {
+      "imdb_id": "tt3170832",
+      "title": "O Quarto de Jack"
+    },
+    {
+      "imdb_id": "tt3011894",
+      "title": "Relatos Selvagens"
+    },
+    {
+      "imdb_id": "tt2631186",
+      "title": "Bahubali: O In\u00edcio"
+    },
+    {
+      "imdb_id": "tt2338151",
+      "title": "PK - Andere Sterne, Andere Sitten"
+    },
+    {
+      "imdb_id": "tt2278388",
+      "title": "O Grande Hotel Budapeste"
+    },
+    {
+      "imdb_id": "tt2267998",
+      "title": "Garota Exemplar"
+    },
+    {
+      "imdb_id": "tt2140203",
+      "title": "Crian\u00e7as Lobo"
+    },
+    {
+      "imdb_id": "tt2119532",
+      "title": "At\u00e9 o \u00daltimo Homem"
+    },
+    {
+      "imdb_id": "tt2082197",
+      "title": "Barfi!"
+    },
+    {
+      "imdb_id": "tt2024544",
+      "title": "12 Anos de Escravid\u00e3o"
+    },
+    {
+      "imdb_id": "tt1979320",
+      "title": "Rush: No Limite da Emo\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt1895587",
+      "title": "Spotlight: Segredos Revelados"
+    },
+    {
+      "imdb_id": "tt1865505",
+      "title": "A Can\u00e7\u00e3o do Oceano"
+    },
+    {
+      "imdb_id": "tt1821480",
+      "title": "Kahaani"
+    },
+    {
+      "imdb_id": "tt1639426",
+      "title": "Udaan"
+    },
+    {
+      "imdb_id": "tt1562872",
+      "title": "Tr\u00eas Amigos na Estrada"
+    },
+    {
+      "imdb_id": "tt1454029",
+      "title": "Hist\u00f3rias Cruzadas"
+    },
+    {
+      "imdb_id": "tt1392214",
+      "title": "Os Suspeitos"
+    },
+    {
+      "imdb_id": "tt1392190",
+      "title": "Mad Max: Estrada da F\u00faria"
+    },
+    {
+      "imdb_id": "tt1280558",
+      "title": "A Wednesday"
+    },
+    {
+      "imdb_id": "tt1205489",
+      "title": "Gran Torino"
+    },
+    {
+      "imdb_id": "tt1201607",
+      "title": "Harry Potter e as Rel\u00edquias da Morte - Parte 2"
+    },
+    {
+      "imdb_id": "tt1130884",
+      "title": "Ilha do Medo"
+    },
+    {
+      "imdb_id": "tt1069238",
+      "title": "A Partida"
+    },
+    {
+      "imdb_id": "tt1028532",
+      "title": "Sempre ao Seu Lado"
+    },
+    {
+      "imdb_id": "tt0978762",
+      "title": "Mary e Max: Uma Amizade Diferente"
+    },
+    {
+      "imdb_id": "tt0892769",
+      "title": "Como Treinar o Seu Drag\u00e3o"
+    },
+    {
+      "imdb_id": "tt0861739",
+      "title": "Tropa de Elite"
+    },
+    {
+      "imdb_id": "tt0758758",
+      "title": "Na Natureza Selvagem"
+    },
+    {
+      "imdb_id": "tt0477348",
+      "title": "Onde os Fracos N\u00e3o T\u00eam Vez"
+    },
+    {
+      "imdb_id": "tt0456144",
+      "title": "Siga em Frente Munna Bhai"
+    },
+    {
+      "imdb_id": "tt0405159",
+      "title": "Menina de Ouro"
+    },
+    {
+      "imdb_id": "tt0395169",
+      "title": "Hotel Ruanda"
+    },
+    {
+      "imdb_id": "tt0386064",
+      "title": "A Irmandade da Guerra"
+    },
+    {
+      "imdb_id": "tt0374887",
+      "title": "Munna Bhai M.B.B.S."
+    },
+    {
+      "imdb_id": "tt0353969",
+      "title": "Mem\u00f3rias de um Assassino"
+    },
+    {
+      "imdb_id": "tt0292490",
+      "title": "O Que o Cora\u00e7\u00e3o Deseja"
+    },
+    {
+      "imdb_id": "tt0266697",
+      "title": "Kill Bill: Volume 1"
+    },
+    {
+      "imdb_id": "tt0266543",
+      "title": "Procurando Nemo"
+    },
+    {
+      "imdb_id": "tt0264464",
+      "title": "Prenda-me se for Capaz"
+    },
+    {
+      "imdb_id": "tt0245712",
+      "title": "Amores Brutos"
+    },
+    {
+      "imdb_id": "tt0169858",
+      "title": "Neon Genesis Evangelion: O Fim do Evangelho"
+    },
+    {
+      "imdb_id": "tt0169102",
+      "title": "Lagaan: Era uma Vez na \u00cdndia"
+    },
+    {
+      "imdb_id": "tt0167404",
+      "title": "O Sexto Sentido"
+    },
+    {
+      "imdb_id": "tt0120731",
+      "title": "A Lenda do Pianista do Mar"
+    },
+    {
+      "imdb_id": "tt0120382",
+      "title": "O Show de Truman: O Show da Vida"
+    },
+    {
+      "imdb_id": "tt0118843",
+      "title": "Gata Preta, Gato Branco"
+    },
+    {
+      "imdb_id": "tt0118715",
+      "title": "O Grande Lebowski"
+    },
+    {
+      "imdb_id": "tt0118694",
+      "title": "Amor \u00e0 Flor da Pele"
+    },
+    {
+      "imdb_id": "tt0117951",
+      "title": "Trainspotting: Sem Limites"
+    },
+    {
+      "imdb_id": "tt0116282",
+      "title": "Fargo: Uma Com\u00e9dia de Erros"
+    },
+    {
+      "imdb_id": "tt0114787",
+      "title": "Underground - Mentiras de Guerra"
+    },
+    {
+      "imdb_id": "tt0113247",
+      "title": "O \u00d3dio"
+    },
+    {
+      "imdb_id": "tt0112870",
+      "title": "Dilwale Dulhania Le Jayenge"
+    },
+    {
+      "imdb_id": "tt0112471",
+      "title": "Antes do Amanhecer"
+    },
+    {
+      "imdb_id": "tt0111495",
+      "title": "A Fraternidade \u00e9 Vermelha"
+    },
+    {
+      "imdb_id": "tt0109424",
+      "title": "Amores Expressos"
+    },
+    {
+      "imdb_id": "tt0107290",
+      "title": "Jurassic Park: O Parque dos Dinossauros"
+    },
+    {
+      "imdb_id": "tt0107207",
+      "title": "Em Nome do Pai"
+    },
+    {
+      "imdb_id": "tt0101640",
+      "title": "Lanternas Vermelhas"
+    },
+    {
+      "imdb_id": "tt0097165",
+      "title": "Sociedade dos Poetas Mortos"
+    },
+    {
+      "imdb_id": "tt0093779",
+      "title": "A Princesa Prometida"
+    },
+    {
+      "imdb_id": "tt0092005",
+      "title": "Conta Comigo"
+    },
+    {
+      "imdb_id": "tt0091763",
+      "title": "Platoon"
+    },
+    {
+      "imdb_id": "tt0087884",
+      "title": "Paris, Texas"
+    },
+    {
+      "imdb_id": "tt0087544",
+      "title": "Nausica\u00e4 do Vale do Vento"
+    },
+    {
+      "imdb_id": "tt0084787",
+      "title": "O Enigma de Outro Mundo"
+    },
+    {
+      "imdb_id": "tt0084503",
+      "title": "Pink Floyd - The Wall"
+    },
+    {
+      "imdb_id": "tt0083946",
+      "title": "Fitzcarraldo"
+    },
+    {
+      "imdb_id": "tt0083922",
+      "title": "Fanny e Alexander"
+    },
+    {
+      "imdb_id": "tt0083658",
+      "title": "Blade Runner: O Ca\u00e7ador de Androides"
+    },
+    {
+      "imdb_id": "tt0080678",
+      "title": "O Homem Elefante"
+    },
+    {
+      "imdb_id": "tt0079470",
+      "title": "A Vida de Brian"
+    },
+    {
+      "imdb_id": "tt0077416",
+      "title": "O Franco Atirador"
+    },
+    {
+      "imdb_id": "tt0075148",
+      "title": "Rocky: Um Lutador"
+    },
+    {
+      "imdb_id": "tt0074958",
+      "title": "Rede de Intrigas"
+    },
+    {
+      "imdb_id": "tt0072684",
+      "title": "Barry Lyndon"
+    },
+    {
+      "imdb_id": "tt0072443",
+      "title": "O Espelho"
+    },
+    {
+      "imdb_id": "tt0069467",
+      "title": "Gritos e Sussurros"
+    },
+    {
+      "imdb_id": "tt0069293",
+      "title": "Solaris"
+    },
+    {
+      "imdb_id": "tt0062229",
+      "title": "O Samurai"
+    },
+    {
+      "imdb_id": "tt0061512",
+      "title": "Rebeldia Indom\u00e1vel"
+    },
+    {
+      "imdb_id": "tt0060827",
+      "title": "Quando Duas Mulheres Pecam"
+    },
+    {
+      "imdb_id": "tt0058946",
+      "title": "A Batalha de Argel"
+    },
+    {
+      "imdb_id": "tt0056732",
+      "title": "O Anjo Exterminador"
+    },
+    {
+      "imdb_id": "tt0056687",
+      "title": "O que Ter\u00e1 Acontecido a Baby Jane?"
+    },
+    {
+      "imdb_id": "tt0056443",
+      "title": "Sanjuro"
+    },
+    {
+      "imdb_id": "tt0056217",
+      "title": "O Homem que Matou o Fac\u00ednora"
+    },
+    {
+      "imdb_id": "tt0056111",
+      "title": "A Inf\u00e2ncia de Ivan"
+    },
+    {
+      "imdb_id": "tt0053946",
+      "title": "O Vento Ser\u00e1 Tua Heran\u00e7a"
+    },
+    {
+      "imdb_id": "tt0053198",
+      "title": "Os Incompreendidos"
+    },
+    {
+      "imdb_id": "tt0052618",
+      "title": "Ben-Hur"
+    },
+    {
+      "imdb_id": "tt0051808",
+      "title": "A Fortaleza Escondida"
+    },
+    {
+      "imdb_id": "tt0051036",
+      "title": "A Embriaguez do Sucesso"
+    },
+    {
+      "imdb_id": "tt0050783",
+      "title": "Noites de Cab\u00edria"
+    },
+    {
+      "imdb_id": "tt0050613",
+      "title": "Trono Manchado de Sangue"
+    },
+    {
+      "imdb_id": "tt0050212",
+      "title": "A Ponte do Rio Kwai"
+    },
+    {
+      "imdb_id": "tt0047296",
+      "title": "Sindicato de Ladr\u00f5es"
+    },
+    {
+      "imdb_id": "tt0046268",
+      "title": "O Sal\u00e1rio do Medo"
+    },
+    {
+      "imdb_id": "tt0041959",
+      "title": "O 3\u00ba Homem"
+    },
+    {
+      "imdb_id": "tt0033045",
+      "title": "A Loja da Esquina"
+    },
+    {
+      "imdb_id": "tt0032976",
+      "title": "Rebecca, a Mulher Inesquec\u00edvel"
+    },
+    {
+      "imdb_id": "tt0031885",
+      "title": "A Regra do Jogo"
+    },
+    {
+      "imdb_id": "tt0031679",
+      "title": "A Mulher Faz o Homem"
+    },
+    {
+      "imdb_id": "tt0031381",
+      "title": "...E o Vento Levou"
+    },
+    {
+      "imdb_id": "tt0028950",
+      "title": "A Grande Ilus\u00e3o"
+    },
+    {
+      "imdb_id": "tt0025316",
+      "title": "Aconteceu Naquela Noite"
+    },
+    {
+      "imdb_id": "tt0019254",
+      "title": "O Mart\u00edrio de Joana D'Arc"
+    },
+    {
+      "imdb_id": "tt0018455",
+      "title": "Aurora"
+    },
+    {
+      "imdb_id": "tt0017925",
+      "title": "A General"
+    },
+    {
+      "imdb_id": "tt0010323",
+      "title": "O Gabinete do Dr. Caligari"
+    },
+    {
+      "imdb_id": "tt8946378",
+      "title": "Entre Facas e Segredos"
+    },
+    {
+      "imdb_id": "tt8075192",
+      "title": "Assunto de Fam\u00edlia"
+    },
+    {
+      "imdb_id": "tt4387040",
+      "title": "Transporte A\u00e9reo"
+    },
+    {
+      "imdb_id": "tt3863552",
+      "title": "Bajrangi Bhaijaan"
+    },
+    {
+      "imdb_id": "tt3848892",
+      "title": "Baby"
+    },
+    {
+      "imdb_id": "tt3783958",
+      "title": "La La Land: Cantando Esta\u00e7\u00f5es"
+    },
+    {
+      "imdb_id": "tt3741834",
+      "title": "Lion: Uma Jornada para Casa"
+    },
+    {
+      "imdb_id": "tt3659388",
+      "title": "Perdido em Marte"
+    },
+    {
+      "imdb_id": "tt3544112",
+      "title": "Sing Street: M\u00fasica e Sonho"
+    },
+    {
+      "imdb_id": "tt2948356",
+      "title": "Zoomania"
+    },
+    {
+      "imdb_id": "tt2584384",
+      "title": "Jojo Rabbit"
+    },
+    {
+      "imdb_id": "tt2576852",
+      "title": "O Conto da Princesa Kaguya"
+    },
+    {
+      "imdb_id": "tt2543472",
+      "title": "Extraordin\u00e1rio"
+    },
+    {
+      "imdb_id": "tt2377938",
+      "title": "Special Chabbis"
+    },
+    {
+      "imdb_id": "tt2370248",
+      "title": "Tempor\u00e1rio 12"
+    },
+    {
+      "imdb_id": "tt2265171",
+      "title": "Opera\u00e7\u00e3o Invas\u00e3o 2"
+    },
+    {
+      "imdb_id": "tt2084970",
+      "title": "O Jogo da Imita\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt2015381",
+      "title": "Guardi\u00f5es da Gal\u00e1xia"
+    },
+    {
+      "imdb_id": "tt1877832",
+      "title": "X-Men: Dias de um Futuro Esquecido"
+    },
+    {
+      "imdb_id": "tt1856101",
+      "title": "Blade Runner 2049"
+    },
+    {
+      "imdb_id": "tt1798709",
+      "title": "Ela"
+    },
+    {
+      "imdb_id": "tt1727824",
+      "title": "Bohemian Rhapsody"
+    },
+    {
+      "imdb_id": "tt1663202",
+      "title": "O Regresso"
+    },
+    {
+      "imdb_id": "tt1659337",
+      "title": "As Vantagens de Ser Invis\u00edvel"
+    },
+    {
+      "imdb_id": "tt1555149",
+      "title": "Tropa de Elite 2: O Inimigo Agora \u00e9 Outro"
+    },
+    {
+      "imdb_id": "tt1504320",
+      "title": "O Discurso do Rei"
+    },
+    {
+      "imdb_id": "tt1431045",
+      "title": "Deadpool"
+    },
+    {
+      "imdb_id": "tt1360860",
+      "title": "Procurando Elly"
+    },
+    {
+      "imdb_id": "tt1327035",
+      "title": "Dev.D"
+    },
+    {
+      "imdb_id": "tt1302006",
+      "title": "O Irland\u00eas"
+    },
+    {
+      "imdb_id": "tt1220719",
+      "title": "O Grande Mestre"
+    },
+    {
+      "imdb_id": "tt1188996",
+      "title": "Meu Nome \u00e9 Khan"
+    },
+    {
+      "imdb_id": "tt1171701",
+      "title": "Nefes - Der Atemzug"
+    },
+    {
+      "imdb_id": "tt1010048",
+      "title": "Quem Quer Ser um Milion\u00e1rio?"
+    },
+    {
+      "imdb_id": "tt0947798",
+      "title": "Cisne Negro"
+    },
+    {
+      "imdb_id": "tt0848228",
+      "title": "The Avengers: Os Vingadores"
+    },
+    {
+      "imdb_id": "tt0808417",
+      "title": "Pers\u00e9polis"
+    },
+    {
+      "imdb_id": "tt0790636",
+      "title": "Clube de Compras Dallas"
+    },
+    {
+      "imdb_id": "tt0454921",
+      "title": "\u00c0 Procura da Felicidade"
+    },
+    {
+      "imdb_id": "tt0450259",
+      "title": "Diamante de Sangue"
+    },
+    {
+      "imdb_id": "tt0440963",
+      "title": "O Ultimato Bourne"
+    },
+    {
+      "imdb_id": "tt0423866",
+      "title": "Casa Vazia"
+    },
+    {
+      "imdb_id": "tt0401792",
+      "title": "Sin City: A Cidade do Pecado"
+    },
+    {
+      "imdb_id": "tt0401383",
+      "title": "O Escafandro e a Borboleta"
+    },
+    {
+      "imdb_id": "tt0384116",
+      "title": "G.O.R.A."
+    },
+    {
+      "imdb_id": "tt0382932",
+      "title": "Ratatouille"
+    },
+    {
+      "imdb_id": "tt0381681",
+      "title": "Antes do P\u00f4r-do-Sol"
+    },
+    {
+      "imdb_id": "tt0381061",
+      "title": "007: Cassino Royale"
+    },
+    {
+      "imdb_id": "tt0378194",
+      "title": "Kill Bill: Volume 2"
+    },
+    {
+      "imdb_id": "tt0376968",
+      "title": "O Retorno"
+    },
+    {
+      "imdb_id": "tt0374546",
+      "title": "Primavera, Ver\u00e3o, Outono, Inverno... e Primavera"
+    },
+    {
+      "imdb_id": "tt0369702",
+      "title": "Mar Adentro"
+    },
+    {
+      "imdb_id": "tt0352248",
+      "title": "A Luta pela Esperan\u00e7a"
+    },
+    {
+      "imdb_id": "tt0347304",
+      "title": "Indian Love Story - Kal Ho Naa Ho"
+    },
+    {
+      "imdb_id": "tt0338564",
+      "title": "Conflitos Internos"
+    },
+    {
+      "imdb_id": "tt0325980",
+      "title": "Piratas do Caribe: A Maldi\u00e7\u00e3o do P\u00e9rola Negra"
+    },
+    {
+      "imdb_id": "tt0319061",
+      "title": "Peixe Grande e suas Hist\u00f3rias Maravilhosas"
+    },
+    {
+      "imdb_id": "tt0317705",
+      "title": "Os Incr\u00edveis"
+    },
+    {
+      "imdb_id": "tt0293715",
+      "title": "Ironias do Amor"
+    },
+    {
+      "imdb_id": "tt0276919",
+      "title": "Dogville"
+    },
+    {
+      "imdb_id": "tt0270053",
+      "title": "Vison Tele"
+    },
+    {
+      "imdb_id": "tt0246578",
+      "title": "Donnie Darko"
+    },
+    {
+      "imdb_id": "tt0198781",
+      "title": "Monstros S.A."
+    },
+    {
+      "imdb_id": "tt0175880",
+      "title": "Magn\u00f3lia"
+    },
+    {
+      "imdb_id": "tt0168629",
+      "title": "Dan\u00e7ando no Escuro"
+    },
+    {
+      "imdb_id": "tt0166896",
+      "title": "Uma Hist\u00f3ria Real"
+    },
+    {
+      "imdb_id": "tt0156887",
+      "title": "Perfect Blue"
+    },
+    {
+      "imdb_id": "tt0154420",
+      "title": "Festa de Fam\u00edlia"
+    },
+    {
+      "imdb_id": "tt0140888",
+      "title": "Central do Brasil"
+    },
+    {
+      "imdb_id": "tt0129167",
+      "title": "O Gigante de Ferro"
+    },
+    {
+      "imdb_id": "tt0119472",
+      "title": "Knockin' on Heaven's Door"
+    },
+    {
+      "imdb_id": "tt0117666",
+      "title": "Na Corda Bamba"
+    },
+    {
+      "imdb_id": "tt0117589",
+      "title": "Segredos e Mentiras"
+    },
+    {
+      "imdb_id": "tt0114746",
+      "title": "Os 12 Macacos"
+    },
+    {
+      "imdb_id": "tt0113824",
+      "title": "Sussurros do Cora\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0113568",
+      "title": "O Fantasma do Futuro"
+    },
+    {
+      "imdb_id": "tt0107688",
+      "title": "O Estranho Mundo de Jack"
+    },
+    {
+      "imdb_id": "tt0107048",
+      "title": "Feiti\u00e7o do Tempo"
+    },
+    {
+      "imdb_id": "tt0106469",
+      "title": "Marcados Pelo Sangue"
+    },
+    {
+      "imdb_id": "tt0105323",
+      "title": "Perfume de Mulher"
+    },
+    {
+      "imdb_id": "tt0103639",
+      "title": "Aladdin"
+    },
+    {
+      "imdb_id": "tt0102138",
+      "title": "JFK: A Pergunta que N\u00e3o Quer Calar"
+    },
+    {
+      "imdb_id": "tt0101414",
+      "title": "A Bela e a Fera"
+    },
+    {
+      "imdb_id": "tt0099348",
+      "title": "Dan\u00e7a com Lobos"
+    },
+    {
+      "imdb_id": "tt0095953",
+      "title": "Rain Man"
+    },
+    {
+      "imdb_id": "tt0094625",
+      "title": "Akira"
+    },
+    {
+      "imdb_id": "tt0093191",
+      "title": "Asas do Desejo"
+    },
+    {
+      "imdb_id": "tt0092593",
+      "title": "Adeus, Meninos"
+    },
+    {
+      "imdb_id": "tt0092067",
+      "title": "O Castelo no C\u00e9u"
+    },
+    {
+      "imdb_id": "tt0088247",
+      "title": "O Exterminador do Futuro"
+    },
+    {
+      "imdb_id": "tt0085334",
+      "title": "Uma Hist\u00f3ria de Natal"
+    },
+    {
+      "imdb_id": "tt0083987",
+      "title": "Gandhi"
+    },
+    {
+      "imdb_id": "tt0080979",
+      "title": "Kagemusha, a Sombra de um Samurai"
+    },
+    {
+      "imdb_id": "tt0078841",
+      "title": "Muito Al\u00e9m do Jardim"
+    },
+    {
+      "imdb_id": "tt0075686",
+      "title": "Noivo Neur\u00f3tico, Noiva Nervosa"
+    },
+    {
+      "imdb_id": "tt0074119",
+      "title": "Todos os Homens do Presidente"
+    },
+    {
+      "imdb_id": "tt0073195",
+      "title": "Tubar\u00e3o"
+    },
+    {
+      "imdb_id": "tt0072890",
+      "title": "Um Dia de C\u00e3o"
+    },
+    {
+      "imdb_id": "tt0072431",
+      "title": "O Jovem Frankenstein"
+    },
+    {
+      "imdb_id": "tt0070511",
+      "title": "Papillon"
+    },
+    {
+      "imdb_id": "tt0070510",
+      "title": "Lua de Papel"
+    },
+    {
+      "imdb_id": "tt0070047",
+      "title": "O Exorcista"
+    },
+    {
+      "imdb_id": "tt0069281",
+      "title": "Jogo Mortal"
+    },
+    {
+      "imdb_id": "tt0068182",
+      "title": "Aguirre, a C\u00f3lera dos Deuses"
+    },
+    {
+      "imdb_id": "tt0067328",
+      "title": "A \u00daltima Sess\u00e3o de Cinema"
+    },
+    {
+      "imdb_id": "tt0067093",
+      "title": "Um Violinista no Telhado"
+    },
+    {
+      "imdb_id": "tt0064115",
+      "title": "Butch Cassidy"
+    },
+    {
+      "imdb_id": "tt0063522",
+      "title": "O Beb\u00ea de Rosemary"
+    },
+    {
+      "imdb_id": "tt0063442",
+      "title": "O Planeta dos Macacos"
+    },
+    {
+      "imdb_id": "tt0061811",
+      "title": "No Calor da Noite"
+    },
+    {
+      "imdb_id": "tt0061722",
+      "title": "A Primeira Noite de um Homem"
+    },
+    {
+      "imdb_id": "tt0061184",
+      "title": "Quem Tem Medo de Virginia Woolf?"
+    },
+    {
+      "imdb_id": "tt0059742",
+      "title": "A Novi\u00e7a Rebelde"
+    },
+    {
+      "imdb_id": "tt0059113",
+      "title": "Doutor Jivago"
+    },
+    {
+      "imdb_id": "tt0058461",
+      "title": "Por Um Punhado de D\u00f3lares"
+    },
+    {
+      "imdb_id": "tt0056801",
+      "title": "8\u00bd"
+    },
+    {
+      "imdb_id": "tt0054997",
+      "title": "Desafio \u00e0 Corrup\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0053779",
+      "title": "A Doce Vida"
+    },
+    {
+      "imdb_id": "tt0053221",
+      "title": "Onde Come\u00e7a o Inferno"
+    },
+    {
+      "imdb_id": "tt0052561",
+      "title": "Anatomia de um Crime"
+    },
+    {
+      "imdb_id": "tt0052311",
+      "title": "A Marca da Maldade"
+    },
+    {
+      "imdb_id": "tt0051459",
+      "title": "Gata em Teto de Zinco Quente"
+    },
+    {
+      "imdb_id": "tt0049406",
+      "title": "O Grande Golpe"
+    },
+    {
+      "imdb_id": "tt0048424",
+      "title": "O Mensageiro do Diabo"
+    },
+    {
+      "imdb_id": "tt0047528",
+      "title": "A Estrada da Vida"
+    },
+    {
+      "imdb_id": "tt0046911",
+      "title": "As Diab\u00f3licas"
+    },
+    {
+      "imdb_id": "tt0046359",
+      "title": "O Inferno N\u00ba 17"
+    },
+    {
+      "imdb_id": "tt0046250",
+      "title": "A Princesa e o Plebeu"
+    },
+    {
+      "imdb_id": "tt0044081",
+      "title": "Uma Rua Chamada Pecado"
+    },
+    {
+      "imdb_id": "tt0044079",
+      "title": "Pacto Sinistro"
+    },
+    {
+      "imdb_id": "tt0041546",
+      "title": "As Oito V\u00edtimas"
+    },
+    {
+      "imdb_id": "tt0040746",
+      "title": "Festim Diab\u00f3lico"
+    },
+    {
+      "imdb_id": "tt0039689",
+      "title": "Fuga do Passado"
+    },
+    {
+      "imdb_id": "tt0037558",
+      "title": "Desencanto"
+    },
+    {
+      "imdb_id": "tt0037008",
+      "title": "Laura"
+    },
+    {
+      "imdb_id": "tt0036868",
+      "title": "Os Melhores Anos de Nossa Vida"
+    },
+    {
+      "imdb_id": "tt0036613",
+      "title": "Este Mundo \u00e9 um Hosp\u00edcio"
+    },
+    {
+      "imdb_id": "tt0033870",
+      "title": "Rel\u00edquia Macabra"
+    },
+    {
+      "imdb_id": "tt0032551",
+      "title": "As Vinhas da Ira"
+    },
+    {
+      "imdb_id": "tt0032138",
+      "title": "O M\u00e1gico de Oz"
+    },
+    {
+      "imdb_id": "tt0020629",
+      "title": "Sem Novidade no Front"
+    },
+    {
+      "imdb_id": "tt0015648",
+      "title": "O Encoura\u00e7ado Potemkin"
+    },
+    {
+      "imdb_id": "tt5726616",
+      "title": "Me Chame pelo Seu Nome"
+    },
+    {
+      "imdb_id": "tt5168192",
+      "title": "Eu, Daniel Blake"
+    },
+    {
+      "imdb_id": "tt5104604",
+      "title": "Ilha dos Cachorros"
+    },
+    {
+      "imdb_id": "tt5013056",
+      "title": "Dunkirk"
+    },
+    {
+      "imdb_id": "tt4698684",
+      "title": "A Incr\u00edvel Aventura de Rick Baker"
+    },
+    {
+      "imdb_id": "tt3553976",
+      "title": "Capit\u00e3o Fant\u00e1stico"
+    },
+    {
+      "imdb_id": "tt3501632",
+      "title": "Thor: Ragnarok"
+    },
+    {
+      "imdb_id": "tt2872718",
+      "title": "O Abutre"
+    },
+    {
+      "imdb_id": "tt2543164",
+      "title": "A Chegada"
+    },
+    {
+      "imdb_id": "tt2488496",
+      "title": "Star Wars: O Despertar da For\u00e7a"
+    },
+    {
+      "imdb_id": "tt2209418",
+      "title": "Antes da Meia-Noite"
+    },
+    {
+      "imdb_id": "tt1979376",
+      "title": "Toy Story 4"
+    },
+    {
+      "imdb_id": "tt1827487",
+      "title": "Era uma Vez na Anatolia"
+    },
+    {
+      "imdb_id": "tt1655442",
+      "title": "O Artista"
+    },
+    {
+      "imdb_id": "tt1631867",
+      "title": "No Limite do Amanh\u00e3"
+    },
+    {
+      "imdb_id": "tt1602620",
+      "title": "Amor"
+    },
+    {
+      "imdb_id": "tt1398426",
+      "title": "Straight Outta Compton: A Hist\u00f3ria do N.W.A."
+    },
+    {
+      "imdb_id": "tt1235166",
+      "title": "O Profeta"
+    },
+    {
+      "imdb_id": "tt1190539",
+      "title": "O Ca\u00e7ador"
+    },
+    {
+      "imdb_id": "tt1182345",
+      "title": "Lunar"
+    },
+    {
+      "imdb_id": "tt1139797",
+      "title": "Deixa Ela Entrar"
+    },
+    {
+      "imdb_id": "tt1136608",
+      "title": "Distrito 9"
+    },
+    {
+      "imdb_id": "tt1125849",
+      "title": "O Lutador"
+    },
+    {
+      "imdb_id": "tt1093370",
+      "title": "Als ich Dich traf"
+    },
+    {
+      "imdb_id": "tt1065073",
+      "title": "Boyhood: Da Inf\u00e2ncia \u00e0 Juventude"
+    },
+    {
+      "imdb_id": "tt1032846",
+      "title": "4 Meses, 3 Semanas e 2 Dias"
+    },
+    {
+      "imdb_id": "tt0796366",
+      "title": "Star Trek"
+    },
+    {
+      "imdb_id": "tt0780536",
+      "title": "Na Mira do Chefe"
+    },
+    {
+      "imdb_id": "tt0756683",
+      "title": "O Homem da Terra"
+    },
+    {
+      "imdb_id": "tt0498380",
+      "title": "Cartas de Iwo Jima"
+    },
+    {
+      "imdb_id": "tt0460791",
+      "title": "Dubl\u00ea de Anjo"
+    },
+    {
+      "imdb_id": "tt0454876",
+      "title": "As Aventuras de Pi"
+    },
+    {
+      "imdb_id": "tt0401085",
+      "title": "C.R.A.Z.Y. - Loucos de Amor"
+    },
+    {
+      "imdb_id": "tt0372824",
+      "title": "A Voz do Cora\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0371746",
+      "title": "Homem de Ferro"
+    },
+    {
+      "imdb_id": "tt0365748",
+      "title": "Todo Mundo Quase Morto"
+    },
+    {
+      "imdb_id": "tt0347048",
+      "title": "Contra a Parede"
+    },
+    {
+      "imdb_id": "tt0327056",
+      "title": "Sobre Meninos e Lobos"
+    },
+    {
+      "imdb_id": "tt0304141",
+      "title": "Harry Potter e o Prisioneiro de Azkaban"
+    },
+    {
+      "imdb_id": "tt0299977",
+      "title": "Her\u00f3i"
+    },
+    {
+      "imdb_id": "tt0287467",
+      "title": "Fale com Ela"
+    },
+    {
+      "imdb_id": "tt0283509",
+      "title": "Terra de Ningu\u00e9m"
+    },
+    {
+      "imdb_id": "tt0275277",
+      "title": "Cowboy Bebop: O Filme"
+    },
+    {
+      "imdb_id": "tt0258463",
+      "title": "A Identidade Bourne"
+    },
+    {
+      "imdb_id": "tt0247586",
+      "title": "Nove Rainhas"
+    },
+    {
+      "imdb_id": "tt0206634",
+      "title": "Filhos da Esperan\u00e7a"
+    },
+    {
+      "imdb_id": "tt0181875",
+      "title": "Quase Famosos"
+    },
+    {
+      "imdb_id": "tt0166924",
+      "title": "Cidade dos Sonhos"
+    },
+    {
+      "imdb_id": "tt0120363",
+      "title": "Toy Story 2"
+    },
+    {
+      "imdb_id": "tt0118749",
+      "title": "Boogie Nights: Prazer Sem Limites"
+    },
+    {
+      "imdb_id": "tt0115751",
+      "title": "Ondas do Destino"
+    },
+    {
+      "imdb_id": "tt0110729",
+      "title": "O Amor e a F\u00faria"
+    },
+    {
+      "imdb_id": "tt0108399",
+      "title": "Amor \u00e0 Queima Roupa"
+    },
+    {
+      "imdb_id": "tt0108394",
+      "title": "A Liberdade \u00e9 Azul"
+    },
+    {
+      "imdb_id": "tt0107692",
+      "title": "Ninja Scroll"
+    },
+    {
+      "imdb_id": "tt0106519",
+      "title": "O Pagamento Final"
+    },
+    {
+      "imdb_id": "tt0099487",
+      "title": "Edward M\u00e3os de Tesoura"
+    },
+    {
+      "imdb_id": "tt0097937",
+      "title": "Meu P\u00e9 Esquerdo"
+    },
+    {
+      "imdb_id": "tt0097814",
+      "title": "O Servi\u00e7o de Entregas da Kiki"
+    },
+    {
+      "imdb_id": "tt0097216",
+      "title": "Fa\u00e7a a Coisa Certa"
+    },
+    {
+      "imdb_id": "tt0097123",
+      "title": "Crimes e Pecados"
+    },
+    {
+      "imdb_id": "tt0094226",
+      "title": "Os Intoc\u00e1veis"
+    },
+    {
+      "imdb_id": "tt0091167",
+      "title": "Hannah e suas Irm\u00e3s"
+    },
+    {
+      "imdb_id": "tt0088847",
+      "title": "Clube dos Cinco"
+    },
+    {
+      "imdb_id": "tt0088846",
+      "title": "Brazil: O Filme"
+    },
+    {
+      "imdb_id": "tt0088258",
+      "title": "Isto \u00e9 Spinal Tap"
+    },
+    {
+      "imdb_id": "tt0080455",
+      "title": "Os Irm\u00e3os Cara de Pau"
+    },
+    {
+      "imdb_id": "tt0079522",
+      "title": "Manhattan"
+    },
+    {
+      "imdb_id": "tt0078754",
+      "title": "O Show Deve Continuar"
+    },
+    {
+      "imdb_id": "tt0077405",
+      "title": "Cinzas no Para\u00edso"
+    },
+    {
+      "imdb_id": "tt0077402",
+      "title": "Despertar dos Mortos"
+    },
+    {
+      "imdb_id": "tt0075029",
+      "title": "Josey Wales, o Fora da Lei"
+    },
+    {
+      "imdb_id": "tt0071615",
+      "title": "A Montanha Sagrada"
+    },
+    {
+      "imdb_id": "tt0071129",
+      "title": "Amarcord"
+    },
+    {
+      "imdb_id": "tt0068361",
+      "title": "O Discreto Charme da Burguesia"
+    },
+    {
+      "imdb_id": "tt0067185",
+      "title": "Ensina-me a Viver"
+    },
+    {
+      "imdb_id": "tt0066206",
+      "title": "Patton, Rebelde ou Her\u00f3i?"
+    },
+    {
+      "imdb_id": "tt0065214",
+      "title": "Meu \u00d3dio Ser\u00e1 Sua Heran\u00e7a"
+    },
+    {
+      "imdb_id": "tt0063350",
+      "title": "A Noite dos Mortos-Vivos"
+    },
+    {
+      "imdb_id": "tt0063227",
+      "title": "O Le\u00e3o no Inverno"
+    },
+    {
+      "imdb_id": "tt0056923",
+      "title": "Charada"
+    },
+    {
+      "imdb_id": "tt0056218",
+      "title": "Sob o Dom\u00ednio do Mal"
+    },
+    {
+      "imdb_id": "tt0054331",
+      "title": "Spartacus"
+    },
+    {
+      "imdb_id": "tt0053472",
+      "title": "Acossado"
+    },
+    {
+      "imdb_id": "tt0052893",
+      "title": "Hiroshima, Meu Amor"
+    },
+    {
+      "imdb_id": "tt0049730",
+      "title": "Rastros de \u00d3dio"
+    },
+    {
+      "imdb_id": "tt0048028",
+      "title": "Vidas Amargas"
+    },
+    {
+      "imdb_id": "tt0044706",
+      "title": "Matar ou Morrer"
+    },
+    {
+      "imdb_id": "tt0042546",
+      "title": "Meu Amigo Harvey"
+    },
+    {
+      "imdb_id": "tt0039628",
+      "title": "De Ilus\u00e3o Tamb\u00e9m se Vive"
+    },
+    {
+      "imdb_id": "tt0038787",
+      "title": "Interl\u00fadio"
+    },
+    {
+      "imdb_id": "tt0038355",
+      "title": "\u00c0 Beira do Abismo"
+    },
+    {
+      "imdb_id": "tt0037884",
+      "title": "Farrapo Humano"
+    },
+    {
+      "imdb_id": "tt0037382",
+      "title": "Uma Aventura na Martinica"
+    },
+    {
+      "imdb_id": "tt0036342",
+      "title": "A Sombra de uma D\u00favida"
+    },
+    {
+      "imdb_id": "tt0032904",
+      "title": "N\u00fapcias de Esc\u00e2ndalo"
+    },
+    {
+      "imdb_id": "tt0032599",
+      "title": "Jejum de Amor"
+    },
+    {
+      "imdb_id": "tt0031971",
+      "title": "No Tempo das Dilig\u00eancias"
+    },
+    {
+      "imdb_id": "tt0029947",
+      "title": "Levada da Breca"
+    },
+    {
+      "imdb_id": "tt0029843",
+      "title": "As Aventuras de Robin Hood"
+    },
+    {
+      "imdb_id": "tt0026778",
+      "title": "Uma Noite na \u00d3pera"
+    },
+    {
+      "imdb_id": "tt0024216",
+      "title": "King Kong"
+    },
+    {
+      "imdb_id": "tt0022913",
+      "title": "Monstros"
+    },
+    {
+      "imdb_id": "tt0013442",
+      "title": "Nosferatu"
+    },
+    {
+      "imdb_id": "tt7984734",
+      "title": "O Farol"
+    },
+    {
+      "imdb_id": "tt5727208",
+      "title": "Joias Brutas"
+    },
+    {
+      "imdb_id": "tt5186714",
+      "title": "O Apartamento"
+    },
+    {
+      "imdb_id": "tt4912910",
+      "title": "Miss\u00e3o: Imposs\u00edvel - Efeito Fallout"
+    },
+    {
+      "imdb_id": "tt4901306",
+      "title": "Perfeitos Desconhecidos"
+    },
+    {
+      "imdb_id": "tt4846340",
+      "title": "Estrelas Al\u00e9m do Tempo"
+    },
+    {
+      "imdb_id": "tt4468740",
+      "title": "Paddington 2"
+    },
+    {
+      "imdb_id": "tt4302938",
+      "title": "Kubo e as Cordas M\u00e1gicas"
+    },
+    {
+      "imdb_id": "tt4034228",
+      "title": "Manchester \u00e0 Beira-Mar"
+    },
+    {
+      "imdb_id": "tt3841424",
+      "title": "Terra de Minas"
+    },
+    {
+      "imdb_id": "tt3748528",
+      "title": "Rogue One: Uma Hist\u00f3ria Star Wars"
+    },
+    {
+      "imdb_id": "tt3498820",
+      "title": "Capit\u00e3o Am\u00e9rica: Guerra Civil"
+    },
+    {
+      "imdb_id": "tt3460252",
+      "title": "Os Oito Odiados"
+    },
+    {
+      "imdb_id": "tt3262342",
+      "title": "Com Amor, Van Gogh"
+    },
+    {
+      "imdb_id": "tt3169706",
+      "title": "Orgulho e Esperan\u00e7a"
+    },
+    {
+      "imdb_id": "tt2404461",
+      "title": "O Passado"
+    },
+    {
+      "imdb_id": "tt2358891",
+      "title": "A Grande Beleza"
+    },
+    {
+      "imdb_id": "tt2350496",
+      "title": "The Lunchbox"
+    },
+    {
+      "imdb_id": "tt2317337",
+      "title": "Vicky Donor"
+    },
+    {
+      "imdb_id": "tt2245084",
+      "title": "Opera\u00e7\u00e3o Big Hero"
+    },
+    {
+      "imdb_id": "tt2194499",
+      "title": "Quest\u00e3o de Tempo"
+    },
+    {
+      "imdb_id": "tt2181931",
+      "title": "Englisch f\u00fcr Anf\u00e4nger"
+    },
+    {
+      "imdb_id": "tt2024519",
+      "title": "Alabama Monroe"
+    },
+    {
+      "imdb_id": "tt2013293",
+      "title": "Vidas ao Vento"
+    },
+    {
+      "imdb_id": "tt1924396",
+      "title": "O Melhor Lance"
+    },
+    {
+      "imdb_id": "tt1748122",
+      "title": "Moonrise Kingdom"
+    },
+    {
+      "imdb_id": "tt1646971",
+      "title": "Como Treinar o Seu Drag\u00e3o 2"
+    },
+    {
+      "imdb_id": "tt1596363",
+      "title": "A Grande Aposta"
+    },
+    {
+      "imdb_id": "tt1590089",
+      "title": "Confiss\u00f5es"
+    },
+    {
+      "imdb_id": "tt1588170",
+      "title": "Eu Vi o Diabo"
+    },
+    {
+      "imdb_id": "tt1568346",
+      "title": "Millennium: Os Homens que N\u00e3o Amavam as Mulheres"
+    },
+    {
+      "imdb_id": "tt1535109",
+      "title": "Capit\u00e3o Phillips"
+    },
+    {
+      "imdb_id": "tt1527788",
+      "title": "O Homem de Lugar Nenhum"
+    },
+    {
+      "imdb_id": "tt1490017",
+      "title": "Uma Aventura Lego"
+    },
+    {
+      "imdb_id": "tt1216496",
+      "title": "Mother - A Busca Pela Verdade"
+    },
+    {
+      "imdb_id": "tt1170358",
+      "title": "O Hobbit: A Desola\u00e7\u00e3o de Smaug"
+    },
+    {
+      "imdb_id": "tt1149362",
+      "title": "A Fita Branca"
+    },
+    {
+      "imdb_id": "tt1132620",
+      "title": "Os Homens que N\u00e3o Amavam as Mulheres"
+    },
+    {
+      "imdb_id": "tt0964517",
+      "title": "O Vencedor"
+    },
+    {
+      "imdb_id": "tt0936501",
+      "title": "Busca Implac\u00e1vel"
+    },
+    {
+      "imdb_id": "tt0914798",
+      "title": "O Menino do Pijama Listrado"
+    },
+    {
+      "imdb_id": "tt0907657",
+      "title": "Apenas Uma Vez"
+    },
+    {
+      "imdb_id": "tt0903624",
+      "title": "O Hobbit: Uma Jornada Inesperada"
+    },
+    {
+      "imdb_id": "tt0880502",
+      "title": "Do Outro Lado"
+    },
+    {
+      "imdb_id": "tt0808506",
+      "title": "A Garota que Conquistou o Tempo"
+    },
+    {
+      "imdb_id": "tt0783233",
+      "title": "Desejo e Repara\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0780504",
+      "title": "Drive"
+    },
+    {
+      "imdb_id": "tt0765429",
+      "title": "O G\u00e2ngster"
+    },
+    {
+      "imdb_id": "tt0499549",
+      "title": "Avatar"
+    },
+    {
+      "imdb_id": "tt0485947",
+      "title": "Sr. Ningu\u00e9m"
+    },
+    {
+      "imdb_id": "tt0472043",
+      "title": "Apocalypto"
+    },
+    {
+      "imdb_id": "tt0449059",
+      "title": "Pequena Miss Sunshine"
+    },
+    {
+      "imdb_id": "tt0432283",
+      "title": "O Fant\u00e1stico Sr. Raposo"
+    },
+    {
+      "imdb_id": "tt0425112",
+      "title": "Chumbo Grosso"
+    },
+    {
+      "imdb_id": "tt0421715",
+      "title": "O Curioso Caso de Benjamin Button"
+    },
+    {
+      "imdb_id": "tt0420332",
+      "title": "Veer-Zaara"
+    },
+    {
+      "imdb_id": "tt0418455",
+      "title": "Entre o Bem e o Mal"
+    },
+    {
+      "imdb_id": "tt0414387",
+      "title": "Orgulho & Preconceito"
+    },
+    {
+      "imdb_id": "tt0412080",
+      "title": "Desafiando os Limites"
+    },
+    {
+      "imdb_id": "tt0388473",
+      "title": "Padrinhos de T\u00f3quio"
+    },
+    {
+      "imdb_id": "tt0379786",
+      "title": "Serenity: A Luta Pelo Amanh\u00e3"
+    },
+    {
+      "imdb_id": "tt0375679",
+      "title": "Crash: No Limite"
+    },
+    {
+      "imdb_id": "tt0358273",
+      "title": "Johnny & June"
+    },
+    {
+      "imdb_id": "tt0338309",
+      "title": "Evil: Ra\u00edzes do Mal"
+    },
+    {
+      "imdb_id": "tt0332280",
+      "title": "Di\u00e1rio de uma Paix\u00e3o"
+    },
+    {
+      "imdb_id": "tt0318462",
+      "title": "Di\u00e1rios de Motocicleta"
+    },
+    {
+      "imdb_id": "tt0300140",
+      "title": "Para Sempre Lilya"
+    },
+    {
+      "imdb_id": "tt0286244",
+      "title": "As Bicicletas de Belleville"
+    },
+    {
+      "imdb_id": "tt0245844",
+      "title": "O Conde de Monte Cristo"
+    },
+    {
+      "imdb_id": "tt0243017",
+      "title": "Acordar para a Vida"
+    },
+    {
+      "imdb_id": "tt0240772",
+      "title": "Onze Homens e um Segredo"
+    },
+    {
+      "imdb_id": "tt0210945",
+      "title": "Duelo de Tit\u00e3s"
+    },
+    {
+      "imdb_id": "tt0190332",
+      "title": "O Tigre e o Drag\u00e3o"
+    },
+    {
+      "imdb_id": "tt0185125",
+      "title": "Tudo Sobre Minha M\u00e3e"
+    },
+    {
+      "imdb_id": "tt0162222",
+      "title": "N\u00e1ufrago"
+    },
+    {
+      "imdb_id": "tt0144117",
+      "title": "Santos Justiceiros"
+    },
+    {
+      "imdb_id": "tt0140352",
+      "title": "O Informante"
+    },
+    {
+      "imdb_id": "tt0132477",
+      "title": "O C\u00e9u de Outubro"
+    },
+    {
+      "imdb_id": "tt0126029",
+      "title": "Shrek"
+    },
+    {
+      "imdb_id": "tt0125659",
+      "title": "Preso na Escurid\u00e3o"
+    },
+    {
+      "imdb_id": "tt0120338",
+      "title": "Titanic"
+    },
+    {
+      "imdb_id": "tt0119250",
+      "title": "Fogos de Artif\u00edcio"
+    },
+    {
+      "imdb_id": "tt0119177",
+      "title": "Gattaca, uma Experi\u00eancia Gen\u00e9tica"
+    },
+    {
+      "imdb_id": "tt0119174",
+      "title": "Vidas em Jogo"
+    },
+    {
+      "imdb_id": "tt0109707",
+      "title": "Ed Wood"
+    },
+    {
+      "imdb_id": "tt0108550",
+      "title": "Gilbert Grape: Aprendiz de Sonhador"
+    },
+    {
+      "imdb_id": "tt0108358",
+      "title": "Tombstone: A Justi\u00e7a Est\u00e1 Chegando"
+    },
+    {
+      "imdb_id": "tt0108037",
+      "title": "Se Brincar o Bicho Morde"
+    },
+    {
+      "imdb_id": "tt0107943",
+      "title": "Vest\u00edgios do Dia"
+    },
+    {
+      "imdb_id": "tt0107653",
+      "title": "Nu"
+    },
+    {
+      "imdb_id": "tt0106977",
+      "title": "O Fugitivo"
+    },
+    {
+      "imdb_id": "tt0106489",
+      "title": "Desafio no Bronx"
+    },
+    {
+      "imdb_id": "tt0106364",
+      "title": "Batman: A M\u00e1scara do Fantasma"
+    },
+    {
+      "imdb_id": "tt0104684",
+      "title": "Fervura M\u00e1xima"
+    },
+    {
+      "imdb_id": "tt0104652",
+      "title": "Porco Rosso: O \u00daltimo Her\u00f3i Rom\u00e2ntico"
+    },
+    {
+      "imdb_id": "tt0102536",
+      "title": "Uma Noite Sobre a Terra"
+    },
+    {
+      "imdb_id": "tt0101765",
+      "title": "A Dupla Vida de V\u00e9ronique"
+    },
+    {
+      "imdb_id": "tt0100157",
+      "title": "Louca Obsess\u00e3o"
+    },
+    {
+      "imdb_id": "tt0100150",
+      "title": "Ajuste Final"
+    },
+    {
+      "imdb_id": "tt0099077",
+      "title": "Tempo de Despertar"
+    },
+    {
+      "imdb_id": "tt0097441",
+      "title": "Tempo de Gl\u00f3ria"
+    },
+    {
+      "imdb_id": "tt0097202",
+      "title": "O Matador"
+    },
+    {
+      "imdb_id": "tt0096874",
+      "title": "De Volta para o Futuro II"
+    },
+    {
+      "imdb_id": "tt0095647",
+      "title": "Mississippi em Chamas"
+    },
+    {
+      "imdb_id": "tt0093773",
+      "title": "O Predador"
+    },
+    {
+      "imdb_id": "tt0092991",
+      "title": "Uma Noite Alucinante 2"
+    },
+    {
+      "imdb_id": "tt0092965",
+      "title": "Imp\u00e9rio do Sol"
+    },
+    {
+      "imdb_id": "tt0091042",
+      "title": "Curtindo a Vida Adoidado"
+    },
+    {
+      "imdb_id": "tt0090967",
+      "title": "Daunbail\u00f3"
+    },
+    {
+      "imdb_id": "tt0090756",
+      "title": "Veludo Azul"
+    },
+    {
+      "imdb_id": "tt0089218",
+      "title": "Os Goonies"
+    },
+    {
+      "imdb_id": "tt0088939",
+      "title": "A Cor P\u00farpura"
+    },
+    {
+      "imdb_id": "tt0087553",
+      "title": "Os Gritos do Sil\u00eancio"
+    },
+    {
+      "imdb_id": "tt0087332",
+      "title": "Os Ca\u00e7a-Fantasmas"
+    },
+    {
+      "imdb_id": "tt0086197",
+      "title": "Os Eleitos: Onde o Futuro Come\u00e7a"
+    },
+    {
+      "imdb_id": "tt0085794",
+      "title": "O Rei da Com\u00e9dia"
+    },
+    {
+      "imdb_id": "tt0083866",
+      "title": "E.T.: O Extraterrestre"
+    },
+    {
+      "imdb_id": "tt0079417",
+      "title": "Kramer vs. Kramer"
+    },
+    {
+      "imdb_id": "tt0077651",
+      "title": "Halloween: A Noite do Terror"
+    },
+    {
+      "imdb_id": "tt0073341",
+      "title": "O Homem que Queria ser Rei"
+    },
+    {
+      "imdb_id": "tt0071360",
+      "title": "A Conversa\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0069947",
+      "title": "O Dia do Chacal"
+    },
+    {
+      "imdb_id": "tt0069762",
+      "title": "Terra de Ningu\u00e9m"
+    },
+    {
+      "imdb_id": "tt0068327",
+      "title": "Cabaret"
+    },
+    {
+      "imdb_id": "tt0067992",
+      "title": "A Fant\u00e1stica F\u00e1brica de Chocolate"
+    },
+    {
+      "imdb_id": "tt0064665",
+      "title": "Perdidos na Noite"
+    },
+    {
+      "imdb_id": "tt0062467",
+      "title": "Um Clar\u00e3o nas Trevas"
+    },
+    {
+      "imdb_id": "tt0061735",
+      "title": "Adivinhe Quem vem para Jantar"
+    },
+    {
+      "imdb_id": "tt0061578",
+      "title": "Os Doze Condenados"
+    },
+    {
+      "imdb_id": "tt0061418",
+      "title": "Bonnie e Clyde: Uma Rajada de Balas"
+    },
+    {
+      "imdb_id": "tt0058385",
+      "title": "Minha Bela Dama"
+    },
+    {
+      "imdb_id": "tt0058331",
+      "title": "Mary Poppins"
+    },
+    {
+      "imdb_id": "tt0056197",
+      "title": "O Mais Longo dos Dias"
+    },
+    {
+      "imdb_id": "tt0055032",
+      "title": "Jules e Jim - Uma Mulher para Dois"
+    },
+    {
+      "imdb_id": "tt0049833",
+      "title": "Os Dez Mandamentos"
+    },
+    {
+      "imdb_id": "tt0045061",
+      "title": "Depois do Vendaval"
+    },
+    {
+      "imdb_id": "tt0040724",
+      "title": "Rio Vermelho"
+    },
+    {
+      "imdb_id": "tt0040506",
+      "title": "Paix\u00f5es em F\u00faria"
+    },
+    {
+      "imdb_id": "tt0032455",
+      "title": "Fantasia"
+    },
+    {
+      "imdb_id": "tt0030341",
+      "title": "A Dama Oculta"
+    },
+    {
+      "imdb_id": "tt0026138",
+      "title": "A Noiva de Frankenstein"
+    },
+    {
+      "imdb_id": "tt0023969",
+      "title": "O Diabo a Quatro"
+    },
+    {
+      "imdb_id": "tt0021884",
+      "title": "Frankenstein"
+    },
+    {
+      "imdb_id": "tt8637428",
+      "title": "A Despedida"
+    },
+    {
+      "imdb_id": "tt7131622",
+      "title": "Era Uma Vez em... Hollywood"
+    },
+    {
+      "imdb_id": "tt6155172",
+      "title": "Roma"
+    },
+    {
+      "imdb_id": "tt5463162",
+      "title": "Deadpool 2"
+    },
+    {
+      "imdb_id": "tt5362988",
+      "title": "Terra Selvagem"
+    },
+    {
+      "imdb_id": "tt5052448",
+      "title": "Corra!"
+    },
+    {
+      "imdb_id": "tt4364194",
+      "title": "The Peanut Butter Falcon"
+    },
+    {
+      "imdb_id": "tt4226388",
+      "title": "Victoria"
+    },
+    {
+      "imdb_id": "tt4080728",
+      "title": "Um Homem Chamado Ove"
+    },
+    {
+      "imdb_id": "tt3829920",
+      "title": "Homens de Coragem"
+    },
+    {
+      "imdb_id": "tt3606756",
+      "title": "Os Incr\u00edveis 2"
+    },
+    {
+      "imdb_id": "tt3416742",
+      "title": "O que Fazemos nas Sombras"
+    },
+    {
+      "imdb_id": "tt3398268",
+      "title": "As Mem\u00f3rias de Marnie"
+    },
+    {
+      "imdb_id": "tt2980516",
+      "title": "A Teoria de Tudo"
+    },
+    {
+      "imdb_id": "tt2802144",
+      "title": "Kingsman: Servi\u00e7o Secreto"
+    },
+    {
+      "imdb_id": "tt2582846",
+      "title": "A Culpa \u00e9 das Estrelas"
+    },
+    {
+      "imdb_id": "tt2582496",
+      "title": "Eu, Voc\u00ea e a Garota Que Vai Morrer"
+    },
+    {
+      "imdb_id": "tt2562232",
+      "title": "Birdman ou (A Inesperada Virtude da Ignor\u00e2ncia)"
+    },
+    {
+      "imdb_id": "tt2278871",
+      "title": "Azul \u00e9 a Cor Mais Quente"
+    },
+    {
+      "imdb_id": "tt1843866",
+      "title": "Capit\u00e3o Am\u00e9rica 2: O Soldado Invernal"
+    },
+    {
+      "imdb_id": "tt1821549",
+      "title": "Nebraska"
+    },
+    {
+      "imdb_id": "tt1772341",
+      "title": "Detona Ralph"
+    },
+    {
+      "imdb_id": "tt1754656",
+      "title": "O Pequeno Pr\u00edncipe"
+    },
+    {
+      "imdb_id": "tt1683526",
+      "title": "O Substituto"
+    },
+    {
+      "imdb_id": "tt1605783",
+      "title": "Meia-Noite em Paris"
+    },
+    {
+      "imdb_id": "tt1517451",
+      "title": "Nasce uma Estrela"
+    },
+    {
+      "imdb_id": "tt1454468",
+      "title": "Gravidade"
+    },
+    {
+      "imdb_id": "tt1408101",
+      "title": "Al\u00e9m da Escurid\u00e3o: Star Trek"
+    },
+    {
+      "imdb_id": "tt1365050",
+      "title": "Beasts of No Nation"
+    },
+    {
+      "imdb_id": "tt1285016",
+      "title": "A Rede Social"
+    },
+    {
+      "imdb_id": "tt1270798",
+      "title": "X-Men: Primeira Classe"
+    },
+    {
+      "imdb_id": "tt1119646",
+      "title": "Se Beber, N\u00e3o Case!"
+    },
+    {
+      "imdb_id": "tt1074638",
+      "title": "007 - Opera\u00e7\u00e3o Skyfall"
+    },
+    {
+      "imdb_id": "tt1045658",
+      "title": "O Lado Bom da Vida"
+    },
+    {
+      "imdb_id": "tt1024648",
+      "title": "Argo"
+    },
+    {
+      "imdb_id": "tt1022603",
+      "title": "(500) Dias com Ela"
+    },
+    {
+      "imdb_id": "tt0926084",
+      "title": "Harry Potter e as Rel\u00edquias da Morte - Parte 1"
+    },
+    {
+      "imdb_id": "tt0876563",
+      "title": "Ponyo: Uma Amizade que Veio do Mar"
+    },
+    {
+      "imdb_id": "tt0870111",
+      "title": "Frost/Nixon"
+    },
+    {
+      "imdb_id": "tt0851578",
+      "title": "Paprika"
+    },
+    {
+      "imdb_id": "tt0824747",
+      "title": "A Troca"
+    },
+    {
+      "imdb_id": "tt0817177",
+      "title": "O Primeiro Amor"
+    },
+    {
+      "imdb_id": "tt0758742",
+      "title": "Death Note: O Primeiro Nome"
+    },
+    {
+      "imdb_id": "tt0480025",
+      "title": "Isto \u00e9 Inglaterra"
+    },
+    {
+      "imdb_id": "tt0470752",
+      "title": "Ex_Machina: Instinto Artificial"
+    },
+    {
+      "imdb_id": "tt0457655",
+      "title": "Depois do Casamento"
+    },
+    {
+      "imdb_id": "tt0455590",
+      "title": "O \u00daltimo Rei da Esc\u00f3cia"
+    },
+    {
+      "imdb_id": "tt0443706",
+      "title": "Zod\u00edaco"
+    },
+    {
+      "imdb_id": "tt0425210",
+      "title": "Xeque-Mate"
+    },
+    {
+      "imdb_id": "tt0424205",
+      "title": "Feliz Natal"
+    },
+    {
+      "imdb_id": "tt0421082",
+      "title": "Controle: A Hist\u00f3ria de Ian Curtis"
+    },
+    {
+      "imdb_id": "tt0398286",
+      "title": "Enrolados"
+    },
+    {
+      "imdb_id": "tt0389557",
+      "title": "A Espi\u00e3"
+    },
+    {
+      "imdb_id": "tt0388795",
+      "title": "O Segredo de Brokeback Mountain"
+    },
+    {
+      "imdb_id": "tt0381849",
+      "title": "Os Indom\u00e1veis"
+    },
+    {
+      "imdb_id": "tt0373074",
+      "title": "Kung-Fus\u00e3o"
+    },
+    {
+      "imdb_id": "tt0372183",
+      "title": "A Supremacia Bourne"
+    },
+    {
+      "imdb_id": "tt0361862",
+      "title": "O Oper\u00e1rio"
+    },
+    {
+      "imdb_id": "tt0350258",
+      "title": "Ray"
+    },
+    {
+      "imdb_id": "tt0335266",
+      "title": "Encontros e Desencontros"
+    },
+    {
+      "imdb_id": "tt0330373",
+      "title": "Harry Potter e o C\u00e1lice de Fogo"
+    },
+    {
+      "imdb_id": "tt0328107",
+      "title": "Chamas da Vingan\u00e7a"
+    },
+    {
+      "imdb_id": "tt0327597",
+      "title": "Coraline e o Mundo Secreto"
+    },
+    {
+      "imdb_id": "tt0325710",
+      "title": "O \u00daltimo Samurai"
+    },
+    {
+      "imdb_id": "tt0318411",
+      "title": "Em Nome de Deus"
+    },
+    {
+      "imdb_id": "tt0315733",
+      "title": "21 Gramas"
+    },
+    {
+      "imdb_id": "tt0308644",
+      "title": "Em Busca da Terra do Nunca"
+    },
+    {
+      "imdb_id": "tt0301357",
+      "title": "Adeus, Lenin!"
+    },
+    {
+      "imdb_id": "tt0298845",
+      "title": "Terra de Sonhos"
+    },
+    {
+      "imdb_id": "tt0268126",
+      "title": "Adapta\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0265086",
+      "title": "Falc\u00e3o Negro em Perigo"
+    },
+    {
+      "imdb_id": "tt0257044",
+      "title": "Estrada para Perdi\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0250258",
+      "title": "A Experi\u00eancia"
+    },
+    {
+      "imdb_id": "tt0249462",
+      "title": "Billy Elliot"
+    },
+    {
+      "imdb_id": "tt0248845",
+      "title": "Hedwig: Rock, Amor e Trai\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0216651",
+      "title": "Vampire Hunter D: Bloodlust"
+    },
+    {
+      "imdb_id": "tt0190590",
+      "title": "E A\u00ed, Meu Irm\u00e3o, Cad\u00ea Voc\u00ea?"
+    },
+    {
+      "imdb_id": "tt0165832",
+      "title": "Viagem Sem Destino"
+    },
+    {
+      "imdb_id": "tt0158983",
+      "title": "South Park: Maior, Melhor e Sem Cortes"
+    },
+    {
+      "imdb_id": "tt0151804",
+      "title": "Como Enlouquecer seu Chefe"
+    },
+    {
+      "imdb_id": "tt0147612",
+      "title": "Felicidade"
+    },
+    {
+      "imdb_id": "tt0139654",
+      "title": "Dia de Treinamento"
+    },
+    {
+      "imdb_id": "tt0128445",
+      "title": "Tr\u00eas \u00e9 Demais"
+    },
+    {
+      "imdb_id": "tt0120601",
+      "title": "Quero ser John Malkovich"
+    },
+    {
+      "imdb_id": "tt0119822",
+      "title": "Melhor \u00e9 Imposs\u00edvel"
+    },
+    {
+      "imdb_id": "tt0119116",
+      "title": "O Quinto Elemento"
+    },
+    {
+      "imdb_id": "tt0119038",
+      "title": "O Jantar dos Malas"
+    },
+    {
+      "imdb_id": "tt0119008",
+      "title": "Donnie Brasco"
+    },
+    {
+      "imdb_id": "tt0117631",
+      "title": "Shine: Brilhante"
+    },
+    {
+      "imdb_id": "tt0117381",
+      "title": "As Duas Faces de um Crime"
+    },
+    {
+      "imdb_id": "tt0116477",
+      "title": "Hamlet"
+    },
+    {
+      "imdb_id": "tt0113670",
+      "title": "A Princesinha"
+    },
+    {
+      "imdb_id": "tt0110877",
+      "title": "O Carteiro e o Poeta"
+    },
+    {
+      "imdb_id": "tt0109445",
+      "title": "O Balconista"
+    },
+    {
+      "imdb_id": "tt0108122",
+      "title": "Short Cuts - Cenas da Vida"
+    },
+    {
+      "imdb_id": "tt0107818",
+      "title": "Filad\u00e9lfia"
+    },
+    {
+      "imdb_id": "tt0104940",
+      "title": "O Conto de Natal dos Muppets"
+    },
+    {
+      "imdb_id": "tt0104797",
+      "title": "Malcolm X"
+    },
+    {
+      "imdb_id": "tt0104691",
+      "title": "O \u00daltimo dos Moicanos"
+    },
+    {
+      "imdb_id": "tt0104348",
+      "title": "O Sucesso a Qualquer Pre\u00e7o"
+    },
+    {
+      "imdb_id": "tt0104257",
+      "title": "Quest\u00e3o de Honra"
+    },
+    {
+      "imdb_id": "tt0101921",
+      "title": "Tomates Verdes Fritos"
+    },
+    {
+      "imdb_id": "tt0101507",
+      "title": "Os Donos da Rua"
+    },
+    {
+      "imdb_id": "tt0101410",
+      "title": "Barton Fink, Del\u00edrios de Hollywood"
+    },
+    {
+      "imdb_id": "tt0096438",
+      "title": "Uma Cilada para Roger Rabbit"
+    },
+    {
+      "imdb_id": "tt0096163",
+      "title": "O Sil\u00eancio do Lago"
+    },
+    {
+      "imdb_id": "tt0094336",
+      "title": "Os Desajustados"
+    },
+    {
+      "imdb_id": "tt0093389",
+      "title": "O \u00daltimo Imperador"
+    },
+    {
+      "imdb_id": "tt0091605",
+      "title": "O Nome da Rosa"
+    },
+    {
+      "imdb_id": "tt0089853",
+      "title": "A Rosa P\u00farpura do Cairo"
+    },
+    {
+      "imdb_id": "tt0088680",
+      "title": "Depois de Horas"
+    },
+    {
+      "imdb_id": "tt0086637",
+      "title": "Zelig"
+    },
+    {
+      "imdb_id": "tt0084855",
+      "title": "O Veredicto"
+    },
+    {
+      "imdb_id": "tt0084726",
+      "title": "Jornada nas Estrelas II: A Ira de Khan"
+    },
+    {
+      "imdb_id": "tt0083944",
+      "title": "Rambo - Programado Para Matar"
+    },
+    {
+      "imdb_id": "tt0081283",
+      "title": "Gente como a Gente"
+    },
+    {
+      "imdb_id": "tt0080339",
+      "title": "Apertem os Cintos, o Piloto Sumiu"
+    },
+    {
+      "imdb_id": "tt0074811",
+      "title": "O Inquilino"
+    },
+    {
+      "imdb_id": "tt0073312",
+      "title": "A \u00daltima Noite de B\u00f3ris Grushenko"
+    },
+    {
+      "imdb_id": "tt0071230",
+      "title": "Banz\u00e9 no Oeste"
+    },
+    {
+      "imdb_id": "tt0070666",
+      "title": "Serpico"
+    },
+    {
+      "imdb_id": "tt0070034",
+      "title": "Opera\u00e7\u00e3o Drag\u00e3o"
+    },
+    {
+      "imdb_id": "tt0068473",
+      "title": "Amargo Pesadelo"
+    },
+    {
+      "imdb_id": "tt0067140",
+      "title": "Quando Explode a Vingan\u00e7a"
+    },
+    {
+      "imdb_id": "tt0067116",
+      "title": "Opera\u00e7\u00e3o Fran\u00e7a"
+    },
+    {
+      "imdb_id": "tt0066999",
+      "title": "Perseguidor Implac\u00e1vel"
+    },
+    {
+      "imdb_id": "tt0065207",
+      "title": "O Desafio das \u00c1guias"
+    },
+    {
+      "imdb_id": "tt0063374",
+      "title": "Um Estranho Casal"
+    },
+    {
+      "imdb_id": "tt0061395",
+      "title": "A Bela da Tarde"
+    },
+    {
+      "imdb_id": "tt0060665",
+      "title": "O Homem que N\u00e3o Vendeu sua Alma"
+    },
+    {
+      "imdb_id": "tt0059646",
+      "title": "Repulsa ao Sexo"
+    },
+    {
+      "imdb_id": "tt0058777",
+      "title": "Zulu"
+    },
+    {
+      "imdb_id": "tt0058150",
+      "title": "007 Contra Goldfinger"
+    },
+    {
+      "imdb_id": "tt0056869",
+      "title": "Os P\u00e1ssaros"
+    },
+    {
+      "imdb_id": "tt0054698",
+      "title": "Bonequinha de Luxo"
+    },
+    {
+      "imdb_id": "tt0054167",
+      "title": "A Tortura do Medo"
+    },
+    {
+      "imdb_id": "tt0054047",
+      "title": "Sete Homens e um Destino"
+    },
+    {
+      "imdb_id": "tt0049366",
+      "title": "Vampiros de Almas"
+    },
+    {
+      "imdb_id": "tt0048545",
+      "title": "Juventude Transviada"
+    },
+    {
+      "imdb_id": "tt0047437",
+      "title": "Sabrina"
+    },
+    {
+      "imdb_id": "tt0043456",
+      "title": "O Dia em que a Terra Parou"
+    },
+    {
+      "imdb_id": "tt0043265",
+      "title": "Uma Aventura na \u00c1frica"
+    },
+    {
+      "imdb_id": "tt0038559",
+      "title": "Gilda"
+    },
+    {
+      "imdb_id": "tt0037017",
+      "title": "Um Barco e Nove Destinos"
+    },
+    {
+      "imdb_id": "tt0026029",
+      "title": "39 Degraus"
+    },
+    {
+      "imdb_id": "tt0024184",
+      "title": "O Homem Invis\u00edvel"
+    },
+    {
+      "imdb_id": "tt8404614",
+      "title": "Dois Papas"
+    },
+    {
+      "imdb_id": "tt8291806",
+      "title": "Dor e Gl\u00f3ria"
+    },
+    {
+      "imdb_id": "tt7668870",
+      "title": "Buscando..."
+    },
+    {
+      "imdb_id": "tt6543652",
+      "title": "Guerra Fria"
+    },
+    {
+      "imdb_id": "tt6304162",
+      "title": "Sem Amor"
+    },
+    {
+      "imdb_id": "tt5649144",
+      "title": "Projeto Fl\u00f3rida"
+    },
+    {
+      "imdb_id": "tt5083738",
+      "title": "A Favorita"
+    },
+    {
+      "imdb_id": "tt4481414",
+      "title": "Um La\u00e7o de Amor"
+    },
+    {
+      "imdb_id": "tt3966404",
+      "title": "Cinco Gra\u00e7as"
+    },
+    {
+      "imdb_id": "tt3896198",
+      "title": "Guardi\u00f5es da Gal\u00e1xia Vol. 2"
+    },
+    {
+      "imdb_id": "tt3890160",
+      "title": "Em Ritmo de Fuga"
+    },
+    {
+      "imdb_id": "tt3682448",
+      "title": "Ponte dos Espi\u00f5es"
+    },
+    {
+      "imdb_id": "tt3521164",
+      "title": "Moana: Um Mar de Aventuras"
+    },
+    {
+      "imdb_id": "tt3397884",
+      "title": "Sicario: Terra de Ningu\u00e9m"
+    },
+    {
+      "imdb_id": "tt3076658",
+      "title": "Creed: Nascido para Lutar"
+    },
+    {
+      "imdb_id": "tt2802154",
+      "title": "Leviat\u00e3"
+    },
+    {
+      "imdb_id": "tt2582782",
+      "title": "A Qualquer Custo"
+    },
+    {
+      "imdb_id": "tt2431286",
+      "title": "Philomena"
+    },
+    {
+      "imdb_id": "tt2103281",
+      "title": "Planeta dos Macacos: O Confronto"
+    },
+    {
+      "imdb_id": "tt1937149",
+      "title": "O Corpo"
+    },
+    {
+      "imdb_id": "tt1899353",
+      "title": "Opera\u00e7\u00e3o Invas\u00e3o"
+    },
+    {
+      "imdb_id": "tt1855199",
+      "title": "Marcados Para Morrer"
+    },
+    {
+      "imdb_id": "tt1649419",
+      "title": "O Imposs\u00edvel"
+    },
+    {
+      "imdb_id": "tt1568921",
+      "title": "O Mundo dos Pequeninos"
+    },
+    {
+      "imdb_id": "tt1542344",
+      "title": "127 Horas"
+    },
+    {
+      "imdb_id": "tt1436045",
+      "title": "13 Assassinos"
+    },
+    {
+      "imdb_id": "tt1403865",
+      "title": "Bravura Ind\u00f4mita"
+    },
+    {
+      "imdb_id": "tt1340107",
+      "title": "Em um Mundo Melhor"
+    },
+    {
+      "imdb_id": "tt1323594",
+      "title": "Meu Malvado Favorito"
+    },
+    {
+      "imdb_id": "tt1318514",
+      "title": "Planeta dos Macacos: A Origem"
+    },
+    {
+      "imdb_id": "tt1306980",
+      "title": "50%"
+    },
+    {
+      "imdb_id": "tt1250777",
+      "title": "Kick-Ass: Quebrando Tudo"
+    },
+    {
+      "imdb_id": "tt1242422",
+      "title": "Cela 211"
+    },
+    {
+      "imdb_id": "tt1210166",
+      "title": "O Homem Que Mudou o Jogo"
+    },
+    {
+      "imdb_id": "tt1189073",
+      "title": "A Pele que Habito"
+    },
+    {
+      "imdb_id": "tt1156398",
+      "title": "Zumbil\u00e2ndia"
+    },
+    {
+      "imdb_id": "tt1078188",
+      "title": "Rapaz A"
+    },
+    {
+      "imdb_id": "tt1063669",
+      "title": "A Onda"
+    },
+    {
+      "imdb_id": "tt0988045",
+      "title": "Sherlock Holmes"
+    },
+    {
+      "imdb_id": "tt0983213",
+      "title": "Cinco Cent\u00edmetros por Segundo"
+    },
+    {
+      "imdb_id": "tt0976051",
+      "title": "O Leitor"
+    },
+    {
+      "imdb_id": "tt0887912",
+      "title": "Guerra ao Terror"
+    },
+    {
+      "imdb_id": "tt0878804",
+      "title": "Um Sonho Poss\u00edvel"
+    },
+    {
+      "imdb_id": "tt0857191",
+      "title": "O Visitante"
+    },
+    {
+      "imdb_id": "tt0829482",
+      "title": "Superbad: \u00c9 Hoje"
+    },
+    {
+      "imdb_id": "tt0814314",
+      "title": "Sete Vidas"
+    },
+    {
+      "imdb_id": "tt0765443",
+      "title": "Senhores do Crime"
+    },
+    {
+      "imdb_id": "tt0486655",
+      "title": "Stardust: O Mist\u00e9rio da Estrela"
+    },
+    {
+      "imdb_id": "tt0485601",
+      "title": "Uma Viagem ao Mundo das F\u00e1bulas"
+    },
+    {
+      "imdb_id": "tt0454848",
+      "title": "O Plano Perfeito"
+    },
+    {
+      "imdb_id": "tt0452623",
+      "title": "Medo da Verdade"
+    },
+    {
+      "imdb_id": "tt0451094",
+      "title": "Lady Vingan\u00e7a"
+    },
+    {
+      "imdb_id": "tt0450188",
+      "title": "Piaf Um Hino Ao Amor"
+    },
+    {
+      "imdb_id": "tt0446059",
+      "title": "O Mestre das Armas"
+    },
+    {
+      "imdb_id": "tt0443543",
+      "title": "O Ilusionista"
+    },
+    {
+      "imdb_id": "tt0441909",
+      "title": "Volver - Zur\u00fcckkehren"
+    },
+    {
+      "imdb_id": "tt0427944",
+      "title": "Obrigado por Fumar"
+    },
+    {
+      "imdb_id": "tt0420223",
+      "title": "Mais Estranho que a Fic\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0419677",
+      "title": "Vingan\u00e7a Redentora"
+    },
+    {
+      "imdb_id": "tt0417741",
+      "title": "Harry Potter e o Enigma do Pr\u00edncipe"
+    },
+    {
+      "imdb_id": "tt0416449",
+      "title": "300"
+    },
+    {
+      "imdb_id": "tt0416320",
+      "title": "Ponto Final: Match Point"
+    },
+    {
+      "imdb_id": "tt0409459",
+      "title": "Watchmen: O Filme"
+    },
+    {
+      "imdb_id": "tt0399295",
+      "title": "O Senhor das Armas"
+    },
+    {
+      "imdb_id": "tt0387564",
+      "title": "Jogos Mortais"
+    },
+    {
+      "imdb_id": "tt0383028",
+      "title": "Sin\u00e9doque, Nova York"
+    },
+    {
+      "imdb_id": "tt0370986",
+      "title": "Mist\u00e9rios da Carne"
+    },
+    {
+      "imdb_id": "tt0364517",
+      "title": "Amor ou Consequ\u00eancia"
+    },
+    {
+      "imdb_id": "tt0344510",
+      "title": "Eterno Amor"
+    },
+    {
+      "imdb_id": "tt0340377",
+      "title": "O Agente da Esta\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0314331",
+      "title": "Simplesmente Amor"
+    },
+    {
+      "imdb_id": "tt0310775",
+      "title": "Mr. Vingan\u00e7a"
+    },
+    {
+      "imdb_id": "tt0307901",
+      "title": "A \u00daltima Noite"
+    },
+    {
+      "imdb_id": "tt0289992",
+      "title": "A Vida de David Gale"
+    },
+    {
+      "imdb_id": "tt0289879",
+      "title": "Efeito Borboleta"
+    },
+    {
+      "imdb_id": "tt0289043",
+      "title": "Exterm\u00ednio"
+    },
+    {
+      "imdb_id": "tt0277027",
+      "title": "Uma Li\u00e7\u00e3o de Amor"
+    },
+    {
+      "imdb_id": "tt0266308",
+      "title": "Batalha Real"
+    },
+    {
+      "imdb_id": "tt0265666",
+      "title": "Os Exc\u00eantricos Tenenbaums"
+    },
+    {
+      "imdb_id": "tt0245574",
+      "title": "E sua M\u00e3e Tamb\u00e9m"
+    },
+    {
+      "imdb_id": "tt0241527",
+      "title": "Harry Potter e a Pedra Filosofal"
+    },
+    {
+      "imdb_id": "tt0230600",
+      "title": "Os Outros"
+    },
+    {
+      "imdb_id": "tt0221027",
+      "title": "Profiss\u00e3o de Risco"
+    },
+    {
+      "imdb_id": "tt0215750",
+      "title": "C\u00edrculo de Fogo"
+    },
+    {
+      "imdb_id": "tt0181865",
+      "title": "Traffic: Ningu\u00e9m Sai Limpo"
+    },
+    {
+      "imdb_id": "tt0181689",
+      "title": "Minority Report: A Nova Lei"
+    },
+    {
+      "imdb_id": "tt0174856",
+      "title": "Hurricane, o Furac\u00e3o"
+    },
+    {
+      "imdb_id": "tt0144084",
+      "title": "Psicopata Americano"
+    },
+    {
+      "imdb_id": "tt0130827",
+      "title": "Corra, Lola, Corra"
+    },
+    {
+      "imdb_id": "tt0120863",
+      "title": "Al\u00e9m da Linha Vermelha"
+    },
+    {
+      "imdb_id": "tt0120802",
+      "title": "O Violino Vermelho"
+    },
+    {
+      "imdb_id": "tt0120762",
+      "title": "Mulan"
+    },
+    {
+      "imdb_id": "tt0120669",
+      "title": "Medo e Del\u00edrio"
+    },
+    {
+      "imdb_id": "tt0119167",
+      "title": "Viol\u00eancia Gratuita"
+    },
+    {
+      "imdb_id": "tt0118929",
+      "title": "Cidade das Sombras"
+    },
+    {
+      "imdb_id": "tt0117665",
+      "title": "Sleepers: A Vingan\u00e7a Adormecida"
+    },
+    {
+      "imdb_id": "tt0116922",
+      "title": "Estrada Perdida"
+    },
+    {
+      "imdb_id": "tt0114388",
+      "title": "Raz\u00e3o e Sensibilidade"
+    },
+    {
+      "imdb_id": "tt0112864",
+      "title": "Duro de Matar 3: A Vingan\u00e7a"
+    },
+    {
+      "imdb_id": "tt0112817",
+      "title": "Homem Morto"
+    },
+    {
+      "imdb_id": "tt0112579",
+      "title": "As Pontes de Madison"
+    },
+    {
+      "imdb_id": "tt0112384",
+      "title": "Apollo 13: Do Desastre ao Triunfo"
+    },
+    {
+      "imdb_id": "tt0111507",
+      "title": "A Igualdade \u00e9 Branca"
+    },
+    {
+      "imdb_id": "tt0110148",
+      "title": "Entrevista com o Vampiro"
+    },
+    {
+      "imdb_id": "tt0109506",
+      "title": "O Corvo"
+    },
+    {
+      "imdb_id": "tt0107007",
+      "title": "Anjos Assassinos"
+    },
+    {
+      "imdb_id": "tt0106856",
+      "title": "Um Dia de F\u00faria"
+    },
+    {
+      "imdb_id": "tt0106677",
+      "title": "Jovens, Loucos e Rebeldes"
+    },
+    {
+      "imdb_id": "tt0104952",
+      "title": "Meu Primo Vinny"
+    },
+    {
+      "imdb_id": "tt0103939",
+      "title": "Chaplin"
+    },
+    {
+      "imdb_id": "tt0101700",
+      "title": "Delicatessen"
+    },
+    {
+      "imdb_id": "tt0099810",
+      "title": "A Ca\u00e7ada ao Outubro Vermelho"
+    },
+    {
+      "imdb_id": "tt0099785",
+      "title": "Esqueceram de Mim"
+    },
+    {
+      "imdb_id": "tt0099674",
+      "title": "O Poderoso Chef\u00e3o III"
+    },
+    {
+      "imdb_id": "tt0098635",
+      "title": "Harry e Sally: Feitos um para o Outro"
+    },
+    {
+      "imdb_id": "tt0097958",
+      "title": "F\u00e9rias Frustradas de Natal"
+    },
+    {
+      "imdb_id": "tt0097757",
+      "title": "A Pequena Sereia"
+    },
+    {
+      "imdb_id": "tt0096754",
+      "title": "O Segredo do Abismo"
+    },
+    {
+      "imdb_id": "tt0095705",
+      "title": "Corra que a Pol\u00edcia vem A\u00ed!"
+    },
+    {
+      "imdb_id": "tt0094947",
+      "title": "Liga\u00e7\u00f5es Perigosas"
+    },
+    {
+      "imdb_id": "tt0093748",
+      "title": "Antes S\u00f3 do que Mal Acompanhado"
+    },
+    {
+      "imdb_id": "tt0093409",
+      "title": "M\u00e1quina Mort\u00edfera"
+    },
+    {
+      "imdb_id": "tt0087469",
+      "title": "Indiana Jones e o Templo da Perdi\u00e7\u00e3o"
+    },
+    {
+      "imdb_id": "tt0086979",
+      "title": "Gosto de Sangue"
+    },
+    {
+      "imdb_id": "tt0085959",
+      "title": "Monty Python - O Sentido da Vida"
+    },
+    {
+      "imdb_id": "tt0084707",
+      "title": "A Escolha de Sofia"
+    },
+    {
+      "imdb_id": "tt0084649",
+      "title": "A Ratinha Valente"
+    },
+    {
+      "imdb_id": "tt0082846",
+      "title": "Num Lago Dourado"
+    },
+    {
+      "imdb_id": "tt0082694",
+      "title": "Mad Max 2: A Ca\u00e7ada Continua"
+    },
+    {
+      "imdb_id": "tt0080120",
+      "title": "Os Selvagens da Noite"
+    },
+    {
+      "imdb_id": "tt0079588",
+      "title": "Muppets: O Filme"
+    },
+    {
+      "imdb_id": "tt0079116",
+      "title": "Alcatraz: Fuga Imposs\u00edvel"
+    },
+    {
+      "imdb_id": "tt0078480",
+      "title": "Uma Grande Aventura"
+    },
+    {
+      "imdb_id": "tt0077928",
+      "title": "O Expresso da Meia-Noite"
+    },
+    {
+      "imdb_id": "tt0075860",
+      "title": "Contatos Imediatos do Terceiro Grau"
+    },
+    {
+      "imdb_id": "tt0073582",
+      "title": "Prel\u00fadio Para Matar"
+    },
+    {
+      "imdb_id": "tt0070608",
+      "title": "Robin Hood"
+    },
+    {
+      "imdb_id": "tt0066765",
+      "title": "E Agora para Algo Completamente Diferente"
+    },
+    {
+      "imdb_id": "tt0065938",
+      "title": "Os Guerreiros Pilantras"
+    },
+    {
+      "imdb_id": "tt0063462",
+      "title": "Primavera para Hitler"
+    },
+    {
+      "imdb_id": "tt0061852",
+      "title": "Mogli, o Menino Lobo"
+    },
+    {
+      "imdb_id": "tt0060176",
+      "title": "Blow-Up - Depois Daquele Beijo"
+    },
+    {
+      "imdb_id": "tt0059592",
+      "title": "O Dem\u00f4nio das Onze Horas"
+    },
+    {
+      "imdb_id": "tt0058182",
+      "title": "Os Reis do I\u00e9-I\u00e9-I\u00e9"
+    },
+    {
+      "imdb_id": "tt0057345",
+      "title": "O Desprezo"
+    },
+    {
+      "imdb_id": "tt0056193",
+      "title": "Lolita"
+    },
+    {
+      "imdb_id": "tt0049261",
+      "title": "Assim Caminha a Humanidade"
+    },
+    {
+      "imdb_id": "tt0046303",
+      "title": "Os Brutos Tamb\u00e9m Amam"
+    },
+    {
+      "imdb_id": "tt0045793",
+      "title": "A um Passo da Eternidade"
+    },
+    {
+      "imdb_id": "tt0029583",
+      "title": "Branca de Neve e os Sete An\u00f5es"
+    },
+    {
+      "imdb_id": "tt0840361",
+      "title": "Atra\u00e7\u00e3o Perigosa"
+    },
+    {
+      "imdb_id": "tt0441773",
+      "title": "Kung Fu Panda"
+    },
+    {
+      "imdb_id": "tt0217505",
+      "title": "Gangues de Nova York"
+    },
+    {
+      "imdb_id": "tt0091064",
+      "title": "A Mosca"
+    }
+  ]
+}
