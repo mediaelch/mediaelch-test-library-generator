@@ -1,0 +1,74 @@
+{
+  "video": [
+    {
+      "name": "Big Buck Bunny MP4 320x180",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "name": "Big Buck Bunny M4V 640x360",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_640x360.m4v"
+    },
+    {
+      "name": "Big Buck Bunny MOV 1080p",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_h264.mov"
+    },
+    {
+      "name": "Big Buck Bunny AVI 1080p Stereo",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_stereo.avi"
+    },
+    {
+      "name": "Big Buck Bunny OGG 1080p Stereo",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_stereo.ogg"
+    },
+    {
+      "name": "Big Buck Bunny AVI 1080p Surround",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_surround.avi"
+    },
+    {
+      "name": "Big Buck Bunny MOV 480p h264",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_h264.mov"
+    },
+    {
+      "name": "Big Buck Bunny AVI 480p Stereo",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_stereo.avi"
+    },
+    {
+      "name": "Big Buck Bunny OGG 480p Stereo",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_stereo.ogg"
+    },
+    {
+      "name": "Big Buck Bunny AVI 480p Surround",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_surround.avi"
+    },
+    {
+      "name": "Big Buck Bunny MOV 720p h264",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov"
+    },
+    {
+      "name": "Big Buck Bunny AVI 720p Stereo",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_stereo.avi"
+    },
+    {
+      "name": "Big Buck Bunny OGG 720p Stereo",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_stereo.ogg"
+    },
+    {
+      "name": "Big Buck Bunny AVI 720p Surround",
+      "license": "CC BY 3.0",
+      "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_surround.avi"
+    }
+  ]
+}
