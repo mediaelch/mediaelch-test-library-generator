@@ -16,7 +16,7 @@ The generated library can be configured to follow certain naming conventions,
 have non-readable files, minimal or corrupt NFO files, etc.
 
 *Disclaimer:*  
-his repository does not contain any media files nor does it contain URLs to
+This repository does not contain any media files nor does it contain URLs to
 pirated or otherwise illegal movies.
 
 ## Setup Development Environment
@@ -42,8 +42,8 @@ pip install --user -r requirements.txt
 This repository consists of 3 main scripts:
 
  1. `download-movie-titles.py`
- 1. `download-video-samples.py`
- 1. `create-library.py`
+ 2. `download-video-samples.py`
+ 3. `create-library.py`
 
 See the following section for further details.
 
