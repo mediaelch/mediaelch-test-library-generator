@@ -16,17 +16,34 @@ The generated library can be configured to follow certain naming conventions,
 have non-readable files, minimal or corrupt NFO files, etc.
 
 *Disclaimer:*  
-his repository does not contain any media files nor does it contain URLs to
+This repository does not contain any media files nor does it contain URLs to
 pirated or otherwise illegal movies.
 
+## Setup Development Environment
+
+### Using pipenv (Recommended)
+To create the virtual environment:
+```sh
+pipenv install
+```
+
+Subsequently, to activate the virtual environment:
+```sh
+pipenv shell
+```
+
+### Without pipenv
+```sh
+pip install --user -r requirements.txt
+```
 
 ## Scripts
 
 This repository consists of 3 main scripts:
 
  1. `download-movie-titles.py`
- 1. `download-video-samples.py`
- 1. `create-library.py`
+ 2. `download-video-samples.py`
+ 3. `create-library.py`
 
 See the following section for further details.
 
@@ -39,9 +56,6 @@ languages so that you don't have to download the list yourself.
 The script `download-movie-titles.py` is rather easy to use:
 
 ```sh
-# Install Requirements
-pip3 install --user requests
-
 # Show all options
 ./download-movie-titles.py --help
 
@@ -63,9 +77,6 @@ licensed under Creative Commons licenses.
 To download sample files, use the script `download-video-samples.py`.
 
 ```sh
-# Install Requirements
-pip3 install --user requests
-
 # Show all options
 ./download-video-samples --help
 
@@ -77,9 +88,6 @@ pip3 install --user requests
 ### Generate a Fake Library
 
 ```sh
-# Install Requirements
-pip3 install --user requests
-
 # Show all options
 ./download-video-samples --help
 
