@@ -78,22 +78,22 @@ To download sample files, use the script `download-video-samples.py`.
 
 ```sh
 # Show all options
-./download-video-samples --help
+./download-video-samples.py --help
 
 # Example:
 # Download the sample files and store them in the "common" directory.
-./download-video-samples ./media/common/
+./download-video-samples.py ./media/common/
 ```
 
 ### Generate a Fake Library
 
 ```sh
 # Show all options
-./download-video-samples --help
+./create-library.py --help
 
 # Example:
-# Download the sample files and store them in the "common" directory.
-./download-video-samples ./media/common/
+# Use the German movie list and create sub-directories in ./german_movies
+./create-library.py --clean --movies data/movies_de-DE.json ./german_movies
 ```
 
 [wiki_samples]: https://kodi.wiki/view/Samples

@@ -46,7 +46,7 @@ def main():
     # Parse Arguments
     parser = argparse.ArgumentParser(description='Create a fake library for testing purposes')
     parser.add_argument('--movies',
-                        help='Which movie list to use')
+                        help='Which movie JSON file to use')
     parser.add_argument("output", default="library/movies",
                         help="Output folder")
     parser.add_argument('--clean', dest='clean', action='store_true',
@@ -55,7 +55,7 @@ def main():
     args = parser.parse_args()
     
     if args.movies == "":        
-        print("Require a movie JSON file", file=sys.stderr)
+        print("Requires a movie JSON file", file=sys.stderr)
         exit(1)
 
     basedir = args.output
