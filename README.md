@@ -61,7 +61,7 @@ The script `download-movie-titles.py` is rather easy to use:
 
 # Example:
 # Load all movie titles in German an store them as a JSON file.
-./download-movie-titles.py --count 1000 --lang de-DE --format json data/movies.json
+./download-movie-titles.py --count 1000 --lang de-DE --format json ./data/movies.json
 ```
 
 ### Download Media Files (Samples)

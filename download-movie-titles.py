@@ -10,7 +10,7 @@ import json
 
 def process_imdb_list(html):
     # Regex may change if the IMDb source changes
-    regex = re.compile('<a href="/title/(tt\d{7,8})/[^"]*"\n>([^<]*)</a>')
+    regex = re.compile('<a href="/title/(tt\d{7,8})/[^"]*"\n>([^<]*)</a>\n\s+<span[^>]+>\((\d+)\)')
     movies = regex.findall(html)
     return list(filter(lambda movie : movie[1] != 'See full summary', movies))
 
@@ -44,7 +44,7 @@ def download_movie_titles(lang="en-US", numberOfMovies=1000):
 def write_csv(file, movies):
     with open(file, 'w', newline='\n') as outfile:
         w = csv.writer(outfile, delimiter=";")
-        w.writerow(["id", "title"])
+        w.writerow(["id", "title", "year"])
         for movie in movies:
             w.writerow(movie)
 
@@ -55,7 +55,8 @@ def write_json(file, movies, lang):
     for movie in movies:
         data['movies'].append({
             'imdb_id': movie[0],
-            'title': movie[1]
+            'title': movie[1],
+            'year': movie[2]
         })
 
     with open(file, 'w', newline='\n') as outfile:
@@ -70,8 +71,8 @@ def main():
                         help="Output format (default: csv)")
     parser.add_argument('--lang', default="en-US",
                         help='language for IMDb (format/default: "en-US")')
-    parser.add_argument("output", nargs='?', default="movies.csv",
-                        help="Output file (default: movies.csv)")
+    parser.add_argument("output", nargs='?', default="./movies.csv",
+                        help="Output file (default: ./movies.csv)")
     args = parser.parse_args()
     
     if args.count > 1000:
